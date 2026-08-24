@@ -1,0 +1,851 @@
+employee_id,first_name,last_name,role,base_airport,hire_date,years_of_service,status
+1,Angel,Hill,First Officer,DTW,2013-10-23,12.2,Active
+2,Jill,Rhodes,First Officer,SEA,2001-07-26,24.4,Active
+3,Christopher,Henderson,Flight Attendant,RDU,2021-03-30,4.8,Active
+4,Jeffery,Wagner,Flight Attendant,SEA,1995-11-17,30.1,Active
+5,James,Santos,Lead Flight Attendant,DTW,1995-10-13,30.2,Active
+6,Jeffrey,Lawrence,Flight Attendant,LAX,2011-01-11,15.0,Active
+7,Adam,Shaffer,Flight Attendant,BOS,2018-10-23,7.2,Active
+8,Matthew,Moore,Flight Attendant,LAX,2015-07-15,10.5,Active
+9,Matthew,Davis,Flight Attendant,SLC,2023-02-27,2.8,Active
+10,Melanie,Munoz,Flight Attendant,SEA,1997-11-05,28.2,Active
+11,Jessica,Herrera,Captain,SLC,2018-09-28,7.3,Active
+12,Nicholas,Arnold,Flight Attendant,LAX,2023-08-17,2.4,Active
+13,Christine,Hensley,First Officer,BOS,2019-05-26,6.6,Active
+14,Janet,Williams,Captain,MSP,2011-12-26,14.0,Active
+15,Keith,Miller,Flight Attendant,JFK,2001-09-14,24.3,Active
+16,Craig,Ramirez,Flight Attendant,SLC,2001-11-06,24.2,Active
+17,Michael,Wood,Lead Flight Attendant,SLC,2013-09-12,12.3,Active
+18,Joseph,Zuniga,Flight Attendant,MSP,2001-02-28,24.8,Active
+19,Chelsea,Jackson,Flight Attendant,RDU,2014-01-23,11.9,Active
+20,Frank,Gray,Flight Attendant,RDU,2016-06-12,9.6,Active
+21,Danielle,Hawkins,Flight Attendant,LAX,2024-02-09,1.9,Active
+22,Megan,Parsons,First Officer,SLC,2015-02-20,10.9,Active
+23,Antonio,Stewart,Flight Attendant,BOS,2001-09-26,24.3,Active
+24,Jason,Hahn,Lead Flight Attendant,ATL,2002-11-16,23.1,Active
+25,Leonard,Rios,First Officer,LAX,2020-10-11,5.2,Active
+26,Robin,Ellis,First Officer,LAX,2006-08-21,19.4,Active
+27,John,Hoffman,First Officer,JFK,2002-10-16,23.2,Active
+28,Brenda,Hurst,Flight Attendant,SLC,2002-09-23,23.3,Active
+29,Jeffrey,Bright,Lead Flight Attendant,RDU,2006-10-01,19.3,Active
+30,Christopher,Williams,Flight Attendant,RDU,2009-12-27,16.0,Active
+31,Courtney,Conner,First Officer,SEA,1998-03-24,27.8,Active
+32,Bryan,James,Captain,LGA,2007-06-02,18.6,Active
+33,Allison,Maddox,Lead Flight Attendant,LGA,2024-04-20,1.7,Active
+34,Alexander,Le,Captain,LGA,2020-04-27,5.7,Active
+35,Amanda,Adams,Flight Attendant,JFK,2015-01-20,10.9,Active
+36,Daniel,Graham,Flight Attendant,BOS,2013-11-08,12.1,Active
+37,Stephanie,Liu,Flight Attendant,LGA,2008-05-06,17.7,Active
+38,Vincent,White,Flight Attendant,MSP,2002-09-30,23.3,Active
+39,Monica,Evans,Captain,DTW,2021-11-05,4.2,Active
+40,Chelsea,Hernandez,Flight Attendant,LAX,2013-10-17,12.2,Active
+41,Amber,Osborne,Lead Flight Attendant,BOS,2017-06-06,8.6,Active
+42,Aaron,Nguyen,Flight Attendant,RDU,2010-08-08,15.4,Active
+43,Sarah,Koch,First Officer,SEA,1995-07-29,30.4,Active
+44,Kyle,Brown,Flight Attendant,DTW,2019-06-19,6.5,Active
+45,Stacey,Miller,Flight Attendant,JFK,2020-10-29,5.2,Active
+46,Chad,Hodges,Flight Attendant,LAX,2009-04-18,16.7,Active
+47,David,Alvarez,First Officer,JFK,2017-07-12,8.5,Active
+48,Joseph,Brennan,Flight Attendant,JFK,2011-03-05,14.8,Active
+49,Jason,Ryan,Flight Attendant,MSP,2007-06-13,18.6,Active
+50,James,Collins,Flight Attendant,ATL,2016-06-21,9.5,Active
+51,Debra,Kim,First Officer,ATL,2024-04-09,1.7,Active
+52,David,Walker,Flight Attendant,JFK,2010-03-23,15.8,Active
+53,Brianna,Hall,Lead Flight Attendant,LGA,2004-12-11,21.1,Active
+54,Chad,Welch,Lead Flight Attendant,RDU,2001-06-24,24.5,Active
+55,Rebecca,Heath,Flight Attendant,DTW,2001-09-25,24.3,Active
+56,John,Caldwell,Flight Attendant,LGA,1997-01-31,28.9,Active
+57,David,Walls,Flight Attendant,SLC,2001-04-20,24.7,Active
+58,Thomas,Mueller,Flight Attendant,RDU,2011-10-19,14.2,Active
+59,James,Davis,Flight Attendant,JFK,2018-10-02,7.2,Active
+60,Rodney,Owens,First Officer,SLC,2007-09-06,18.3,Active
+61,Emily,Joyce,Flight Attendant,LGA,2016-06-12,9.6,Active
+62,Richard,Morgan,Flight Attendant,SLC,1997-11-23,28.1,Active
+63,John,Lee,Flight Attendant,JFK,2020-05-06,5.7,Active
+64,Robert,Ramirez,First Officer,MSP,2008-03-12,17.8,Active
+65,Sandra,Ramos,First Officer,ATL,2002-05-07,23.7,Active
+66,Andrea,Williams,First Officer,DTW,2020-05-03,5.7,Active
+67,Mary,Novak,Lead Flight Attendant,SLC,2024-05-24,1.6,Active
+68,Melinda,Martin,Flight Attendant,JFK,2022-04-01,3.8,Active
+69,Jason,Morales,Flight Attendant,MSP,2009-04-14,16.7,Active
+70,Nicholas,Galloway,Flight Attendant,BOS,1996-09-21,29.3,Active
+71,Kristen,Gibson,Flight Attendant,LGA,2002-10-20,23.2,On Leave
+72,Susan,Cowan,Flight Attendant,ATL,2007-06-11,18.6,Active
+73,Jennifer,Moore,First Officer,BOS,2011-05-08,14.7,Active
+74,Tanya,Riley,Flight Attendant,JFK,2003-09-23,22.3,Active
+75,Julie,Brown,Flight Attendant,DTW,2010-12-13,15.1,Active
+76,Wesley,Farrell,Lead Flight Attendant,LGA,2012-03-08,13.8,Active
+77,Susan,Miller,First Officer,MSP,1999-08-19,26.4,Active
+78,Brooke,Leonard,Flight Attendant,LGA,2000-06-19,25.5,Active
+79,David,Zamora,First Officer,BOS,2001-12-02,24.1,Active
+80,Brooke,Harvey,Flight Attendant,BOS,2002-03-30,23.8,Active
+81,Brandy,Mills,Flight Attendant,RDU,2007-05-02,18.7,Active
+82,James,Moran,Flight Attendant,SEA,2022-06-30,3.5,Active
+83,Randy,Powers,Captain,LGA,2002-01-08,24.0,Active
+84,Leslie,Walton,First Officer,RDU,2003-10-29,22.2,Active
+85,Stephen,Murillo,Flight Attendant,BOS,1997-02-18,28.9,Active
+86,Charles,Lewis,Flight Attendant,SLC,2024-04-20,1.7,Active
+87,Sarah,Ibarra,Flight Attendant,BOS,2002-10-20,23.2,Active
+88,Mike,Moore,Flight Attendant,LGA,2020-11-11,5.1,Active
+89,Jade,Carr,Flight Attendant,MSP,2019-07-11,6.5,Active
+90,Destiny,Smith,Flight Attendant,LGA,2024-01-15,2.0,Active
+91,Kevin,Alvarado,Flight Attendant,LGA,2019-01-13,7.0,Active
+92,Dennis,Wilson,Flight Attendant,LAX,2022-08-14,3.4,Active
+93,Angela,Nelson,First Officer,JFK,1998-02-23,27.9,Active
+94,Jennifer,Harris,Flight Attendant,LAX,2012-10-16,13.2,Active
+95,Joseph,Freeman,Flight Attendant,BOS,2013-08-28,12.3,Active
+96,Meghan,Davis,Flight Attendant,LGA,2021-08-18,4.4,Active
+97,Joshua,Smith,First Officer,JFK,2007-06-17,18.5,Active
+98,Dana,Green,Flight Attendant,LAX,2017-09-06,8.3,Active
+99,Andrea,Patterson,Flight Attendant,LGA,2016-10-20,9.2,Active
+100,Charles,Ware,Flight Attendant,DTW,1995-04-14,30.7,Active
+101,Amy,Davenport,Flight Attendant,LAX,2021-08-03,4.4,Active
+102,Earl,Anderson,Flight Attendant,JFK,2012-02-19,13.9,Active
+103,Rachel,Flynn,Lead Flight Attendant,LAX,2004-01-25,21.9,Active
+104,Rachel,Clark,Flight Attendant,SEA,2020-04-26,5.7,Active
+105,Curtis,Deleon,Flight Attendant,SEA,2002-05-04,23.7,Active
+106,Richard,Oliver,Flight Attendant,BOS,2021-01-03,5.0,Active
+107,Sarah,Hancock,Flight Attendant,DTW,1999-07-19,26.5,Active
+108,Lisa,Keith,Flight Attendant,MSP,2023-09-19,2.3,Active
+109,Jill,Cook,Lead Flight Attendant,MSP,1995-09-24,30.3,Active
+110,Leah,Shields,Flight Attendant,JFK,2022-05-19,3.6,Active
+111,Joseph,Cobb,Flight Attendant,SLC,2018-11-06,7.2,Active
+112,Monica,Garrison,Flight Attendant,MSP,1998-03-07,27.8,Active
+113,Lisa,Stevens,Lead Flight Attendant,JFK,2001-07-17,24.5,Active
+114,Laura,Perez,Flight Attendant,DTW,2003-12-23,22.0,Active
+115,James,Murphy,Flight Attendant,SLC,1995-09-12,30.3,Active
+116,Tammy,Ramirez,Flight Attendant,SLC,2020-06-04,5.6,Active
+117,Ricardo,Zavala,Flight Attendant,SEA,2013-11-14,12.1,Active
+118,Sheila,Wilson,Flight Attendant,BOS,2010-10-10,15.2,Active
+119,Gregory,Estes,Flight Attendant,LGA,2023-07-18,2.5,Active
+120,Daniel,Hamilton,First Officer,SLC,2002-10-23,23.2,Active
+121,Lee,Obrien,Flight Attendant,ATL,2016-06-06,9.6,Active
+122,Paul,Ray,Flight Attendant,JFK,2010-01-16,16.0,Active
+123,Jeanne,Smith,Flight Attendant,SLC,2002-06-29,23.5,Active
+124,Amanda,Ball,Lead Flight Attendant,SLC,2022-03-24,3.8,Active
+125,Emily,Diaz,Flight Attendant,RDU,2016-10-28,9.2,Active
+126,Elizabeth,Rivera,Flight Attendant,ATL,1997-01-21,28.9,Active
+127,Melanie,Cortez,Flight Attendant,RDU,2004-03-26,21.8,Active
+128,Kyle,Ortiz,Flight Attendant,SLC,2003-11-01,22.2,Active
+129,Kenneth,Martinez,Flight Attendant,LGA,2006-11-02,19.2,Active
+130,Shelby,Byrd,Flight Attendant,ATL,2007-05-15,18.6,Active
+131,Christina,Turner,Flight Attendant,SEA,2021-07-22,4.4,Active
+132,Aaron,Mitchell,Flight Attendant,LAX,2011-02-13,14.9,Active
+133,Bethany,Pena,First Officer,SLC,2007-08-24,18.4,Active
+134,Scott,Lewis,Flight Attendant,SLC,2008-09-04,17.3,Active
+135,Rachel,Flynn,Flight Attendant,BOS,2008-12-01,17.1,Active
+136,Christopher,Robertson,Flight Attendant,BOS,1999-12-29,26.0,Active
+137,Matthew,Cardenas,Captain,RDU,2013-08-14,12.4,On Leave
+138,Emily,Walker,Flight Attendant,JFK,2017-02-04,8.9,Active
+139,Andrew,Sanchez,Flight Attendant,LGA,2000-11-09,25.1,Active
+140,Melissa,Jones,Flight Attendant,JFK,2008-12-22,17.0,Active
+141,Crystal,Lee,Flight Attendant,LAX,2007-03-11,18.8,Active
+142,Troy,Sanchez,Lead Flight Attendant,SLC,2015-06-26,10.5,Active
+143,Adam,Potter,Captain,LGA,2014-04-19,11.7,Active
+144,Daniel,Coleman,Flight Attendant,ATL,2017-08-26,8.4,Active
+145,Susan,Holmes,Flight Attendant,SLC,2000-03-04,25.8,Active
+146,John,Charles,Lead Flight Attendant,SEA,1996-06-23,29.5,Active
+147,Laurie,Contreras,Flight Attendant,SLC,2008-06-05,17.6,Active
+148,Caitlin,Dodson,Flight Attendant,MSP,2024-01-22,1.9,Active
+149,Cheyenne,Ball,First Officer,LGA,2021-03-22,4.8,Active
+150,Maria,Kelley,Flight Attendant,MSP,2009-11-06,16.2,Active
+151,Julia,Wells,Flight Attendant,RDU,2021-05-23,4.6,Active
+152,John,Walsh,Flight Attendant,BOS,2002-08-16,23.4,Active
+153,Adrienne,Sims,Flight Attendant,ATL,2017-07-11,8.5,Active
+154,Chris,Mitchell,Flight Attendant,SLC,2003-01-29,22.9,Active
+155,Luis,Fernandez,Flight Attendant,RDU,2002-12-29,23.0,Active
+156,Jesse,Benson,Flight Attendant,RDU,1999-01-26,26.9,Active
+157,Caleb,Russell,Flight Attendant,ATL,2015-10-12,10.2,Active
+158,Robert,Clark,Flight Attendant,DTW,2010-12-17,15.0,Active
+159,Rebecca,Silva,Flight Attendant,SLC,2007-05-12,18.6,Active
+160,Melissa,Cannon,First Officer,MSP,2015-06-17,10.5,Active
+161,Adam,Bell,Flight Attendant,LGA,2006-03-10,19.8,Active
+162,Melissa,Ashley,Captain,MSP,2017-03-01,8.8,Active
+163,Julie,Payne,Flight Attendant,ATL,2007-04-29,18.7,Active
+164,Jeffrey,Robinson,Flight Attendant,LAX,2012-09-29,13.3,Active
+165,Anthony,Rogers,Flight Attendant,SLC,2007-10-27,18.2,Active
+166,Richard,Martin,First Officer,SEA,2014-12-23,11.0,Active
+167,David,Dean,Flight Attendant,JFK,2008-09-30,17.3,Active
+168,Phillip,Elliott,Lead Flight Attendant,LGA,1995-10-17,30.2,Active
+169,Dawn,Taylor,Flight Attendant,SEA,1995-10-19,30.2,Active
+170,Brent,Gray,First Officer,SEA,2008-07-31,17.4,Active
+171,Mark,Juarez,Flight Attendant,SLC,2001-03-24,24.8,Active
+172,Karen,Decker,First Officer,LAX,2006-02-25,19.8,Active
+173,Christopher,Smith,Flight Attendant,SLC,2002-06-03,23.6,Active
+174,Zoe,Bell,Captain,LAX,2010-11-13,15.1,Active
+175,Kimberly,Pearson,First Officer,DTW,2014-02-15,11.9,Active
+176,Stefanie,Gonzalez,First Officer,LGA,2017-03-09,8.8,Active
+177,Elijah,Martinez,First Officer,ATL,1995-08-07,30.4,Active
+178,Anne,Robinson,Flight Attendant,BOS,2014-09-10,11.3,Active
+179,Katie,Jackson,Flight Attendant,ATL,2015-07-30,10.4,Active
+180,Julie,Wilson,First Officer,SEA,2012-11-11,13.1,Active
+181,Tami,Rodriguez,Flight Attendant,JFK,2019-02-06,6.9,Active
+182,Larry,Byrd,Captain,DTW,1995-10-03,30.2,Active
+183,Randy,Espinoza,Captain,ATL,2023-03-09,2.8,Active
+184,Hannah,Burton,Flight Attendant,ATL,1997-03-27,28.8,Active
+185,Kendra,Jefferson,Flight Attendant,JFK,1997-12-30,28.0,Active
+186,David,Riggs,Lead Flight Attendant,JFK,2012-08-29,13.3,Active
+187,Michael,Patterson,Flight Attendant,ATL,2018-01-08,8.0,Active
+188,William,Peterson,Lead Flight Attendant,RDU,2005-11-25,20.1,Active
+189,Lynn,Garcia,Flight Attendant,MSP,2019-12-28,6.0,Active
+190,Cynthia,Poole,Flight Attendant,JFK,2023-04-06,2.7,Active
+191,Ryan,Gross,Flight Attendant,MSP,2015-10-22,10.2,Active
+192,Joseph,Morton,First Officer,LGA,2023-05-27,2.6,Active
+193,Timothy,Graham,Flight Attendant,DTW,2010-10-31,15.2,Active
+194,Joseph,Christian,Flight Attendant,RDU,2016-07-03,9.5,Active
+195,Christopher,Keith,Captain,JFK,2019-06-09,6.6,Active
+196,Steven,Bishop,Flight Attendant,LGA,2002-03-05,23.8,Active
+197,Anthony,Rosales,First Officer,LAX,2006-02-23,19.9,Active
+198,Jason,Salinas,Flight Attendant,SEA,2000-05-07,25.7,On Leave
+199,Nicole,Haynes,Flight Attendant,MSP,2005-01-04,21.0,Active
+200,Alejandro,Vaughan,Lead Flight Attendant,RDU,2003-02-16,22.9,Active
+201,Jennifer,Freeman,Flight Attendant,RDU,1997-07-08,28.5,Active
+202,Hannah,Brewer,Flight Attendant,DTW,2017-04-20,8.7,Active
+203,Laura,Davis,Flight Attendant,MSP,2009-06-09,16.6,Active
+204,Heather,Torres,Flight Attendant,LAX,2001-07-08,24.5,Active
+205,Thomas,Schmidt,Captain,DTW,2012-02-09,13.9,Active
+206,Julie,Rivera,Flight Attendant,RDU,2007-07-08,18.5,Active
+207,Joseph,King,Flight Attendant,ATL,2015-09-04,10.3,Active
+208,James,Wilson,Flight Attendant,LAX,1998-07-20,27.5,Active
+209,Kathleen,Lopez,Flight Attendant,RDU,2010-10-06,15.2,Active
+210,Todd,Hardy,Flight Attendant,SLC,2001-05-13,24.6,Active
+211,Alicia,Campbell,Captain,SLC,2023-09-23,2.3,Active
+212,James,Perez,Flight Attendant,JFK,1997-12-16,28.0,Active
+213,Alexis,Ferguson,Flight Attendant,DTW,2000-04-11,25.7,Active
+214,Terri,Tran,Flight Attendant,RDU,2003-01-26,22.9,Active
+215,David,Oneill,Lead Flight Attendant,JFK,2015-07-08,10.5,Active
+216,Monique,Andrews,Lead Flight Attendant,DTW,2009-06-10,16.6,Active
+217,Scott,Lopez,Flight Attendant,LAX,2008-10-22,17.2,Active
+218,Shelley,Woods,Flight Attendant,RDU,1996-07-05,29.5,Active
+219,Richard,Jones,First Officer,DTW,2019-03-08,6.8,Active
+220,Brian,Hernandez,Lead Flight Attendant,RDU,2013-07-07,12.5,Active
+221,Kevin,Mcknight,Captain,ATL,2011-07-23,14.4,Active
+222,Kathy,Obrien,Flight Attendant,SEA,1998-06-26,27.5,Active
+223,Jeremiah,Mills,Flight Attendant,BOS,2018-04-05,7.7,Active
+224,Scott,Dalton,Captain,SLC,2008-04-02,17.7,Active
+225,Kevin,Oliver,Flight Attendant,SEA,2024-02-14,1.9,Active
+226,Jody,Meza,Flight Attendant,DTW,2012-12-06,13.1,Active
+227,Jason,Guerrero,Flight Attendant,BOS,2001-02-10,24.9,Active
+228,Glenn,Jones,Flight Attendant,SEA,1999-08-15,26.4,Active
+229,Shannon,Wheeler,Flight Attendant,ATL,1995-01-29,30.9,Active
+230,Jesse,Mann,Captain,SLC,2003-07-27,22.4,Active
+231,Shawn,Mcdaniel,First Officer,LGA,2015-09-05,10.3,Active
+232,Kristin,Weber,Flight Attendant,DTW,2022-03-06,3.8,Active
+233,Sarah,Coleman,Flight Attendant,SLC,2014-06-13,11.6,Active
+234,Deborah,Kerr,Flight Attendant,SEA,2011-01-07,15.0,Active
+235,Charles,Martin,Flight Attendant,LGA,2019-04-26,6.7,Active
+236,Kaitlyn,Carroll,Flight Attendant,MSP,2004-01-18,22.0,Active
+237,David,Barker,Flight Attendant,SLC,2003-06-28,22.5,Active
+238,Sherri,Mason,Flight Attendant,MSP,2015-08-01,10.4,Active
+239,Christopher,Williams,Captain,BOS,2009-07-11,16.5,Active
+240,Marcus,Wright,Flight Attendant,LAX,2007-09-16,18.3,Active
+241,Suzanne,Huff,Flight Attendant,RDU,1997-09-08,28.3,Active
+242,Stephanie,Key,Captain,BOS,2011-12-02,14.1,Active
+243,Joseph,Williams,Lead Flight Attendant,LGA,2014-10-10,11.2,Active
+244,Thomas,Pearson,Flight Attendant,LGA,2017-03-31,8.8,Active
+245,Howard,Richards,Flight Attendant,SLC,2021-12-12,4.1,Active
+246,Travis,Davis,Flight Attendant,RDU,2013-09-03,12.3,Active
+247,Mathew,Santiago,Flight Attendant,LAX,2005-03-27,20.8,Active
+248,Mark,Steele,Flight Attendant,SEA,2020-03-25,5.8,Active
+249,Sierra,Cervantes,First Officer,JFK,2003-06-24,22.5,Active
+250,Shawn,Edwards,Flight Attendant,DTW,2011-03-08,14.8,Active
+251,Tara,Powell,Flight Attendant,LAX,2004-07-05,21.5,Active
+252,Vanessa,Sandoval,Lead Flight Attendant,LGA,2010-02-19,15.9,Active
+253,Robert,Lopez,Flight Attendant,JFK,2010-12-17,15.0,Active
+254,Katherine,Garrett,Flight Attendant,LGA,2005-08-22,20.4,Active
+255,James,Dunn,Flight Attendant,RDU,2017-05-10,8.6,Active
+256,Samuel,Wolfe,Captain,RDU,2022-04-15,3.7,Active
+257,Teresa,Lynch,Captain,SLC,1998-07-28,27.4,Active
+258,Eric,Pierce,Flight Attendant,SEA,2002-01-15,24.0,Active
+259,Christopher,Gay,Flight Attendant,ATL,2011-03-31,14.8,Inactive
+260,Steven,Wilson,Lead Flight Attendant,LGA,2021-11-08,4.1,Active
+261,Tyrone,Moran,Flight Attendant,SEA,2019-06-24,6.5,Active
+262,Joshua,Davenport,Flight Attendant,MSP,2009-12-20,16.0,Active
+263,John,Arnold,Flight Attendant,LGA,2023-11-01,2.2,Active
+264,Sandra,Romero,Flight Attendant,JFK,2006-04-14,19.7,Active
+265,Michelle,Hill,Flight Attendant,SEA,2020-11-12,5.1,Active
+266,Robert,Villa,Captain,LAX,2018-03-28,7.8,Active
+267,Lori,Campbell,Lead Flight Attendant,SEA,2009-12-08,16.1,Active
+268,Brenda,Duarte,First Officer,LAX,2003-10-13,22.2,Active
+269,Edgar,Ryan,Captain,RDU,2009-05-27,16.6,On Leave
+270,Andrea,Daniels,Flight Attendant,LAX,2005-02-25,20.8,Active
+271,Marc,Lopez,Flight Attendant,BOS,2008-05-24,17.6,Active
+272,Ashley,Hall,Flight Attendant,ATL,2015-07-08,10.5,Active
+273,Bradley,Garner,Captain,BOS,2017-10-24,8.2,Active
+274,Lisa,Hughes,Flight Attendant,JFK,2015-09-29,10.3,Active
+275,Lori,Pollard,Flight Attendant,DTW,2014-07-10,11.5,Active
+276,Benjamin,Shaw,First Officer,JFK,2009-07-27,16.4,Inactive
+277,Molly,Sawyer,First Officer,SLC,2012-05-11,13.6,Active
+278,Alicia,Bryant,Flight Attendant,LGA,2007-12-14,18.1,Active
+279,Robert,Pena,Flight Attendant,BOS,2016-04-01,9.8,Active
+280,Terrance,Costa,First Officer,JFK,1999-07-17,26.5,Active
+281,Heather,Santos,First Officer,LGA,2004-12-16,21.0,Active
+282,Melissa,Villarreal,Lead Flight Attendant,LGA,2020-01-21,5.9,Active
+283,Levi,Higgins,Flight Attendant,LGA,2006-03-06,19.8,Active
+284,Monique,Johnson,Flight Attendant,ATL,2017-05-04,8.7,Inactive
+285,Crystal,Mccall,First Officer,DTW,1997-01-05,29.0,Active
+286,Julie,Hamilton,Flight Attendant,LAX,2024-05-04,1.7,Active
+287,Cynthia,Brennan,First Officer,JFK,1997-11-23,28.1,Active
+288,Heather,Berger,First Officer,SLC,2008-01-19,18.0,Active
+289,Laura,Carter,Flight Attendant,JFK,1996-05-09,29.6,Active
+290,Dustin,Schmidt,Flight Attendant,LAX,2006-01-10,20.0,Active
+291,Laura,Jackson,Flight Attendant,RDU,2011-08-25,14.4,Active
+292,Monica,Harvey,First Officer,SEA,1997-04-28,28.7,Active
+293,Roberta,Thomas,Flight Attendant,LGA,2002-01-31,23.9,Active
+294,Jonathan,Scott,Flight Attendant,BOS,2008-07-25,17.4,Active
+295,Linda,Santana,Flight Attendant,BOS,1995-04-11,30.7,Active
+296,Eric,Alexander,Flight Attendant,SEA,2014-12-07,11.1,Active
+297,Briana,Fowler,First Officer,SLC,2005-03-01,20.8,Active
+298,John,Bruce,Flight Attendant,BOS,2007-06-25,18.5,Active
+299,Paul,Webb,First Officer,SEA,2000-11-10,25.1,Active
+300,Ashley,Andrews,Captain,SEA,2001-12-23,24.0,Active
+301,Kenneth,Spence,Flight Attendant,LGA,2024-03-14,1.8,Active
+302,Joshua,Knight,Flight Attendant,LAX,2014-05-13,11.6,Active
+303,Julie,Williams,Lead Flight Attendant,LAX,2015-03-05,10.8,Active
+304,Tyler,Strong,Flight Attendant,LAX,2012-11-02,13.2,Active
+305,Lauren,Lawson,Flight Attendant,JFK,2003-06-02,22.6,Active
+306,Dana,Oliver,Flight Attendant,DTW,2005-05-13,20.6,Active
+307,Jennifer,Hopkins,Flight Attendant,JFK,2014-12-08,11.1,Active
+308,Courtney,Berger,Flight Attendant,SEA,2019-08-30,6.3,Active
+309,Kyle,Alexander,Flight Attendant,DTW,2014-01-05,12.0,Active
+310,Jessica,Davis,Flight Attendant,BOS,2012-01-18,14.0,Active
+311,Julie,Thompson,Flight Attendant,MSP,2003-09-06,22.3,Active
+312,Amber,Mata,Captain,JFK,1998-11-20,27.1,Active
+313,Robin,Rivas,First Officer,JFK,2010-08-13,15.4,Active
+314,Makayla,Olson,Flight Attendant,LGA,2002-07-23,23.4,Active
+315,Julie,Morgan,Flight Attendant,LAX,2018-09-21,7.3,Active
+316,Sydney,Taylor,Flight Attendant,RDU,1998-05-22,27.6,Active
+317,Michelle,Ramsey,Lead Flight Attendant,BOS,2023-06-07,2.6,Active
+318,Tammy,Ballard,Flight Attendant,RDU,2023-10-29,2.2,Active
+319,Krystal,Smith,First Officer,LAX,2005-10-04,20.2,Active
+320,Shawn,Chambers,Flight Attendant,DTW,2010-10-13,15.2,Active
+321,Brenda,Carson,Captain,JFK,2014-10-11,11.2,Active
+322,Daniel,Hall,Flight Attendant,LAX,2022-08-29,3.3,On Leave
+323,Nicole,Hoffman,Lead Flight Attendant,JFK,1995-09-26,30.3,Active
+324,Jeffrey,Brown,Flight Attendant,SEA,2021-12-03,4.1,Active
+325,Regina,Turner,Flight Attendant,MSP,2019-03-27,6.8,Active
+326,Donald,Shah,Captain,LAX,2007-01-04,19.0,Active
+327,Travis,Davis,Flight Attendant,ATL,2003-12-15,22.0,Active
+328,Derek,Chavez,Flight Attendant,BOS,2021-02-05,4.9,Active
+329,Julia,Bautista,Flight Attendant,MSP,2014-09-21,11.3,Active
+330,Julia,Moore,Flight Attendant,LAX,2007-05-01,18.7,On Leave
+331,Corey,Burns,Flight Attendant,ATL,2007-03-16,18.8,Active
+332,Stephanie,Johnson,First Officer,ATL,2007-01-02,19.0,Active
+333,Scott,Sampson,Captain,BOS,2005-11-24,20.1,Active
+334,Cory,Jennings,Lead Flight Attendant,LAX,2020-02-29,5.8,Active
+335,Tiffany,Howard,Flight Attendant,MSP,2011-01-06,15.0,Active
+336,James,Martinez,Flight Attendant,LGA,2006-09-17,19.3,Active
+337,Shawn,Bates,Flight Attendant,DTW,2019-12-12,6.1,Active
+338,Carla,Smith,Flight Attendant,ATL,2013-11-16,12.1,Active
+339,John,Martinez,Flight Attendant,RDU,2018-02-22,7.9,Active
+340,Casey,Hubbard,First Officer,LAX,2011-08-10,14.4,Active
+341,Jason,Kane,Flight Attendant,LGA,2001-02-03,24.9,Active
+342,Dylan,Lester,Lead Flight Attendant,LGA,2004-08-31,21.3,Active
+343,Michele,Thomas,First Officer,LGA,1995-01-31,30.9,Active
+344,John,Thompson,Flight Attendant,SEA,1998-10-28,27.2,Active
+345,Anthony,Smith,Flight Attendant,MSP,2014-06-12,11.6,Active
+346,John,Morris,Lead Flight Attendant,ATL,2018-03-28,7.8,On Leave
+347,Brian,Harmon,Flight Attendant,LAX,2000-02-16,25.9,Active
+348,Julie,Alvarez,First Officer,LGA,2010-06-23,15.5,Active
+349,William,Rodriguez,Captain,DTW,2017-11-20,8.1,Active
+350,Sonia,Williams,Flight Attendant,DTW,2009-10-27,16.2,Active
+351,Michelle,Boyd,Flight Attendant,SLC,2018-01-14,8.0,On Leave
+352,Tamara,Brown,First Officer,LGA,2008-06-22,17.5,Active
+353,Richard,Parks,Flight Attendant,DTW,2009-02-02,16.9,Active
+354,Renee,Jones,Flight Attendant,RDU,2009-06-03,16.6,Active
+355,Charlene,Jones,Flight Attendant,ATL,1997-05-18,28.6,Active
+356,Cynthia,Kelley,Captain,MSP,2003-02-02,22.9,Active
+357,Virginia,Schmidt,Flight Attendant,MSP,2004-07-25,21.4,Active
+358,Catherine,Garcia,Flight Attendant,RDU,2008-05-06,17.7,Active
+359,Melissa,Curtis,First Officer,LAX,2015-08-23,10.4,Active
+360,Jennifer,Lewis,Flight Attendant,DTW,2017-08-14,8.4,Active
+361,Jeremy,Morgan,Flight Attendant,JFK,2008-04-13,17.7,Active
+362,Robert,Davis,Flight Attendant,DTW,2008-05-04,17.7,Active
+363,Elizabeth,Brooks,Flight Attendant,BOS,2007-07-22,18.4,Active
+364,Sandra,Jones,Flight Attendant,SLC,1999-06-28,26.5,Active
+365,Christopher,Davis,Captain,RDU,2019-06-20,6.5,Active
+366,Lisa,Hawkins,Flight Attendant,RDU,2016-09-24,9.3,Active
+367,Anna,Rivera,Lead Flight Attendant,RDU,2012-04-01,13.8,Active
+368,Michael,Ortega,Flight Attendant,JFK,1998-08-06,27.4,Active
+369,Miranda,Griffith,Captain,BOS,2017-01-26,8.9,Active
+370,Caroline,Bell,Captain,SLC,2023-06-27,2.5,Active
+371,Jason,Douglas,Flight Attendant,LGA,2012-01-01,14.0,Active
+372,Daniel,Bruce,Flight Attendant,LGA,2001-08-06,24.4,Active
+373,Kathryn,Andrews,Flight Attendant,LAX,2005-10-24,20.2,Active
+374,Megan,Villegas,Captain,RDU,2018-09-29,7.3,Active
+375,Christina,Day,Flight Attendant,SLC,2019-01-28,6.9,Active
+376,Sarah,Gallegos,Lead Flight Attendant,LAX,1995-10-10,30.2,Active
+377,Henry,Park,Captain,RDU,2002-11-13,23.1,Active
+378,Matthew,Smith,First Officer,RDU,2004-02-02,21.9,Active
+379,Ashley,Morales,Flight Attendant,ATL,2020-08-02,5.4,Active
+380,Cynthia,Johnson,First Officer,RDU,1999-03-05,26.8,Active
+381,Jason,Barnes,Captain,DTW,2016-12-12,9.1,Active
+382,Mitchell,Griffith,Flight Attendant,JFK,2005-01-10,21.0,Active
+383,Ashley,Miller,Flight Attendant,JFK,2017-11-07,8.2,Active
+384,Eric,Williamson,Flight Attendant,LAX,1996-07-19,29.5,Active
+385,Joseph,Stanley,Flight Attendant,DTW,2014-10-29,11.2,Active
+386,Scott,Nelson,Flight Attendant,MSP,2009-04-14,16.7,Active
+387,Daniel,Jordan,Flight Attendant,JFK,2017-03-17,8.8,Active
+388,Erika,Tucker,Flight Attendant,MSP,2003-05-02,22.7,Active
+389,Brandon,Foster,Flight Attendant,BOS,2014-08-16,11.4,Active
+390,Adrian,Turner,Flight Attendant,DTW,2012-08-18,13.4,Active
+391,Derrick,Scott,Flight Attendant,MSP,2001-03-19,24.8,Active
+392,Adrian,Burgess,Captain,ATL,2004-08-26,21.3,Active
+393,Omar,Padilla,First Officer,SLC,2000-03-02,25.8,Active
+394,Martha,Drake,First Officer,LGA,2009-09-18,16.3,On Leave
+395,Michelle,Williams,Lead Flight Attendant,RDU,1997-02-13,28.9,Active
+396,Samantha,Atkins,Flight Attendant,LGA,1995-07-21,30.5,Active
+397,Ashley,Mckinney,Flight Attendant,LAX,2011-12-08,14.1,Active
+398,Darius,Smith,Flight Attendant,ATL,2007-04-15,18.7,Active
+399,Laurie,Montgomery,Flight Attendant,JFK,2004-07-21,21.4,On Leave
+400,Samantha,Davis,Flight Attendant,LAX,2019-06-23,6.5,Active
+401,John,Chapman,Flight Attendant,LAX,2019-11-04,6.2,Active
+402,Randy,Collins,Captain,LGA,2010-05-31,15.6,Active
+403,Mason,Jackson,Flight Attendant,DTW,2004-12-26,21.0,Active
+404,Daniel,Hicks,Flight Attendant,JFK,2010-01-06,16.0,Active
+405,Michael,Luna,Flight Attendant,LAX,2021-08-25,4.4,Active
+406,Lisa,Young,Flight Attendant,RDU,2019-02-02,6.9,On Leave
+407,James,Morrison,Captain,JFK,1999-04-23,26.7,Active
+408,Diana,Thompson,Flight Attendant,SLC,2017-05-12,8.6,Active
+409,Troy,Webster,Flight Attendant,DTW,2017-09-25,8.3,Active
+410,Shane,Glass,Flight Attendant,BOS,2017-05-09,8.6,Active
+411,Cynthia,Weber,Flight Attendant,JFK,2011-08-09,14.4,Active
+412,Courtney,Hernandez,Flight Attendant,MSP,2020-06-03,5.6,Active
+413,Scott,Turner,First Officer,LAX,1997-01-03,29.0,Active
+414,Brian,Romero,Flight Attendant,MSP,2003-01-30,22.9,Active
+415,Shannon,Brown,First Officer,DTW,2004-02-18,21.9,Active
+416,Chase,Lin,Flight Attendant,ATL,2019-06-19,6.5,Active
+417,Christina,Hunter,First Officer,MSP,2020-02-28,5.8,On Leave
+418,Angela,Conner,First Officer,LAX,2008-08-11,17.4,Active
+419,Shannon,Pacheco,Flight Attendant,RDU,2021-05-09,4.6,Active
+420,Marc,Alvarez,Flight Attendant,RDU,2014-03-05,11.8,Active
+421,Bryan,Garcia,Flight Attendant,LAX,1999-06-09,26.6,Active
+422,Matthew,Klein,Flight Attendant,LGA,2021-06-13,4.6,Active
+423,Gerald,Wright,Flight Attendant,DTW,2009-11-03,16.2,On Leave
+424,Scott,Mills,First Officer,LGA,2007-11-17,18.1,Active
+425,Nathan,Campbell,Lead Flight Attendant,LAX,1999-09-02,26.3,Active
+426,Matthew,Harper,First Officer,SLC,2007-01-09,19.0,On Leave
+427,Deborah,Jones,Flight Attendant,LAX,2018-03-20,7.8,Active
+428,Erika,Mitchell,Captain,BOS,1997-10-12,28.2,Active
+429,Diane,Escobar,Flight Attendant,BOS,2016-04-15,9.7,Active
+430,Mathew,Aguilar,Flight Attendant,LGA,2020-09-08,5.3,Active
+431,Michael,Ponce,First Officer,LGA,1999-02-28,26.8,Active
+432,Philip,Larson,Flight Attendant,DTW,2015-07-19,10.5,Active
+433,Kyle,Bennett,First Officer,RDU,2022-08-04,3.4,Active
+434,Lisa,Santiago,Flight Attendant,ATL,2018-04-15,7.7,Active
+435,Joanne,Jennings,Flight Attendant,SLC,2019-05-21,6.6,Active
+436,Debbie,Henderson,Flight Attendant,SEA,2010-06-26,15.5,Active
+437,Michael,White,Flight Attendant,RDU,2005-08-23,20.4,Active
+438,Stacey,Tucker,Captain,LAX,2001-04-20,24.7,Active
+439,Devin,Jones,Captain,ATL,2001-08-30,24.3,Active
+440,Craig,Wise,Flight Attendant,DTW,2019-11-03,6.2,Active
+441,Nicole,Johnson,First Officer,JFK,2019-07-26,6.4,Active
+442,Katie,Anderson,Flight Attendant,RDU,2004-11-27,21.1,Active
+443,Francis,Guerra,Flight Attendant,RDU,2006-01-30,19.9,Active
+444,Lisa,Martin,First Officer,ATL,2017-09-06,8.3,On Leave
+445,Robert,Rhodes,Flight Attendant,LAX,2007-11-16,18.1,Active
+446,Sean,Mitchell,Flight Attendant,RDU,2001-12-27,24.0,Active
+447,Shane,Ferguson,Flight Attendant,ATL,2017-01-07,9.0,Active
+448,Lindsey,Harrison,Flight Attendant,MSP,2004-02-07,21.9,Active
+449,Micheal,Valentine,Flight Attendant,LGA,2019-07-26,6.4,Active
+450,Steven,Campbell,Captain,BOS,2023-12-16,2.0,Active
+451,Allison,Burch,Flight Attendant,LGA,2006-03-26,19.8,Active
+452,Laurie,Taylor,Flight Attendant,LAX,2019-01-11,7.0,On Leave
+453,Danielle,Sawyer,Captain,MSP,2002-05-10,23.6,Active
+454,Curtis,Singleton,Flight Attendant,RDU,2011-04-24,14.7,Active
+455,Justin,Hines,First Officer,SLC,2020-01-14,6.0,Active
+456,Rebecca,Hernandez,Flight Attendant,LGA,2003-01-09,23.0,Active
+457,Stacey,Walker,Flight Attendant,DTW,2007-11-14,18.1,Active
+458,Michael,Johnson,Flight Attendant,LGA,2008-04-08,17.7,Active
+459,Wayne,Young,Flight Attendant,SEA,1996-07-26,29.4,Active
+460,Nicholas,Johnson,Flight Attendant,SLC,2024-04-03,1.7,Active
+461,Mary,Santos,Flight Attendant,SEA,2022-05-19,3.6,Active
+462,Devin,Mitchell,Flight Attendant,SEA,2018-04-12,7.7,Active
+463,Heather,Taylor,Flight Attendant,DTW,2019-05-29,6.6,Active
+464,Shane,Smith,Flight Attendant,MSP,2015-10-03,10.2,Inactive
+465,Jonathan,Conley,Captain,SEA,1997-05-01,28.7,On Leave
+466,Jessica,Rose,Flight Attendant,SLC,2011-02-22,14.9,Active
+467,Keith,Turner,Flight Attendant,LGA,1998-04-09,27.7,Active
+468,Robert,Bauer,Flight Attendant,LAX,1996-05-28,29.6,Active
+469,Daniel,Stein,Flight Attendant,SLC,2008-06-12,17.6,Active
+470,Allen,Robertson,Flight Attendant,BOS,2012-07-21,13.4,Active
+471,Douglas,Patterson,Flight Attendant,ATL,2002-02-12,23.9,Active
+472,John,Butler,Flight Attendant,LGA,2013-01-31,12.9,Active
+473,Christopher,Villegas,First Officer,DTW,2014-07-18,11.5,Active
+474,Alicia,Romero,Captain,SEA,1996-12-28,29.0,Active
+475,Angela,Myers,Flight Attendant,LAX,2024-01-27,1.9,Active
+476,Cynthia,Zavala,Flight Attendant,SEA,2008-10-30,17.2,Active
+477,Allen,Kramer,Flight Attendant,DTW,2002-06-18,23.5,Active
+478,Jessica,Fuller,Flight Attendant,SLC,2005-02-21,20.9,Active
+479,Jill,Cook,Captain,BOS,2017-09-11,8.3,Active
+480,Amy,Li,Flight Attendant,ATL,1996-04-21,29.7,Active
+481,Kimberly,Marshall,Flight Attendant,BOS,2000-02-25,25.9,Active
+482,Crystal,Cain,Flight Attendant,LGA,2015-06-16,10.5,Active
+483,Kimberly,Ellis,Flight Attendant,SLC,1996-11-08,29.1,Active
+484,Bradley,Gonzalez,Lead Flight Attendant,ATL,2003-08-19,22.4,Active
+485,Sarah,Robertson,Flight Attendant,JFK,1996-03-26,29.8,Active
+486,Amy,King,Flight Attendant,BOS,2024-02-05,1.9,Active
+487,James,Kelly,Flight Attendant,SEA,2017-02-27,8.8,Active
+488,Michelle,Rivera,Flight Attendant,RDU,2017-12-20,8.0,Active
+489,Micheal,Preston,Captain,LGA,1998-08-30,27.3,Active
+490,Patricia,Hughes,Captain,LGA,2016-11-12,9.1,Active
+491,Tyler,Jimenez,Flight Attendant,ATL,2023-08-23,2.4,Active
+492,April,Owen,Flight Attendant,JFK,2022-03-10,3.8,Active
+493,Christian,Morrison,Flight Attendant,LAX,2016-05-21,9.6,Active
+494,Amy,Morris,Captain,BOS,2019-03-11,6.8,Active
+495,Donna,Parker,First Officer,MSP,1997-05-10,28.6,Active
+496,Ronald,Norris,Lead Flight Attendant,LAX,2012-09-22,13.3,Active
+497,Bobby,Berg,Flight Attendant,LGA,2005-05-05,20.7,Active
+498,Whitney,Hill,Flight Attendant,LGA,2005-05-15,20.6,Active
+499,Stacy,Jones,Lead Flight Attendant,DTW,2023-10-30,2.2,Active
+500,Michael,Owen,First Officer,ATL,2013-10-02,12.2,Active
+501,Stephanie,Thomas,Flight Attendant,RDU,2014-12-26,11.0,Active
+502,Kimberly,Johnson,Flight Attendant,JFK,2012-11-14,13.1,Active
+503,Kimberly,Diaz,Captain,MSP,1996-12-23,29.0,Active
+504,Ashley,Jacobs,First Officer,LAX,2006-04-06,19.7,On Leave
+505,Stacy,Watson,Flight Attendant,BOS,2014-12-22,11.0,Active
+506,Audrey,Moreno,Flight Attendant,ATL,2017-06-12,8.6,Active
+507,Debra,Wright,Flight Attendant,BOS,2006-09-16,19.3,Active
+508,Jill,Porter,Flight Attendant,SLC,1998-05-03,27.7,Active
+509,Anna,Green,Flight Attendant,DTW,2006-05-20,19.6,Active
+510,Sean,Davies,First Officer,JFK,2002-08-28,23.3,Active
+511,Sabrina,Henry,Flight Attendant,DTW,2003-05-27,22.6,Active
+512,Melissa,Hayes,Flight Attendant,LGA,1998-08-10,27.4,Active
+513,Sean,Miller,First Officer,DTW,2021-06-08,4.6,Active
+514,Megan,Flores,Lead Flight Attendant,MSP,2015-01-22,10.9,Active
+515,Calvin,Daniels,Flight Attendant,LGA,2005-03-21,20.8,Active
+516,Melissa,Joseph,Captain,LAX,2021-03-21,4.8,Active
+517,Dana,Leon,Flight Attendant,BOS,2022-04-12,3.7,Active
+518,David,Harris,First Officer,LAX,2009-12-19,16.0,Active
+519,Kristy,Johnson,Flight Attendant,SLC,1999-02-01,26.9,Active
+520,Miguel,Lara,Captain,LGA,2011-04-19,14.7,Active
+521,Cheryl,Miller,Flight Attendant,LGA,2011-03-24,14.8,Active
+522,Yvonne,Higgins,Flight Attendant,JFK,2004-02-06,21.9,Active
+523,Kayla,Morrow,Flight Attendant,LGA,2010-06-19,15.5,Active
+524,Teresa,Day,Flight Attendant,BOS,1997-03-03,28.8,On Leave
+525,Erin,Cooper,First Officer,MSP,2008-03-27,17.8,Active
+526,Kimberly,Bowman,Flight Attendant,SLC,2020-10-28,5.2,Active
+527,Tammy,Reynolds,Flight Attendant,JFK,2000-05-09,25.6,Active
+528,Brian,Martinez,Flight Attendant,RDU,2021-10-15,4.2,Active
+529,Fred,Morris,Captain,BOS,1999-07-02,26.5,Active
+530,Michael,Everett,Flight Attendant,MSP,2015-11-13,10.1,Active
+531,Meghan,King,Captain,DTW,2021-04-29,4.7,Active
+532,Andrea,Martinez,Flight Attendant,LAX,2013-09-06,12.3,Active
+533,Amanda,Shaw,Lead Flight Attendant,SLC,2003-11-28,22.1,Active
+534,Shelly,Moore,Lead Flight Attendant,SEA,1999-12-17,26.0,Active
+535,Jennifer,Jacobs,Flight Attendant,BOS,2014-05-18,11.6,Active
+536,Anne,Bryan,Flight Attendant,LAX,2019-10-14,6.2,Active
+537,Brandon,May,Flight Attendant,ATL,1995-11-01,30.2,Active
+538,Debra,Wang,Flight Attendant,LAX,2011-12-19,14.0,Active
+539,Danielle,Jimenez,Lead Flight Attendant,LAX,2007-04-03,18.7,Active
+540,Keith,Frye,Flight Attendant,RDU,2013-06-13,12.6,Inactive
+541,Linda,Cohen,Flight Attendant,RDU,2009-03-16,16.8,Active
+542,Charles,Brown,Flight Attendant,LGA,2003-10-01,22.3,Active
+543,Todd,Harris,Captain,MSP,2007-12-07,18.1,Active
+544,Larry,Higgins,Flight Attendant,LGA,2012-11-04,13.2,Active
+545,Michelle,Hester,Flight Attendant,BOS,2016-08-06,9.4,Active
+546,Mitchell,Hoffman,Flight Attendant,LGA,1998-11-05,27.2,Active
+547,Steven,Adams,Flight Attendant,SEA,2004-05-21,21.6,Active
+548,Colin,Roberts,Lead Flight Attendant,SEA,2002-04-17,23.7,Active
+549,Christina,Wright,Flight Attendant,BOS,2006-04-20,19.7,Active
+550,Erik,Murphy,First Officer,BOS,2020-06-14,5.5,Active
+551,Larry,Hines,First Officer,SLC,2011-12-29,14.0,Inactive
+552,Xavier,Jimenez,Flight Attendant,LGA,2009-08-28,16.3,Active
+553,Andrew,Landry,Flight Attendant,SEA,2004-01-28,21.9,Active
+554,Tammy,Lewis,Flight Attendant,JFK,2009-11-13,16.1,Active
+555,Brent,Simpson,Flight Attendant,JFK,2005-05-19,20.6,Active
+556,Destiny,Ruiz,Flight Attendant,RDU,2020-12-14,5.0,Active
+557,Melanie,Jordan,Flight Attendant,SLC,2010-10-15,15.2,Active
+558,Jessica,Gallagher,Lead Flight Attendant,JFK,2020-12-16,5.0,Active
+559,Richard,Hudson,Flight Attendant,SLC,2005-10-06,20.2,Active
+560,Angela,Jones,Flight Attendant,ATL,2000-09-22,25.3,Active
+561,Kathy,Ramirez,Lead Flight Attendant,SEA,2009-10-31,16.2,Active
+562,Erin,Wilson,Flight Attendant,LGA,2024-02-04,1.9,Active
+563,Phillip,Norton,Flight Attendant,SLC,2023-09-07,2.3,Active
+564,Sheila,Fischer,Flight Attendant,SLC,2004-12-22,21.0,Inactive
+565,William,Porter,Flight Attendant,MSP,2000-11-08,25.1,Active
+566,Derrick,Cook,Flight Attendant,LGA,1996-05-01,29.7,Active
+567,Stephen,Obrien,Flight Attendant,ATL,2008-12-07,17.1,Active
+568,Mark,Austin,Flight Attendant,MSP,2010-03-01,15.8,Active
+569,Vicki,Stevenson,Flight Attendant,BOS,1999-10-12,26.2,Active
+570,Matthew,Clayton,Lead Flight Attendant,RDU,2003-10-20,22.2,Active
+571,Jeanne,Evans,Flight Attendant,SEA,2010-08-29,15.3,Active
+572,Micheal,Nunez,Flight Attendant,DTW,2018-12-30,7.0,Active
+573,Brandy,Robles,Flight Attendant,LGA,2023-10-29,2.2,Active
+574,Hailey,Johnson,Flight Attendant,DTW,2016-05-02,9.7,Active
+575,Tammy,Patton,Flight Attendant,BOS,2008-12-16,17.0,Active
+576,Becky,Griffith,Flight Attendant,LGA,2017-10-31,8.2,Active
+577,George,Fuller,Flight Attendant,ATL,2012-03-01,13.8,Active
+578,Maureen,Hernandez,Flight Attendant,MSP,2013-03-25,12.8,Active
+579,Anthony,Vaughan,First Officer,SLC,2015-01-09,11.0,Active
+580,Andrew,Edwards,Captain,MSP,1998-03-26,27.8,Active
+581,Hannah,Jenkins,First Officer,DTW,1999-06-15,26.5,On Leave
+582,Samantha,Salas,Flight Attendant,LGA,2017-10-18,8.2,On Leave
+583,Bryan,Taylor,Flight Attendant,LAX,2016-08-23,9.4,Active
+584,Mark,Bates,Flight Attendant,SEA,2001-02-05,24.9,Active
+585,Lee,Thompson,Captain,RDU,2010-06-16,15.5,Active
+586,Matthew,Gomez,First Officer,SLC,2021-10-30,4.2,Active
+587,Jennifer,Schneider,Flight Attendant,DTW,2017-09-16,8.3,Active
+588,Chelsea,Lee,Captain,SEA,2015-05-24,10.6,Active
+589,Angela,Walker,Flight Attendant,BOS,2002-04-02,23.8,Active
+590,Kenneth,Roberts,Flight Attendant,SLC,2023-08-14,2.4,Active
+591,Janet,Stewart,Flight Attendant,SEA,2001-02-04,24.9,On Leave
+592,Sarah,Pope,First Officer,LGA,2005-04-05,20.7,Active
+593,David,Rhodes,First Officer,BOS,2003-01-17,23.0,Active
+594,Tina,Cardenas,Captain,ATL,2006-03-03,19.8,Active
+595,Linda,Roberts,Captain,RDU,2023-01-30,2.9,Active
+596,Jennifer,Reed,Flight Attendant,DTW,2003-06-18,22.5,Active
+597,Jonathan,Mendoza,Flight Attendant,JFK,2008-01-05,18.0,Active
+598,Amanda,Fitzpatrick,Flight Attendant,LAX,2000-12-11,25.1,Active
+599,Derrick,Gilbert,Flight Attendant,JFK,2015-06-24,10.5,Active
+600,John,Santiago,Flight Attendant,DTW,2012-04-05,13.7,Active
+601,Dana,Williams,First Officer,SLC,2010-08-15,15.4,Active
+602,Jennifer,Garcia,Flight Attendant,DTW,2007-02-27,18.8,Active
+603,Adam,Pierce,Flight Attendant,DTW,2017-09-03,8.3,Active
+604,Richard,Donovan,Captain,LGA,2022-05-01,3.7,Active
+605,Thomas,Gonzalez,Flight Attendant,MSP,2020-11-02,5.2,Active
+606,Manuel,Brewer,First Officer,LAX,2023-05-10,2.6,Active
+607,Christopher,Andrews,First Officer,ATL,2021-09-15,4.3,Active
+608,Jennifer,Zuniga,First Officer,ATL,2010-09-28,15.3,Active
+609,Gregory,Khan,First Officer,SEA,2021-11-11,4.1,On Leave
+610,Samantha,Osborn,Flight Attendant,ATL,2000-03-03,25.8,Active
+611,Tyler,Zuniga,Flight Attendant,LAX,2006-09-05,19.3,Active
+612,Sara,Mcdowell,Flight Attendant,SEA,2023-04-21,2.7,Active
+613,Ashley,Rodriguez,Flight Attendant,SEA,1995-04-10,30.7,Active
+614,Justin,Hays,Flight Attendant,SLC,2023-12-01,2.1,Active
+615,Troy,Mays,Lead Flight Attendant,MSP,2010-12-25,15.0,Active
+616,Taylor,Lee,Flight Attendant,JFK,2020-01-13,6.0,Active
+617,Francisco,Stevens,Flight Attendant,BOS,1998-04-25,27.7,Active
+618,Jacob,Doyle,Flight Attendant,SLC,2002-07-27,23.4,Active
+619,Ashley,Todd,Flight Attendant,RDU,2018-04-06,7.7,Active
+620,Melissa,Prince,Lead Flight Attendant,MSP,2000-02-29,25.8,Active
+621,Zachary,Miller,Flight Attendant,MSP,2019-04-30,6.7,Active
+622,Jack,Taylor,Flight Attendant,MSP,2014-09-08,11.3,Active
+623,John,Green,Flight Attendant,DTW,2004-07-08,21.5,Active
+624,Karen,Finley,Flight Attendant,RDU,2001-12-05,24.1,Active
+625,Jennifer,Smith,Flight Attendant,SLC,2003-11-19,22.1,Active
+626,Heather,Brown,Flight Attendant,RDU,2014-03-25,11.8,Active
+627,Kurt,Sullivan,Flight Attendant,JFK,1998-06-24,27.5,Active
+628,Paula,Padilla,Flight Attendant,LGA,2009-10-13,16.2,Active
+629,David,Hendricks,Flight Attendant,RDU,2004-02-24,21.9,Active
+630,Christina,Robinson,Captain,MSP,2003-09-05,22.3,Active
+631,Eric,Adkins,Captain,JFK,1998-12-06,27.1,Active
+632,Robert,Dunn,Captain,LGA,2012-10-26,13.2,Active
+633,Amanda,Beck,Flight Attendant,LAX,2008-11-06,17.2,Active
+634,John,Fischer,Lead Flight Attendant,LGA,2001-06-04,24.6,Active
+635,Christopher,Griffin,Flight Attendant,LAX,2020-09-06,5.3,Active
+636,Christian,Elliott,First Officer,ATL,2015-09-14,10.3,Active
+637,Amy,Wagner,Captain,LGA,1996-10-25,29.2,Active
+638,Edward,Murphy,Flight Attendant,LAX,2011-11-06,14.2,Active
+639,Darren,Harris,Captain,BOS,2010-04-22,15.7,Active
+640,Christopher,Dixon,Flight Attendant,MSP,2012-02-26,13.8,Active
+641,Shawn,Palmer,Flight Attendant,DTW,2018-10-15,7.2,Active
+642,Brian,Ford,Flight Attendant,LGA,2008-06-08,17.6,Active
+643,Jennifer,Foster,First Officer,SEA,2018-09-26,7.3,Active
+644,Julie,Lane,Flight Attendant,RDU,2019-01-06,7.0,Active
+645,Melvin,Brown,Flight Attendant,LAX,1996-05-01,29.7,Active
+646,Sarah,Jones,Flight Attendant,SLC,2024-03-29,1.8,Active
+647,Anthony,Ortiz,Lead Flight Attendant,LAX,2022-06-20,3.5,On Leave
+648,Katie,Good,Flight Attendant,LGA,2017-08-14,8.4,Active
+649,Robert,Haney,Flight Attendant,LAX,2013-12-31,12.0,Active
+650,Molly,Knox,Flight Attendant,JFK,2006-04-02,19.8,Active
+651,Felicia,Stanley,Lead Flight Attendant,SLC,2006-01-18,20.0,Active
+652,Desiree,Bailey,First Officer,LGA,2010-11-12,15.1,Active
+653,Amanda,Rice,Flight Attendant,DTW,2000-04-01,25.8,Active
+654,Jeffrey,Smith,Flight Attendant,JFK,2016-05-30,9.6,Active
+655,Kenneth,Nunez,First Officer,SLC,1995-09-02,30.3,Active
+656,Amanda,Morrow,First Officer,RDU,2011-01-06,15.0,Active
+657,Michael,Hill,Flight Attendant,SEA,2002-04-13,23.7,Active
+658,Jessica,Rodriguez,Flight Attendant,RDU,2022-07-29,3.4,Active
+659,Robert,Miranda,Flight Attendant,LAX,2018-10-24,7.2,Active
+660,Alexis,Harris,First Officer,LAX,2020-12-30,5.0,Active
+661,Arthur,Harper,Flight Attendant,ATL,1997-12-20,28.0,Active
+662,Brandon,Yang,Flight Attendant,SLC,2015-09-09,10.3,Active
+663,Jimmy,Robinson,Flight Attendant,LAX,2006-10-31,19.2,Active
+664,Brian,Gordon,Flight Attendant,ATL,2020-05-28,5.6,On Leave
+665,Lisa,Dennis,Flight Attendant,RDU,2003-07-05,22.5,Active
+666,Carla,Chambers,First Officer,ATL,2004-05-19,21.6,Active
+667,Kevin,Thomas,Flight Attendant,RDU,2004-06-07,21.6,Active
+668,Jeffrey,Turner,First Officer,LGA,2014-06-03,11.6,Active
+669,Stacy,Hobbs,Flight Attendant,LAX,1996-10-16,29.2,Active
+670,Connie,Simmons,Flight Attendant,JFK,2021-10-24,4.2,Active
+671,Teresa,David,Flight Attendant,RDU,2009-07-30,16.4,Active
+672,Kristi,Flores,Flight Attendant,SEA,2014-09-30,11.3,Active
+673,Edward,Bennett,Flight Attendant,JFK,2007-03-31,18.8,Active
+674,Thomas,Atkinson,Flight Attendant,JFK,2017-03-11,8.8,Active
+675,Jasmine,Shaffer,Flight Attendant,RDU,2003-11-06,22.2,Active
+676,Anna,Faulkner,First Officer,LAX,2021-11-27,4.1,Active
+677,Dennis,Sanchez,Flight Attendant,MSP,2011-05-24,14.6,Active
+678,Deborah,Nielsen,Flight Attendant,DTW,2000-12-24,25.0,Active
+679,Christopher,Hardy,First Officer,ATL,2019-12-02,6.1,Active
+680,Joseph,Nunez,Flight Attendant,LAX,2000-08-08,25.4,Active
+681,Morgan,Lopez,First Officer,LGA,2012-09-25,13.3,Active
+682,Jennifer,Hansen,Flight Attendant,ATL,2017-05-28,8.6,Active
+683,Molly,Cook,Captain,RDU,2009-02-06,16.9,Active
+684,Alexis,Giles,Captain,SEA,2023-02-25,2.9,Active
+685,David,Key,First Officer,MSP,2023-04-20,2.7,Active
+686,John,Munoz,Flight Attendant,DTW,2009-02-01,16.9,Active
+687,Rose,Arnold,First Officer,LAX,2001-01-06,25.0,Active
+688,Oscar,Ferguson,Flight Attendant,SEA,2017-10-24,8.2,Inactive
+689,Jose,Hunt,Flight Attendant,SLC,2005-07-26,20.4,Active
+690,Corey,Zavala,Flight Attendant,MSP,2009-08-17,16.4,Active
+691,Mary,Rocha,Flight Attendant,JFK,2008-10-23,17.2,Active
+692,Robert,Hart,Flight Attendant,MSP,2005-11-26,20.1,Active
+693,Dustin,Green,Captain,BOS,2001-07-05,24.5,Active
+694,Beth,Butler,Lead Flight Attendant,SEA,2022-07-01,3.5,Active
+695,Mark,James,Captain,BOS,1999-06-26,26.5,Active
+696,Victor,Pena,Flight Attendant,BOS,2019-07-07,6.5,Active
+697,Jonathan,Underwood,Captain,LAX,2015-02-22,10.9,Active
+698,Darlene,Henry,Flight Attendant,MSP,2023-06-07,2.6,Active
+699,Laura,Jackson,Flight Attendant,LAX,1999-12-13,26.1,Active
+700,Tracy,Stark,Flight Attendant,LGA,2016-03-10,9.8,Active
+701,Darlene,Brown,Flight Attendant,LAX,2010-12-12,15.1,Active
+702,Melanie,Landry,Captain,SEA,1995-12-30,30.0,Active
+703,Kathy,Gutierrez,Lead Flight Attendant,DTW,2014-08-28,11.3,Active
+704,Jesse,Mann,Flight Attendant,LGA,2019-10-14,6.2,Active
+705,William,Brooks,Flight Attendant,DTW,1995-04-09,30.7,Active
+706,Elizabeth,Jensen,First Officer,MSP,2013-03-05,12.8,Active
+707,Tony,Smith,Flight Attendant,JFK,2009-03-19,16.8,Active
+708,Alexander,Moreno,First Officer,SLC,2011-03-24,14.8,Active
+709,Tiffany,Smith,Flight Attendant,BOS,2003-01-30,22.9,Inactive
+710,Emily,Drake,Flight Attendant,SEA,2018-12-02,7.1,Active
+711,Daniel,Davis,Flight Attendant,DTW,2021-10-05,4.2,Active
+712,James,Fox,Flight Attendant,SLC,1999-05-19,26.6,Active
+713,Joseph,Sanders,Flight Attendant,ATL,2018-12-24,7.0,Active
+714,Richard,Cunningham,Flight Attendant,LAX,2005-12-22,20.0,Active
+715,Jeremiah,Sutton,Flight Attendant,BOS,2024-02-17,1.9,Active
+716,Desiree,Garrison,Flight Attendant,DTW,2019-12-10,6.1,Active
+717,Clayton,Gray,Captain,LGA,2017-05-05,8.7,Active
+718,Brian,Smith,Flight Attendant,SEA,2011-04-05,14.7,Active
+719,Vincent,Hamilton,Flight Attendant,LAX,2000-01-16,26.0,Active
+720,Ariel,Hodge,Flight Attendant,RDU,2018-01-27,7.9,Active
+721,Allison,Williams,Flight Attendant,SLC,1997-10-21,28.2,Active
+722,Miranda,Clay,Flight Attendant,SEA,2001-03-21,24.8,Active
+723,Brandon,Jones,Flight Attendant,DTW,2008-12-26,17.0,Active
+724,Rachel,Elliott,Flight Attendant,JFK,2022-03-24,3.8,Active
+725,Sarah,Edwards,Captain,LGA,1995-12-20,30.0,Active
+726,Brenda,Goodwin,Flight Attendant,ATL,2023-04-14,2.7,Active
+727,Raymond,Jones,Flight Attendant,RDU,2015-12-19,10.0,Active
+728,John,Davenport,First Officer,BOS,1999-10-12,26.2,Active
+729,Peggy,Rivera,First Officer,SEA,2006-06-13,19.6,Active
+730,Donald,Hinton,Flight Attendant,RDU,2017-03-24,8.8,Active
+731,Vincent,Mccann,Captain,JFK,2016-04-20,9.7,Active
+732,Samuel,Roberson,Lead Flight Attendant,DTW,1996-07-30,29.4,Active
+733,Kayla,Friedman,First Officer,LGA,2005-01-07,21.0,Active
+734,Kim,Johnson,First Officer,LAX,2006-09-02,19.3,Active
+735,Victoria,Henry,Flight Attendant,SLC,2003-01-15,23.0,Active
+736,Shelley,Reynolds,Flight Attendant,DTW,2005-06-19,20.5,Active
+737,Donna,Miller,Flight Attendant,MSP,2014-12-29,11.0,Active
+738,Lauren,Marquez,Captain,ATL,2013-03-13,12.8,Active
+739,Eric,Dawson,First Officer,ATL,1997-05-31,28.6,Active
+740,Jodi,Stewart,Flight Attendant,LAX,2013-08-24,12.4,Active
+741,Adam,Parker,Flight Attendant,LGA,1998-02-18,27.9,Active
+742,Joseph,Anderson,Flight Attendant,DTW,2005-08-02,20.4,On Leave
+743,Shane,Peters,Flight Attendant,DTW,2000-07-06,25.5,Active
+744,Anthony,Gomez,Captain,JFK,2007-01-02,19.0,Active
+745,Carly,Nguyen,Lead Flight Attendant,BOS,1997-09-26,28.3,Active
+746,Kelly,Hughes,Flight Attendant,MSP,2006-05-01,19.7,Active
+747,Rachel,Stein,Flight Attendant,SLC,1997-06-29,28.5,Active
+748,Ashley,Jackson,Flight Attendant,LGA,2023-10-10,2.2,Active
+749,Dominic,Turner,Flight Attendant,SEA,2006-03-14,19.8,Active
+750,Bryan,Hamilton,Lead Flight Attendant,BOS,2009-07-04,16.5,Active
+751,Todd,Jones,First Officer,SLC,2007-05-22,18.6,Active
+752,John,Weber,First Officer,RDU,2002-05-28,23.6,Active
+753,James,Rodriguez,Flight Attendant,MSP,2012-06-19,13.5,Active
+754,Stacy,Cook,Captain,SLC,2003-12-18,22.0,Active
+755,Linda,Rivera,Flight Attendant,DTW,2013-03-30,12.8,Active
+756,Lisa,Villarreal,Flight Attendant,LGA,2004-11-05,21.2,Active
+757,Derek,Flores,Captain,RDU,2023-08-29,2.3,Active
+758,James,Edwards,Flight Attendant,SLC,2022-11-12,3.1,Active
+759,Tanya,Carter,Flight Attendant,LAX,2023-05-17,2.6,Active
+760,Travis,Johnston,Flight Attendant,ATL,2015-06-11,10.6,Active
+761,Nicholas,Velasquez,Flight Attendant,SEA,2002-02-17,23.9,Active
+762,Daniel,Elliott,Flight Attendant,JFK,2006-07-23,19.4,Active
+763,Amy,Maldonado,Flight Attendant,LGA,2012-06-02,13.6,Active
+764,Stephanie,Murray,Flight Attendant,LGA,2011-03-08,14.8,Active
+765,Samuel,Carter,Flight Attendant,JFK,2015-11-02,10.2,Active
+766,Lori,Flynn,First Officer,SEA,2015-05-19,10.6,Active
+767,Victor,Schultz,Lead Flight Attendant,DTW,2007-01-13,19.0,Active
+768,Donna,Espinoza,Flight Attendant,SEA,2002-02-13,23.9,Active
+769,Charles,Ewing,Flight Attendant,BOS,2018-03-18,7.8,Active
+770,Richard,Hunter,Flight Attendant,SEA,2009-02-04,16.9,Active
+771,Heather,Stephens,Flight Attendant,ATL,2022-01-27,3.9,On Leave
+772,Michael,Woodard,Flight Attendant,SLC,2018-04-05,7.7,Active
+773,Danielle,Miller,Captain,LAX,2010-10-17,15.2,Active
+774,Diane,Kelly,Flight Attendant,JFK,2017-08-14,8.4,Active
+775,Bradley,Terrell,Flight Attendant,DTW,2014-01-12,12.0,Active
+776,Reginald,Goodwin,Flight Attendant,LGA,2014-12-05,11.1,Active
+777,Russell,Smith,Flight Attendant,DTW,2023-05-29,2.6,Active
+778,William,Stone,Flight Attendant,JFK,2002-08-11,23.4,Active
+779,Barbara,Griffin,Flight Attendant,RDU,2012-01-29,13.9,Active
+780,Kelsey,Chapman,Flight Attendant,ATL,2006-07-04,19.5,Active
+781,Michael,Johnson,Flight Attendant,ATL,2009-09-21,16.3,Active
+782,Robert,Nixon,Flight Attendant,SEA,1998-01-28,27.9,Active
+783,Shelia,Thomas,Flight Attendant,JFK,1998-06-01,27.6,Active
+784,Stanley,Clark,Flight Attendant,MSP,2004-03-04,21.8,Active
+785,Thomas,Kim,Lead Flight Attendant,RDU,2009-03-16,16.8,Active
+786,Luis,Evans,Flight Attendant,JFK,2015-07-01,10.5,Active
+787,Darin,Sweeney,Flight Attendant,DTW,2018-10-31,7.2,Active
+788,Erica,Martin,First Officer,BOS,2014-01-22,11.9,Active
+789,John,Thompson,Flight Attendant,JFK,2023-12-11,2.1,Active
+790,Anita,Mullen,First Officer,RDU,1999-09-17,26.3,Active
+791,Richard,Lopez,Flight Attendant,JFK,2001-10-27,24.2,Active
+792,Ryan,Johnson,Flight Attendant,JFK,2013-11-03,12.2,Active
+793,James,Vargas,Flight Attendant,SEA,2013-01-23,12.9,On Leave
+794,Janet,Harris,Flight Attendant,MSP,2006-06-09,19.6,On Leave
+795,Lindsey,Brown,Flight Attendant,RDU,2017-02-16,8.9,Active
+796,Monica,Lopez,First Officer,ATL,1997-12-29,28.0,Active
+797,Stephen,Baker,Flight Attendant,LAX,2004-08-03,21.4,Active
+798,Allison,Fowler,Captain,MSP,2020-05-17,5.6,Active
+799,Cheryl,Matthews,Flight Attendant,MSP,2012-07-23,13.4,Active
+800,Megan,Williamson,Flight Attendant,BOS,2005-03-27,20.8,Active
+801,Janice,Evans,Flight Attendant,LAX,2018-12-08,7.1,Active
+802,Christopher,Anderson,Flight Attendant,MSP,2013-01-28,12.9,Active
+803,Kevin,White,Flight Attendant,DTW,1998-06-20,27.5,Active
+804,William,Barnes,Lead Flight Attendant,ATL,2015-05-26,10.6,Active
+805,Patrick,Lopez,Flight Attendant,MSP,1999-01-21,26.9,Active
+806,Heather,Brewer,Lead Flight Attendant,ATL,2013-09-10,12.3,Active
+807,Angela,Burns,Flight Attendant,SEA,2024-05-30,1.6,Active
+808,Leonard,Hayes,First Officer,JFK,1999-02-16,26.9,Active
+809,Michael,Smith,Flight Attendant,RDU,1996-07-29,29.4,Active
+810,Lisa,Maynard,First Officer,SEA,1999-01-06,27.0,Active
+811,Troy,Cohen,Lead Flight Attendant,ATL,2009-11-13,16.1,Active
+812,Mary,Burns,Flight Attendant,MSP,2007-03-24,18.8,Active
+813,Anthony,Juarez,Flight Attendant,LAX,1997-06-07,28.6,Active
+814,Joshua,Medina,Flight Attendant,ATL,2003-08-05,22.4,Active
+815,Stephen,Newton,Flight Attendant,MSP,1999-12-13,26.1,Active
+816,Andrea,Wilson,First Officer,SLC,2017-07-13,8.5,Active
+817,Kimberly,Morrow,Lead Flight Attendant,BOS,1998-05-12,27.6,Active
+818,Lynn,Williams,Captain,DTW,2005-10-16,20.2,Active
+819,Amy,Fritz,Flight Attendant,DTW,2016-02-24,9.9,Active
+820,Maria,Potter,Flight Attendant,LGA,1998-01-05,28.0,Active
+821,Yvonne,Cole,Flight Attendant,LGA,2003-10-04,22.2,Active
+822,Lisa,Gonzales,Flight Attendant,SEA,2005-04-03,20.7,Active
+823,Kimberly,Young,First Officer,BOS,2024-03-28,1.8,Active
+824,Brianna,Bell,Lead Flight Attendant,RDU,2018-11-06,7.2,Active
+825,Cynthia,Martin,Flight Attendant,DTW,2015-11-28,10.1,Active
+826,Jamie,Clark,Flight Attendant,LGA,1999-02-04,26.9,Active
+827,Michael,Campbell,Flight Attendant,BOS,1996-09-29,29.3,Active
+828,Mario,Padilla,Flight Attendant,JFK,2010-11-06,15.2,Active
+829,Joseph,Hodge,Flight Attendant,RDU,2003-07-06,22.5,Active
+830,Erin,Davis,Flight Attendant,ATL,2023-12-28,2.0,Active
+831,Kristi,Sellers,Flight Attendant,BOS,2023-04-28,2.7,Active
+832,Michelle,Martinez,Flight Attendant,LAX,2024-03-12,1.8,On Leave
+833,John,Dawson,Captain,LGA,2020-06-23,5.5,Active
+834,Kathleen,Lowe,Captain,ATL,2019-05-16,6.6,Active
+835,Barbara,Adams,Flight Attendant,ATL,2009-05-25,16.6,Active
+836,Shannon,Schultz,Flight Attendant,LGA,2007-03-09,18.8,Active
+837,Christopher,Robertson,Flight Attendant,SLC,2020-11-21,5.1,Active
+838,Sharon,Wood,Flight Attendant,SLC,2003-03-09,22.8,Active
+839,Mark,Smith,Flight Attendant,DTW,2022-12-14,3.0,Active
+840,Jessica,Simon,Lead Flight Attendant,LGA,2017-10-09,8.2,Active
+841,Elizabeth,Howard,Lead Flight Attendant,LGA,2008-06-26,17.5,Active
+842,Amanda,Robinson,Captain,DTW,1996-11-11,29.1,Active
+843,Jason,Adams,Flight Attendant,DTW,2007-08-22,18.4,Active
+844,Matthew,Lane,First Officer,SEA,2019-05-14,6.6,Active
+845,Todd,Cooper,Flight Attendant,RDU,2011-08-27,14.3,Active
+846,Brandon,Garcia,Flight Attendant,MSP,2015-01-29,10.9,Active
+847,Steve,Martinez,Lead Flight Attendant,DTW,2018-01-22,7.9,Active
+848,Scott,Smith,Captain,MSP,2020-03-24,5.8,Active
+849,James,Barker,Flight Attendant,LAX,2023-03-08,2.8,Active
+850,Debra,Moore,Flight Attendant,RDU,1998-11-18,27.1,Active

@@ -1,0 +1,3401 @@
+maintenance_id,aircraft_id,maintenance_date,maintenance_type,cost_usd,downtime_hours,performed_at_hub,technician_count
+1,65,2024-05-04,B-Check,32446.57,35.7,True,7
+2,89,2023-02-03,C-Check,388300.52,279.1,True,3
+3,38,2025-12-12,Unscheduled Repair,87914.62,7.7,False,5
+4,23,2023-02-13,Avionics Update,53022.13,56.3,False,6
+5,96,2023-09-09,Unscheduled Repair,11645.27,33.6,True,6
+6,59,2025-08-20,A-Check (Routine),9823.01,6.1,False,2
+7,138,2023-03-15,Avionics Update,102100.45,43.0,True,7
+8,80,2024-02-16,B-Check,34238.89,19.0,True,1
+9,158,2024-07-03,B-Check,11779.99,13.0,True,7
+10,9,2023-09-01,B-Check,26912.2,15.8,False,4
+11,124,2025-03-18,A-Check (Routine),7028.17,6.4,True,4
+12,86,2023-07-10,A-Check (Routine),4036.74,11.9,False,4
+13,122,2023-10-14,A-Check (Routine),3869.4,6.4,False,2
+14,37,2024-02-08,A-Check (Routine),9469.14,11.8,True,2
+15,37,2023-01-10,Unscheduled Repair,50936.17,40.0,False,2
+16,81,2023-05-05,A-Check (Routine),6605.13,10.0,True,4
+17,44,2023-07-18,Unscheduled Repair,76741.21,17.7,True,7
+18,17,2024-05-16,A-Check (Routine),4948.78,5.7,False,1
+19,143,2025-06-18,Unscheduled Repair,53538.05,13.3,False,4
+20,141,2024-08-06,A-Check (Routine),5513.08,6.0,True,4
+21,126,2025-03-03,D-Check (Heavy),1787405.28,822.0,True,2
+22,137,2025-12-13,A-Check (Routine),7604.6,5.7,True,6
+23,120,2024-09-01,C-Check,173520.55,122.4,True,6
+24,96,2023-06-19,A-Check (Routine),10496.55,11.4,True,2
+25,99,2023-04-05,B-Check,20805.8,34.3,True,4
+26,84,2024-11-16,Unscheduled Repair,40994.36,6.3,True,1
+27,86,2024-09-26,Unscheduled Repair,36778.13,15.4,False,7
+28,145,2025-03-15,D-Check (Heavy),1087191.98,759.0,True,6
+29,86,2023-10-08,Unscheduled Repair,42713.43,15.5,True,4
+30,111,2025-07-22,B-Check,10446.32,15.4,False,1
+31,46,2023-01-02,B-Check,25629.56,15.6,True,4
+32,22,2024-02-12,Engine Overhaul,422209.71,314.5,True,1
+33,54,2025-08-07,B-Check,17604.38,25.9,False,8
+34,18,2025-07-18,Avionics Update,106528.02,68.4,True,2
+35,89,2025-08-24,A-Check (Routine),11325.66,9.0,False,5
+36,127,2023-04-18,C-Check,342294.32,195.6,True,3
+37,14,2025-04-07,Avionics Update,45105.63,57.7,False,8
+38,153,2025-08-10,Engine Overhaul,604816.02,393.0,True,8
+39,152,2024-03-24,Unscheduled Repair,85472.75,34.1,True,4
+40,122,2024-10-10,A-Check (Routine),7102.55,11.6,True,7
+41,8,2024-04-01,C-Check,405289.55,236.6,False,6
+42,2,2024-12-08,Unscheduled Repair,60728.12,3.4,False,8
+43,4,2025-12-30,B-Check,22396.75,14.3,False,3
+44,91,2024-11-03,B-Check,14032.3,29.2,False,3
+45,166,2024-09-15,Unscheduled Repair,70327.09,19.8,True,5
+46,10,2023-11-06,Unscheduled Repair,7380.3,13.6,True,7
+47,38,2024-10-30,Unscheduled Repair,33539.23,32.2,True,6
+48,111,2025-04-30,Avionics Update,85429.69,38.6,True,1
+49,13,2023-12-18,A-Check (Routine),9289.82,11.7,False,1
+50,52,2025-04-27,A-Check (Routine),10033.94,4.4,True,7
+51,47,2024-06-15,A-Check (Routine),7513.98,6.8,False,1
+52,73,2025-10-06,B-Check,23383.56,17.5,True,8
+53,79,2023-08-21,Unscheduled Repair,80955.93,44.4,True,1
+54,33,2023-02-23,A-Check (Routine),6453.14,9.4,True,1
+55,106,2023-09-21,Unscheduled Repair,52916.3,33.5,True,4
+56,103,2024-05-22,B-Check,18120.22,30.3,True,3
+57,141,2025-01-19,A-Check (Routine),10172.87,11.7,True,3
+58,161,2025-11-11,Unscheduled Repair,86053.34,4.9,True,4
+59,7,2024-03-10,Engine Overhaul,729534.77,315.3,True,4
+60,66,2025-04-02,B-Check,10046.71,35.6,True,8
+61,118,2025-01-10,C-Check,361989.41,279.0,True,4
+62,100,2023-08-17,B-Check,32679.13,15.9,True,8
+63,10,2023-10-23,Engine Overhaul,533367.19,422.4,True,1
+64,50,2023-06-04,A-Check (Routine),11939.22,10.8,True,5
+65,109,2025-06-06,C-Check,287595.92,133.7,True,1
+66,125,2023-11-20,A-Check (Routine),10829.11,11.0,True,2
+67,147,2025-10-06,D-Check (Heavy),1827496.46,616.1,False,7
+68,37,2024-10-02,A-Check (Routine),9287.44,10.4,True,4
+69,123,2023-11-13,C-Check,429166.77,228.1,False,4
+70,149,2024-03-12,Unscheduled Repair,56952.01,29.2,False,2
+71,13,2024-09-02,A-Check (Routine),11342.96,5.1,False,5
+72,133,2025-08-12,Unscheduled Repair,65756.97,23.0,False,5
+73,27,2025-04-04,A-Check (Routine),11021.11,9.8,True,6
+74,36,2024-10-31,A-Check (Routine),4930.35,8.3,True,1
+75,161,2025-08-25,C-Check,371710.38,280.3,False,4
+76,14,2023-03-02,D-Check (Heavy),1126280.07,490.6,False,3
+77,166,2023-04-18,Unscheduled Repair,56926.69,38.6,True,6
+78,100,2024-05-07,C-Check,349540.56,281.6,True,6
+79,129,2023-05-30,B-Check,18491.55,13.2,True,1
+80,41,2024-10-28,A-Check (Routine),6659.52,10.0,False,4
+81,34,2023-05-26,A-Check (Routine),9671.88,4.9,False,8
+82,89,2024-06-04,Unscheduled Repair,40743.46,20.7,True,6
+83,62,2024-09-18,B-Check,17736.54,34.7,False,6
+84,91,2024-07-13,Avionics Update,48659.24,52.5,False,5
+85,133,2023-05-13,A-Check (Routine),10289.86,10.3,True,3
+86,39,2024-05-28,A-Check (Routine),5158.91,6.8,True,8
+87,133,2024-11-02,Unscheduled Repair,63739.83,36.4,True,6
+88,75,2023-05-04,A-Check (Routine),3327.1,7.6,False,5
+89,19,2023-09-15,A-Check (Routine),9450.95,11.5,True,5
+90,57,2024-07-02,B-Check,34827.62,20.3,True,6
+91,11,2023-03-11,Unscheduled Repair,69208.76,31.5,True,7
+92,130,2023-10-19,A-Check (Routine),8247.75,8.3,False,6
+93,52,2024-06-11,Avionics Update,27148.88,56.7,True,5
+94,65,2025-03-31,C-Check,203199.6,283.3,True,1
+95,2,2023-05-07,Avionics Update,67233.03,37.7,False,4
+96,48,2023-01-22,A-Check (Routine),10683.67,8.1,False,8
+97,58,2024-03-19,A-Check (Routine),9161.32,8.1,True,6
+98,60,2023-05-26,C-Check,407674.27,205.4,True,2
+99,62,2025-11-24,Unscheduled Repair,85996.01,37.9,True,5
+100,145,2024-08-26,Unscheduled Repair,10305.88,2.3,True,3
+101,115,2025-10-29,C-Check,280906.45,145.9,True,1
+102,107,2023-11-28,A-Check (Routine),10364.2,4.8,True,6
+103,103,2024-08-10,C-Check,219685.06,211.4,True,3
+104,75,2024-09-17,B-Check,23142.26,24.1,True,6
+105,98,2025-03-31,A-Check (Routine),5431.12,11.2,True,2
+106,52,2023-03-31,Unscheduled Repair,36334.09,19.1,True,7
+107,89,2024-06-04,A-Check (Routine),10973.61,6.6,False,8
+108,59,2024-01-24,Unscheduled Repair,17513.54,10.0,True,8
+109,133,2024-12-11,Unscheduled Repair,2362.79,21.2,False,3
+110,35,2023-11-10,Unscheduled Repair,61787.06,8.5,True,8
+111,74,2023-07-10,A-Check (Routine),8127.44,5.5,True,4
+112,153,2025-11-05,Engine Overhaul,1114545.42,218.3,True,5
+113,164,2024-07-14,A-Check (Routine),10822.81,10.0,True,8
+114,149,2025-02-06,B-Check,30276.94,22.2,True,6
+115,103,2025-01-28,A-Check (Routine),9698.43,8.3,True,8
+116,35,2023-07-04,C-Check,345669.63,185.6,False,6
+117,157,2025-02-22,A-Check (Routine),10222.29,11.1,False,7
+118,90,2023-08-05,Engine Overhaul,415212.85,403.4,True,3
+119,33,2023-11-06,C-Check,306864.81,154.2,True,8
+120,25,2025-10-20,Unscheduled Repair,12426.99,31.8,False,1
+121,96,2023-06-28,Engine Overhaul,570139.34,543.9,True,4
+122,147,2024-10-17,D-Check (Heavy),2149177.95,787.9,True,6
+123,40,2025-01-09,Unscheduled Repair,72704.09,13.6,True,6
+124,11,2024-11-11,C-Check,249308.08,299.5,True,1
+125,46,2023-08-11,B-Check,14822.7,33.8,True,3
+126,49,2025-10-23,C-Check,369469.24,222.2,True,7
+127,14,2023-01-09,Unscheduled Repair,64118.4,31.0,True,6
+128,11,2025-02-26,A-Check (Routine),9138.49,8.5,True,8
+129,16,2025-07-21,Unscheduled Repair,31804.1,29.3,True,5
+130,67,2024-01-13,A-Check (Routine),8154.08,4.8,True,1
+131,82,2024-05-22,A-Check (Routine),6084.11,8.6,False,1
+132,32,2024-08-21,Unscheduled Repair,36404.75,22.1,True,8
+133,53,2024-07-17,Unscheduled Repair,12620.97,30.1,True,6
+134,69,2025-05-02,Unscheduled Repair,15593.06,15.3,True,3
+135,22,2025-03-12,B-Check,12617.0,35.1,True,7
+136,46,2023-03-01,A-Check (Routine),4712.4,8.9,True,6
+137,72,2025-01-10,B-Check,21711.9,19.6,False,7
+138,3,2025-10-25,A-Check (Routine),6054.97,5.1,False,3
+139,107,2024-01-25,A-Check (Routine),9403.08,10.6,True,6
+140,59,2025-08-20,B-Check,11646.21,23.3,True,2
+141,151,2023-06-25,B-Check,28859.43,26.1,False,4
+142,11,2025-11-18,A-Check (Routine),5670.16,6.5,True,1
+143,71,2023-06-19,Engine Overhaul,915743.14,200.6,False,4
+144,166,2023-02-05,B-Check,26520.21,23.6,False,2
+145,63,2025-06-18,B-Check,24157.05,34.9,True,6
+146,135,2023-07-25,A-Check (Routine),6205.82,10.2,True,3
+147,67,2024-03-02,A-Check (Routine),3943.06,7.3,True,8
+148,112,2023-03-01,A-Check (Routine),4582.57,11.5,False,5
+149,48,2023-08-07,C-Check,353829.82,271.7,False,6
+150,105,2023-02-12,B-Check,23873.57,21.4,True,2
+151,136,2025-06-19,Unscheduled Repair,2323.21,44.1,True,5
+152,61,2023-12-31,A-Check (Routine),3704.56,4.3,False,5
+153,105,2023-06-13,Unscheduled Repair,82377.7,43.6,True,4
+154,161,2023-10-27,A-Check (Routine),7624.55,10.0,True,8
+155,29,2023-02-09,C-Check,414206.34,231.0,True,8
+156,11,2024-09-21,Engine Overhaul,1178770.16,313.7,True,5
+157,59,2025-03-24,A-Check (Routine),3613.62,11.7,True,2
+158,147,2024-03-16,A-Check (Routine),10936.65,5.1,True,1
+159,17,2023-04-01,D-Check (Heavy),1281197.14,609.2,False,6
+160,138,2023-12-07,Avionics Update,110805.41,62.1,True,7
+161,5,2023-11-13,A-Check (Routine),9271.0,4.2,True,6
+162,26,2025-07-24,C-Check,347806.74,282.5,True,1
+163,130,2025-07-08,Unscheduled Repair,38724.97,43.8,True,7
+164,112,2024-04-05,A-Check (Routine),3013.63,10.3,True,1
+165,111,2024-06-25,A-Check (Routine),10416.71,10.2,False,5
+166,88,2025-09-10,B-Check,34583.26,13.7,True,1
+167,60,2025-03-20,A-Check (Routine),9873.06,9.3,True,6
+168,49,2024-02-16,A-Check (Routine),5052.43,4.5,True,3
+169,142,2024-06-08,A-Check (Routine),10289.07,9.5,False,6
+170,164,2023-03-13,B-Check,16294.9,35.0,True,2
+171,121,2025-05-19,A-Check (Routine),3535.73,11.1,True,8
+172,77,2023-08-29,A-Check (Routine),7295.29,6.4,True,2
+173,156,2025-04-16,B-Check,14443.17,22.0,True,5
+174,165,2023-02-12,C-Check,156969.31,160.8,True,1
+175,136,2024-05-06,Unscheduled Repair,59821.84,28.0,False,2
+176,16,2023-09-01,B-Check,28405.6,21.3,True,7
+177,139,2025-09-26,A-Check (Routine),8045.41,11.6,True,2
+178,120,2025-09-11,C-Check,331566.98,284.9,True,1
+179,14,2025-12-28,Unscheduled Repair,78629.11,37.6,True,1
+180,78,2025-03-09,A-Check (Routine),3783.3,8.6,True,4
+181,14,2025-11-20,A-Check (Routine),7653.8,6.1,True,5
+182,79,2025-11-14,Unscheduled Repair,29392.35,25.5,True,8
+183,104,2024-07-08,Unscheduled Repair,7573.71,36.3,True,7
+184,121,2025-07-16,Engine Overhaul,684531.9,522.9,True,4
+185,58,2023-01-03,A-Check (Routine),6577.91,11.4,True,3
+186,150,2023-07-05,B-Check,13742.28,13.0,False,4
+187,116,2023-09-18,A-Check (Routine),6991.96,9.1,True,8
+188,116,2025-03-06,Engine Overhaul,486018.62,420.1,True,5
+189,62,2023-03-04,Unscheduled Repair,31357.41,36.2,False,4
+190,57,2023-05-31,B-Check,33833.88,23.4,False,4
+191,39,2024-10-04,C-Check,279975.48,144.6,True,3
+192,27,2023-07-18,A-Check (Routine),3137.42,4.8,True,8
+193,109,2023-05-07,C-Check,212347.72,251.4,True,4
+194,93,2024-07-29,Unscheduled Repair,63587.2,18.4,True,4
+195,106,2025-04-25,A-Check (Routine),4241.21,6.8,True,6
+196,16,2023-03-16,B-Check,21609.51,29.0,False,5
+197,35,2023-09-17,Unscheduled Repair,44852.19,43.5,False,6
+198,78,2024-07-13,Unscheduled Repair,28209.61,47.1,True,5
+199,68,2025-04-13,B-Check,32516.38,15.8,False,3
+200,132,2023-05-12,A-Check (Routine),11789.96,9.7,True,7
+201,131,2024-12-29,A-Check (Routine),8258.01,5.8,False,3
+202,21,2023-01-08,A-Check (Routine),9281.43,4.1,True,6
+203,45,2025-04-24,B-Check,28459.71,26.3,True,8
+204,154,2025-11-12,D-Check (Heavy),1487824.06,409.0,True,2
+205,87,2023-06-24,A-Check (Routine),4169.5,11.8,True,6
+206,45,2024-09-30,A-Check (Routine),4205.16,6.7,True,8
+207,84,2023-08-29,Avionics Update,71064.84,29.9,True,4
+208,128,2024-10-08,A-Check (Routine),7215.73,6.1,True,6
+209,61,2024-10-03,C-Check,259568.14,159.6,False,5
+210,141,2024-04-12,Unscheduled Repair,49638.98,14.2,True,2
+211,18,2025-01-21,A-Check (Routine),7946.63,6.8,True,8
+212,100,2024-08-17,Unscheduled Repair,34367.31,29.2,True,4
+213,63,2024-04-15,C-Check,283472.36,202.9,False,2
+214,72,2023-08-13,Unscheduled Repair,45317.45,44.0,True,2
+215,154,2025-08-21,A-Check (Routine),4009.96,6.0,True,1
+216,78,2023-09-05,A-Check (Routine),3887.58,9.4,False,7
+217,97,2024-07-27,A-Check (Routine),5362.68,11.5,False,4
+218,15,2023-01-02,A-Check (Routine),8814.85,10.0,True,6
+219,162,2023-05-21,A-Check (Routine),6438.3,10.9,True,5
+220,62,2024-03-28,A-Check (Routine),7267.4,9.8,False,1
+221,17,2023-04-25,A-Check (Routine),3260.97,10.9,False,4
+222,94,2025-04-24,A-Check (Routine),5099.19,4.4,True,8
+223,74,2024-10-17,Unscheduled Repair,5779.48,26.1,True,6
+224,125,2023-01-16,A-Check (Routine),10922.07,10.5,True,6
+225,119,2025-12-16,Unscheduled Repair,10156.78,22.0,True,8
+226,104,2024-02-11,A-Check (Routine),4695.7,11.0,True,2
+227,66,2025-10-17,Unscheduled Repair,69543.63,30.0,True,5
+228,139,2023-04-03,Engine Overhaul,1004237.58,394.3,True,1
+229,42,2025-07-13,B-Check,32983.11,26.4,True,7
+230,160,2023-07-06,B-Check,15785.27,17.0,True,6
+231,52,2024-11-29,A-Check (Routine),10489.31,9.3,True,8
+232,115,2024-06-27,B-Check,33924.25,34.2,True,3
+233,12,2025-08-29,B-Check,10414.34,18.6,True,7
+234,55,2025-12-09,A-Check (Routine),9980.25,4.2,True,1
+235,8,2023-05-21,A-Check (Routine),10996.96,11.5,True,8
+236,95,2024-08-14,Engine Overhaul,892842.79,596.6,True,7
+237,33,2023-12-27,B-Check,23095.18,24.7,True,1
+238,36,2025-08-18,Engine Overhaul,687249.35,269.5,True,5
+239,24,2025-04-29,A-Check (Routine),11218.81,4.1,True,7
+240,125,2025-07-02,B-Check,13074.46,13.1,True,1
+241,31,2025-06-19,B-Check,11622.85,30.5,False,6
+242,69,2024-12-15,A-Check (Routine),10684.09,4.6,True,6
+243,140,2023-05-28,C-Check,313928.29,252.3,True,7
+244,165,2025-01-19,A-Check (Routine),8351.72,9.1,False,1
+245,112,2023-08-09,B-Check,13070.74,12.3,True,7
+246,106,2024-02-28,C-Check,223461.88,261.3,True,6
+247,14,2024-04-20,A-Check (Routine),3194.28,8.2,True,4
+248,104,2023-01-19,A-Check (Routine),7511.4,9.9,True,4
+249,67,2024-07-06,A-Check (Routine),9647.31,7.7,False,5
+250,124,2025-02-09,A-Check (Routine),3949.75,11.2,True,8
+251,133,2023-03-08,Unscheduled Repair,51418.54,17.2,True,7
+252,78,2023-12-14,A-Check (Routine),11800.5,11.3,True,5
+253,31,2025-06-27,B-Check,24534.31,29.0,True,1
+254,117,2023-11-18,Unscheduled Repair,49895.59,3.5,True,1
+255,83,2024-02-19,Unscheduled Repair,14470.16,34.8,False,2
+256,39,2024-05-19,A-Check (Routine),8257.39,6.8,True,5
+257,9,2024-01-30,Unscheduled Repair,75404.47,43.1,True,6
+258,13,2024-01-08,B-Check,32490.32,17.9,True,6
+259,117,2024-04-20,A-Check (Routine),7022.42,10.3,True,2
+260,63,2025-06-23,Engine Overhaul,598872.85,337.3,False,3
+261,133,2024-12-05,A-Check (Routine),8335.09,11.7,False,7
+262,137,2025-09-07,D-Check (Heavy),2043006.01,765.1,True,1
+263,91,2023-08-23,A-Check (Routine),3454.78,5.8,True,1
+264,47,2023-02-18,B-Check,25684.89,31.8,True,5
+265,74,2025-02-07,Unscheduled Repair,40687.12,40.3,False,8
+266,139,2025-06-17,B-Check,30096.62,15.8,False,3
+267,119,2025-01-27,A-Check (Routine),9904.73,5.2,False,3
+268,157,2024-11-13,A-Check (Routine),7875.09,7.2,True,6
+269,69,2025-06-27,A-Check (Routine),7509.07,10.6,True,5
+270,72,2025-05-13,A-Check (Routine),6715.78,7.4,True,1
+271,153,2024-03-26,Unscheduled Repair,49846.04,5.2,True,8
+272,166,2025-10-09,A-Check (Routine),4690.78,10.5,True,4
+273,83,2023-01-31,Engine Overhaul,411661.78,400.5,True,3
+274,143,2023-12-12,A-Check (Routine),3674.61,4.9,True,6
+275,9,2024-03-10,C-Check,233935.61,120.6,True,2
+276,105,2024-04-28,A-Check (Routine),11549.78,7.9,False,1
+277,17,2025-01-22,A-Check (Routine),10065.3,10.2,True,8
+278,154,2023-03-24,Unscheduled Repair,88107.82,47.3,True,2
+279,146,2023-12-03,Unscheduled Repair,45753.4,11.0,False,4
+280,66,2023-06-26,A-Check (Routine),10527.04,7.7,True,6
+281,55,2025-08-19,Engine Overhaul,825954.1,365.2,True,7
+282,143,2023-11-05,A-Check (Routine),5429.8,9.9,True,2
+283,55,2024-01-14,Unscheduled Repair,2366.76,31.8,True,3
+284,140,2024-06-16,D-Check (Heavy),2124737.41,404.5,True,6
+285,160,2023-03-20,Unscheduled Repair,37935.14,8.1,True,3
+286,111,2023-06-10,Avionics Update,103452.33,74.5,False,4
+287,84,2025-01-08,Avionics Update,56692.29,68.7,True,2
+288,10,2025-11-17,B-Check,21646.46,29.1,True,5
+289,65,2025-05-09,Unscheduled Repair,76764.17,9.9,True,2
+290,86,2025-06-30,Avionics Update,114101.19,42.9,True,8
+291,134,2025-07-29,Unscheduled Repair,78823.12,24.4,True,2
+292,166,2025-04-05,Unscheduled Repair,67712.97,8.7,True,3
+293,67,2024-07-02,A-Check (Routine),4990.29,7.4,True,2
+294,101,2024-09-18,A-Check (Routine),7605.33,8.7,True,6
+295,131,2023-08-30,A-Check (Routine),7758.5,4.3,True,4
+296,54,2023-04-29,Unscheduled Repair,73620.54,14.1,False,7
+297,6,2025-11-16,Avionics Update,79527.65,39.1,True,2
+298,71,2023-01-01,B-Check,26118.09,29.9,True,2
+299,57,2024-10-30,B-Check,20602.63,17.7,False,7
+300,145,2024-12-03,D-Check (Heavy),2374143.06,547.3,True,8
+301,68,2023-12-19,C-Check,273588.92,241.1,True,7
+302,15,2024-03-04,A-Check (Routine),11050.62,10.2,True,1
+303,21,2025-02-22,B-Check,20171.01,33.3,True,8
+304,119,2023-11-06,A-Check (Routine),9861.3,8.8,True,3
+305,108,2025-12-04,A-Check (Routine),7918.63,8.4,True,4
+306,87,2024-05-30,A-Check (Routine),6413.92,6.2,True,2
+307,128,2025-04-19,Engine Overhaul,1168708.72,401.2,True,6
+308,112,2023-09-10,Unscheduled Repair,56352.01,10.0,True,3
+309,151,2024-01-27,Engine Overhaul,519071.66,440.6,True,4
+310,161,2024-07-22,A-Check (Routine),8131.1,11.3,True,7
+311,111,2025-05-19,B-Check,24375.54,13.5,True,1
+312,57,2023-08-03,Unscheduled Repair,86125.64,28.4,True,2
+313,46,2023-04-11,B-Check,30368.17,16.2,False,5
+314,123,2025-04-16,Unscheduled Repair,48670.29,41.3,True,8
+315,73,2025-03-29,A-Check (Routine),10161.23,8.3,False,8
+316,129,2023-10-19,C-Check,394266.95,160.7,True,1
+317,119,2023-12-05,Unscheduled Repair,16831.18,9.2,False,3
+318,44,2024-03-09,C-Check,199957.58,133.9,False,7
+319,135,2024-09-15,Engine Overhaul,856101.82,550.6,True,3
+320,93,2023-07-17,C-Check,342889.87,267.9,True,8
+321,154,2024-11-23,A-Check (Routine),7623.25,6.8,True,1
+322,11,2025-12-19,B-Check,33879.13,28.9,False,4
+323,86,2024-04-19,Unscheduled Repair,23362.01,24.6,True,2
+324,129,2025-06-25,A-Check (Routine),10720.97,9.5,True,1
+325,93,2023-05-07,Unscheduled Repair,22252.86,3.6,False,5
+326,153,2025-07-13,Unscheduled Repair,47459.97,42.9,True,7
+327,115,2023-01-29,A-Check (Routine),11172.03,10.8,True,7
+328,71,2023-06-23,Avionics Update,111340.87,57.3,True,5
+329,130,2025-01-02,A-Check (Routine),9151.49,8.8,False,7
+330,149,2025-10-15,C-Check,259309.67,295.1,True,7
+331,37,2024-01-12,Avionics Update,34562.35,44.6,True,2
+332,139,2025-05-03,Unscheduled Repair,8876.52,46.1,True,5
+333,5,2025-08-16,A-Check (Routine),9567.86,6.4,True,6
+334,81,2024-11-28,Unscheduled Repair,41009.9,4.9,True,2
+335,81,2025-08-01,C-Check,373233.37,122.7,True,6
+336,130,2025-09-10,A-Check (Routine),10102.27,7.0,True,1
+337,87,2024-09-10,B-Check,10374.13,19.3,True,2
+338,27,2024-10-27,A-Check (Routine),6933.11,5.6,True,8
+339,113,2024-05-13,A-Check (Routine),7285.94,6.1,False,2
+340,20,2024-12-22,Avionics Update,107846.62,69.3,True,5
+341,2,2024-06-27,B-Check,13292.61,33.8,True,8
+342,10,2023-09-30,B-Check,17958.87,34.2,False,2
+343,71,2023-05-09,Unscheduled Repair,40922.59,7.5,True,1
+344,82,2025-10-10,A-Check (Routine),10900.57,4.9,True,4
+345,54,2025-11-25,A-Check (Routine),10026.72,9.5,False,6
+346,110,2025-03-11,Unscheduled Repair,43752.76,34.5,True,3
+347,9,2023-11-12,Unscheduled Repair,58758.84,12.9,True,1
+348,10,2024-04-07,Engine Overhaul,872497.66,201.6,True,2
+349,144,2024-11-19,Unscheduled Repair,33065.69,43.4,False,3
+350,37,2023-08-15,B-Check,10773.97,33.5,True,4
+351,151,2025-03-07,Unscheduled Repair,21527.53,26.8,True,5
+352,118,2025-09-09,A-Check (Routine),10703.04,6.6,True,3
+353,137,2023-09-24,A-Check (Routine),8355.04,6.5,False,3
+354,88,2025-06-12,C-Check,244598.36,196.6,True,2
+355,149,2025-04-23,A-Check (Routine),6457.87,4.1,True,7
+356,137,2023-05-05,Unscheduled Repair,51204.12,15.6,True,2
+357,130,2023-10-10,A-Check (Routine),3549.94,5.3,True,8
+358,114,2025-01-04,Unscheduled Repair,18231.03,31.2,True,3
+359,156,2024-06-21,B-Check,31826.51,25.4,True,3
+360,13,2023-07-06,Unscheduled Repair,42621.36,40.8,True,2
+361,84,2025-10-14,A-Check (Routine),11243.27,5.6,True,6
+362,46,2024-04-26,C-Check,200389.29,163.1,True,4
+363,25,2025-09-05,Avionics Update,112514.72,78.2,True,5
+364,97,2025-03-05,Unscheduled Repair,17822.54,35.5,False,5
+365,21,2025-05-26,Unscheduled Repair,14800.05,8.9,True,3
+366,55,2025-11-24,Unscheduled Repair,60229.25,40.2,True,5
+367,111,2024-06-11,B-Check,24113.37,15.5,True,8
+368,68,2023-11-15,Unscheduled Repair,20145.25,43.2,True,2
+369,71,2023-05-11,D-Check (Heavy),1338093.35,840.7,True,3
+370,52,2024-04-30,B-Check,19318.36,32.4,True,4
+371,70,2025-03-06,B-Check,33950.0,32.7,True,2
+372,97,2025-11-25,C-Check,228552.96,171.2,True,3
+373,32,2023-01-28,Unscheduled Repair,12023.32,8.1,True,5
+374,35,2024-08-08,A-Check (Routine),6265.42,8.7,True,6
+375,115,2025-03-10,A-Check (Routine),8047.21,5.5,True,7
+376,63,2024-05-22,A-Check (Routine),8618.25,11.5,True,6
+377,103,2024-03-09,A-Check (Routine),6182.82,4.3,False,2
+378,131,2024-06-10,A-Check (Routine),9603.1,8.9,True,3
+379,98,2025-04-13,Unscheduled Repair,52230.65,17.6,False,4
+380,94,2024-01-23,A-Check (Routine),5704.89,9.9,False,5
+381,123,2025-09-01,Unscheduled Repair,62244.99,24.7,False,2
+382,4,2024-06-27,D-Check (Heavy),1102938.1,441.3,False,5
+383,131,2024-06-20,Avionics Update,46117.07,78.8,True,4
+384,7,2025-01-21,A-Check (Routine),8430.43,10.5,True,7
+385,106,2023-04-02,Unscheduled Repair,52069.83,41.9,False,6
+386,100,2023-08-10,Unscheduled Repair,37997.95,29.1,True,5
+387,96,2023-09-10,B-Check,16152.49,26.6,True,7
+388,12,2024-10-17,A-Check (Routine),6993.12,4.4,True,8
+389,121,2024-04-10,Unscheduled Repair,27454.94,30.6,True,6
+390,116,2023-04-15,A-Check (Routine),6690.49,6.3,True,4
+391,90,2024-09-26,A-Check (Routine),7716.93,6.4,True,5
+392,165,2024-08-03,Unscheduled Repair,72708.98,6.8,True,1
+393,7,2023-11-16,C-Check,436079.44,239.4,True,6
+394,36,2024-08-15,A-Check (Routine),3721.77,10.7,True,7
+395,14,2023-11-23,A-Check (Routine),10920.82,10.0,True,8
+396,139,2023-03-25,B-Check,17895.54,12.9,True,4
+397,115,2023-03-20,Unscheduled Repair,39456.58,10.5,True,2
+398,47,2023-09-15,A-Check (Routine),10306.11,6.4,True,7
+399,146,2023-11-04,A-Check (Routine),4416.98,8.5,True,5
+400,164,2023-12-16,Unscheduled Repair,17427.88,47.7,True,3
+401,138,2023-01-30,A-Check (Routine),10293.7,8.8,True,2
+402,116,2024-06-06,A-Check (Routine),8577.41,10.9,True,3
+403,101,2024-04-03,A-Check (Routine),4263.58,10.5,True,5
+404,118,2025-03-04,A-Check (Routine),5744.39,7.3,True,4
+405,38,2025-01-26,A-Check (Routine),4869.06,9.3,True,2
+406,40,2023-01-21,Unscheduled Repair,45044.16,3.4,True,3
+407,121,2023-10-18,A-Check (Routine),11321.03,5.3,True,6
+408,53,2024-06-23,Engine Overhaul,409394.69,491.7,False,1
+409,106,2025-10-29,B-Check,11685.13,20.1,False,7
+410,22,2025-12-26,A-Check (Routine),7804.81,9.1,True,3
+411,71,2024-07-24,B-Check,23814.8,24.7,True,6
+412,120,2025-07-14,A-Check (Routine),3018.09,9.5,True,4
+413,138,2025-11-04,D-Check (Heavy),1180116.07,739.2,True,3
+414,6,2024-05-18,Unscheduled Repair,55732.76,34.8,False,1
+415,43,2024-08-14,B-Check,34851.13,20.0,False,1
+416,15,2025-01-28,B-Check,15444.41,33.9,True,5
+417,112,2025-06-09,A-Check (Routine),10881.94,4.3,False,6
+418,95,2023-06-09,A-Check (Routine),4097.41,9.3,True,1
+419,24,2023-07-08,C-Check,244782.46,220.9,True,2
+420,54,2024-01-25,A-Check (Routine),7157.02,9.3,True,8
+421,43,2024-06-24,B-Check,20475.8,13.2,False,2
+422,38,2024-08-08,A-Check (Routine),8361.63,6.2,False,6
+423,74,2025-10-10,A-Check (Routine),11937.8,11.0,True,4
+424,143,2025-08-10,A-Check (Routine),10658.28,6.6,True,3
+425,149,2023-07-19,A-Check (Routine),11633.44,5.1,True,3
+426,38,2024-09-27,B-Check,13907.42,12.9,False,4
+427,99,2023-10-11,A-Check (Routine),5345.49,10.0,True,1
+428,36,2024-02-06,B-Check,10313.18,34.1,True,3
+429,116,2025-10-20,C-Check,167528.53,145.7,True,8
+430,75,2025-06-15,B-Check,30477.28,30.3,True,4
+431,149,2025-09-04,Unscheduled Repair,7761.96,27.2,True,7
+432,101,2024-07-12,A-Check (Routine),5667.48,11.0,False,6
+433,24,2023-03-12,Unscheduled Repair,59255.56,8.3,True,2
+434,25,2023-11-28,B-Check,32387.15,13.3,True,2
+435,30,2024-02-12,C-Check,243510.82,200.5,False,3
+436,48,2025-01-24,Unscheduled Repair,81448.21,38.5,True,2
+437,50,2023-04-16,A-Check (Routine),7703.98,5.5,True,3
+438,3,2025-10-01,Engine Overhaul,1143123.53,466.2,True,7
+439,41,2023-04-08,B-Check,18327.56,30.8,True,3
+440,42,2024-06-18,A-Check (Routine),5322.43,5.7,True,5
+441,146,2025-02-20,A-Check (Routine),4146.34,6.6,True,3
+442,153,2023-09-26,Unscheduled Repair,57834.44,17.9,True,2
+443,19,2025-05-10,B-Check,20406.12,22.6,True,7
+444,159,2025-09-13,A-Check (Routine),7543.46,9.9,False,8
+445,56,2025-04-15,A-Check (Routine),5241.37,6.8,False,8
+446,111,2024-11-07,Unscheduled Repair,76784.92,15.1,True,8
+447,106,2023-10-06,B-Check,19885.5,28.3,False,5
+448,38,2023-07-27,B-Check,20746.44,35.2,True,4
+449,133,2023-11-12,Unscheduled Repair,57304.46,39.1,False,1
+450,124,2023-12-16,Avionics Update,75606.7,29.3,True,7
+451,2,2023-01-09,B-Check,26708.15,13.6,True,3
+452,69,2025-10-27,C-Check,386516.94,257.4,False,5
+453,2,2023-10-07,A-Check (Routine),9226.22,5.6,True,8
+454,27,2024-02-10,C-Check,206167.94,286.0,True,7
+455,69,2023-12-27,Avionics Update,90895.73,37.9,True,1
+456,50,2023-03-29,Unscheduled Repair,21401.4,19.9,True,7
+457,166,2023-03-05,C-Check,272747.4,275.4,True,5
+458,158,2023-07-23,C-Check,327268.27,209.0,True,2
+459,65,2025-05-23,A-Check (Routine),5556.73,8.7,True,6
+460,97,2025-07-15,B-Check,18348.99,22.3,True,3
+461,26,2024-05-20,B-Check,23259.57,27.9,True,1
+462,162,2024-02-08,A-Check (Routine),6433.46,10.9,True,5
+463,126,2024-12-23,Unscheduled Repair,80938.31,40.9,False,7
+464,27,2025-07-15,A-Check (Routine),4940.9,9.3,False,7
+465,40,2024-11-19,Unscheduled Repair,25984.11,12.5,False,6
+466,116,2024-12-22,A-Check (Routine),3720.5,8.6,False,3
+467,69,2025-04-05,A-Check (Routine),3719.02,6.9,True,8
+468,113,2024-04-20,A-Check (Routine),3499.88,11.8,True,7
+469,106,2025-05-09,Unscheduled Repair,86999.37,24.0,True,7
+470,133,2024-06-17,A-Check (Routine),9082.49,9.2,True,5
+471,41,2023-04-10,A-Check (Routine),10547.21,7.0,True,7
+472,144,2024-01-06,A-Check (Routine),7807.37,7.9,True,4
+473,88,2024-05-21,A-Check (Routine),7817.39,6.8,False,1
+474,81,2023-11-30,Unscheduled Repair,42783.41,19.2,True,4
+475,17,2024-11-30,B-Check,31992.6,30.8,True,4
+476,46,2023-01-13,A-Check (Routine),3944.31,11.2,False,2
+477,19,2023-07-24,A-Check (Routine),10508.1,11.0,False,7
+478,160,2025-03-30,C-Check,382478.18,224.7,True,5
+479,149,2023-08-10,B-Check,12123.18,24.7,True,2
+480,11,2025-02-28,Unscheduled Repair,34734.85,40.1,True,2
+481,121,2023-12-03,Unscheduled Repair,18783.4,44.9,True,3
+482,131,2024-04-10,Unscheduled Repair,76051.49,28.1,False,4
+483,93,2023-11-14,B-Check,11626.17,20.3,True,4
+484,125,2023-06-23,B-Check,14427.26,32.3,True,4
+485,102,2023-09-25,Unscheduled Repair,62373.82,37.3,True,1
+486,62,2024-11-20,A-Check (Routine),7695.28,4.1,True,7
+487,98,2024-03-12,A-Check (Routine),7861.07,8.7,False,7
+488,156,2025-06-23,Avionics Update,103715.84,72.8,False,3
+489,12,2024-05-22,B-Check,30853.75,16.0,False,1
+490,166,2025-11-17,A-Check (Routine),7197.25,6.4,True,7
+491,71,2023-06-06,B-Check,18404.21,15.6,True,5
+492,35,2025-03-02,C-Check,338669.87,128.8,True,5
+493,74,2023-02-02,B-Check,22415.42,12.6,True,8
+494,95,2024-10-24,Unscheduled Repair,36246.47,3.9,False,1
+495,152,2024-10-29,C-Check,409855.3,248.3,True,2
+496,133,2024-05-17,Unscheduled Repair,66048.31,21.1,True,8
+497,99,2025-08-04,A-Check (Routine),10117.49,5.9,True,3
+498,39,2023-02-04,A-Check (Routine),8465.59,4.9,False,6
+499,157,2023-02-09,Unscheduled Repair,17380.25,37.9,False,7
+500,128,2024-05-22,Engine Overhaul,559065.57,491.8,True,4
+501,93,2023-02-21,Avionics Update,114497.13,43.5,True,7
+502,123,2023-01-20,Unscheduled Repair,41151.14,14.0,True,3
+503,163,2023-11-26,B-Check,15504.38,33.8,True,6
+504,148,2024-06-02,C-Check,314788.62,136.1,True,4
+505,166,2023-06-05,C-Check,210203.94,262.3,True,2
+506,53,2024-03-07,A-Check (Routine),3747.87,7.4,True,8
+507,89,2025-02-21,A-Check (Routine),11829.02,11.0,True,2
+508,10,2023-08-20,C-Check,447789.95,284.3,True,6
+509,95,2025-09-03,A-Check (Routine),4161.26,4.1,False,2
+510,6,2023-07-13,C-Check,238087.08,278.1,True,7
+511,2,2023-11-21,A-Check (Routine),6276.27,7.1,True,7
+512,132,2024-12-04,B-Check,32933.39,22.1,False,7
+513,45,2023-04-28,A-Check (Routine),6764.43,6.9,False,6
+514,122,2025-01-30,B-Check,15582.57,34.3,False,4
+515,116,2025-01-26,Unscheduled Repair,18648.66,32.7,True,3
+516,122,2025-09-10,C-Check,345359.13,167.9,True,3
+517,107,2024-08-28,B-Check,31128.16,23.6,True,8
+518,67,2024-05-19,Unscheduled Repair,5531.23,41.0,True,1
+519,84,2024-08-13,B-Check,14876.84,28.3,True,2
+520,120,2023-08-10,Unscheduled Repair,66923.05,20.3,True,2
+521,82,2023-05-03,Unscheduled Repair,23080.63,10.5,False,8
+522,165,2023-10-22,A-Check (Routine),6927.0,10.7,False,2
+523,152,2023-03-13,B-Check,16709.53,24.9,False,3
+524,23,2025-12-10,A-Check (Routine),9077.68,8.8,True,7
+525,129,2024-01-11,B-Check,27820.34,21.2,False,3
+526,147,2023-04-05,Avionics Update,65438.82,24.2,True,1
+527,138,2025-11-24,Engine Overhaul,551825.6,450.9,False,1
+528,103,2025-02-02,Unscheduled Repair,24192.9,24.6,True,5
+529,148,2024-02-13,A-Check (Routine),7286.21,6.6,True,4
+530,57,2024-05-29,A-Check (Routine),6719.11,7.7,True,6
+531,54,2023-03-12,C-Check,291184.4,217.6,True,8
+532,147,2023-10-26,B-Check,29355.32,12.3,False,2
+533,160,2023-09-03,A-Check (Routine),7672.17,11.6,False,2
+534,137,2025-03-30,A-Check (Routine),5058.95,6.9,True,6
+535,85,2025-01-24,Unscheduled Repair,58203.04,19.4,False,1
+536,150,2025-06-01,B-Check,20596.83,34.0,True,4
+537,79,2025-05-30,A-Check (Routine),3052.25,8.6,True,5
+538,100,2023-05-31,Unscheduled Repair,30895.11,23.1,True,4
+539,95,2024-04-15,A-Check (Routine),4401.68,4.5,True,3
+540,40,2023-03-25,A-Check (Routine),4519.93,10.7,True,4
+541,70,2024-12-06,B-Check,11619.48,34.2,True,6
+542,27,2023-07-02,B-Check,10497.18,35.6,True,1
+543,102,2023-08-30,A-Check (Routine),7296.92,5.4,True,8
+544,88,2023-02-15,A-Check (Routine),4906.12,5.7,True,3
+545,60,2023-10-17,B-Check,15554.74,30.6,True,4
+546,83,2023-11-05,Unscheduled Repair,70697.1,22.8,True,8
+547,157,2023-07-13,C-Check,448524.21,244.5,True,3
+548,27,2024-03-18,Unscheduled Repair,75841.29,30.7,True,3
+549,16,2024-08-05,Unscheduled Repair,82812.64,21.8,True,1
+550,6,2024-09-03,C-Check,331975.28,136.3,True,5
+551,108,2023-08-05,C-Check,366932.85,188.4,True,8
+552,84,2023-05-14,A-Check (Routine),6868.68,11.6,False,4
+553,152,2024-03-10,B-Check,19451.25,16.3,True,8
+554,146,2025-01-21,A-Check (Routine),3056.27,7.0,True,4
+555,32,2025-02-26,C-Check,326150.55,155.2,False,5
+556,20,2023-09-21,Avionics Update,88512.77,35.0,True,6
+557,60,2024-01-26,B-Check,23855.85,20.1,False,6
+558,127,2023-01-03,B-Check,11667.88,20.5,False,5
+559,70,2024-06-17,A-Check (Routine),10345.61,6.1,True,3
+560,42,2023-12-17,C-Check,391835.59,298.0,True,4
+561,156,2025-09-21,Unscheduled Repair,87940.4,37.8,True,5
+562,164,2025-03-24,C-Check,376390.32,269.2,True,2
+563,30,2025-04-26,A-Check (Routine),10389.42,6.3,False,1
+564,47,2023-09-21,C-Check,185641.6,222.5,False,5
+565,18,2025-11-06,Engine Overhaul,1124231.22,275.4,False,1
+566,41,2023-12-10,A-Check (Routine),4827.37,7.5,True,2
+567,134,2023-10-03,Unscheduled Repair,25012.18,8.2,True,8
+568,56,2025-03-08,C-Check,432942.12,199.8,True,8
+569,146,2024-10-31,Unscheduled Repair,63598.44,25.7,False,7
+570,108,2024-08-29,Unscheduled Repair,32837.79,37.4,True,1
+571,68,2024-10-21,Unscheduled Repair,29935.2,33.2,False,3
+572,70,2024-09-08,A-Check (Routine),8397.73,7.0,True,5
+573,63,2023-10-03,Engine Overhaul,463408.71,240.3,True,3
+574,65,2023-03-08,Unscheduled Repair,62233.07,27.3,True,1
+575,98,2025-11-13,A-Check (Routine),9250.86,6.4,True,5
+576,153,2023-12-02,A-Check (Routine),8306.57,10.1,False,3
+577,2,2025-02-17,B-Check,11487.38,19.5,False,6
+578,48,2024-02-08,A-Check (Routine),11250.24,8.0,False,2
+579,76,2023-12-25,A-Check (Routine),11544.86,4.5,True,5
+580,143,2025-09-20,C-Check,244724.2,143.4,True,3
+581,138,2025-04-12,A-Check (Routine),11291.94,9.6,True,1
+582,136,2025-11-16,A-Check (Routine),8309.65,5.8,False,6
+583,97,2024-05-15,Unscheduled Repair,70536.11,15.9,True,7
+584,92,2025-08-08,Unscheduled Repair,85760.81,10.9,True,1
+585,124,2024-05-16,A-Check (Routine),3282.93,6.7,False,7
+586,40,2025-03-28,A-Check (Routine),7151.18,10.0,True,6
+587,106,2024-05-19,Engine Overhaul,1103915.17,210.0,False,3
+588,83,2023-01-24,A-Check (Routine),3090.49,10.8,False,1
+589,35,2024-03-04,A-Check (Routine),5633.41,11.5,True,1
+590,151,2025-07-15,D-Check (Heavy),2379802.63,667.7,True,3
+591,6,2024-12-06,A-Check (Routine),9070.63,11.3,True,4
+592,145,2023-05-16,Unscheduled Repair,21313.73,39.6,True,3
+593,116,2025-08-16,D-Check (Heavy),1135793.99,882.5,False,2
+594,96,2025-04-20,A-Check (Routine),9036.7,9.0,True,4
+595,97,2025-10-17,A-Check (Routine),3157.49,5.5,True,2
+596,129,2025-11-18,B-Check,17822.27,28.2,True,8
+597,3,2024-09-17,A-Check (Routine),3228.82,6.7,True,2
+598,100,2025-03-30,B-Check,30390.28,22.8,True,1
+599,78,2023-07-22,Unscheduled Repair,31562.39,20.2,True,1
+600,54,2025-11-27,A-Check (Routine),6889.08,6.2,True,3
+601,96,2023-10-06,Engine Overhaul,1126262.49,213.9,True,7
+602,81,2023-01-10,A-Check (Routine),4431.75,5.4,False,1
+603,31,2024-03-05,Unscheduled Repair,80666.43,44.9,True,3
+604,77,2023-03-17,Unscheduled Repair,12321.32,23.4,True,2
+605,125,2023-10-11,A-Check (Routine),6108.65,11.6,True,3
+606,78,2024-07-20,Unscheduled Repair,61499.46,31.7,True,6
+607,61,2023-10-06,C-Check,431198.58,285.3,False,3
+608,76,2024-08-16,A-Check (Routine),9085.63,6.5,True,4
+609,130,2024-06-28,Unscheduled Repair,68197.43,7.3,True,4
+610,19,2023-09-24,B-Check,24078.69,23.6,True,7
+611,37,2024-03-25,C-Check,338102.05,135.7,False,3
+612,43,2023-06-24,B-Check,24256.5,23.0,True,4
+613,22,2023-09-26,B-Check,23565.88,13.4,True,2
+614,96,2024-12-07,A-Check (Routine),4855.35,9.1,True,3
+615,160,2024-05-30,A-Check (Routine),6370.17,11.2,False,7
+616,18,2025-08-19,A-Check (Routine),11612.29,10.2,False,3
+617,142,2023-02-20,B-Check,17541.87,20.5,True,8
+618,6,2024-11-06,A-Check (Routine),10498.83,6.2,True,3
+619,134,2024-10-19,A-Check (Routine),7544.48,6.6,True,2
+620,91,2023-12-13,B-Check,26514.56,22.1,True,3
+621,118,2025-10-11,A-Check (Routine),7121.35,6.1,True,5
+622,153,2024-08-10,B-Check,33554.55,27.4,True,4
+623,138,2025-03-11,Unscheduled Repair,41651.78,12.1,True,6
+624,39,2024-06-09,Unscheduled Repair,70422.32,23.1,True,4
+625,30,2024-09-04,Engine Overhaul,461978.37,556.3,True,8
+626,64,2024-08-07,B-Check,18077.51,19.5,True,2
+627,104,2025-12-18,A-Check (Routine),8087.56,4.3,True,6
+628,106,2024-09-12,A-Check (Routine),9623.75,7.9,True,4
+629,59,2025-04-06,B-Check,31024.38,18.5,True,1
+630,128,2025-03-15,B-Check,16433.2,32.6,True,7
+631,91,2025-01-22,Unscheduled Repair,64740.36,8.9,True,8
+632,126,2025-01-11,Engine Overhaul,1035902.78,568.8,True,5
+633,97,2024-07-06,B-Check,26561.22,25.3,True,2
+634,78,2024-08-27,A-Check (Routine),8341.03,7.4,True,1
+635,119,2023-02-21,Unscheduled Repair,19581.17,22.0,True,8
+636,75,2024-07-18,B-Check,33306.81,22.9,True,7
+637,156,2025-03-05,C-Check,335993.12,223.2,False,3
+638,39,2023-10-01,Unscheduled Repair,39990.39,13.3,False,8
+639,102,2025-10-28,Unscheduled Repair,66256.26,17.3,True,6
+640,17,2023-11-03,A-Check (Routine),11227.58,9.3,False,8
+641,4,2025-08-15,Unscheduled Repair,62508.85,28.9,True,1
+642,60,2025-01-16,B-Check,31704.85,18.1,False,4
+643,31,2023-03-09,B-Check,28466.14,23.3,True,6
+644,128,2024-05-15,Unscheduled Repair,67727.59,21.3,True,7
+645,23,2023-04-21,C-Check,362363.24,274.7,True,1
+646,101,2024-08-11,Unscheduled Repair,28154.85,19.7,True,4
+647,166,2023-11-28,A-Check (Routine),4048.02,4.5,True,8
+648,130,2023-01-25,A-Check (Routine),7686.37,4.1,True,7
+649,136,2025-02-14,D-Check (Heavy),2300334.77,440.9,False,3
+650,74,2024-05-18,C-Check,312481.32,230.6,True,3
+651,108,2024-11-05,B-Check,27021.14,12.3,True,8
+652,152,2023-03-26,C-Check,337228.14,170.6,True,1
+653,66,2023-05-18,Unscheduled Repair,66476.07,26.3,True,4
+654,42,2023-03-04,Unscheduled Repair,67438.19,29.6,True,5
+655,76,2023-05-24,C-Check,358557.62,126.0,True,8
+656,147,2024-03-05,A-Check (Routine),10670.74,4.8,False,4
+657,48,2023-01-19,Unscheduled Repair,53585.22,35.8,False,7
+658,137,2025-08-15,Unscheduled Repair,46518.92,27.7,True,7
+659,83,2024-08-09,Unscheduled Repair,24963.99,20.5,True,5
+660,161,2025-04-26,D-Check (Heavy),1439082.38,717.4,True,3
+661,48,2025-01-23,Unscheduled Repair,74322.76,13.9,False,1
+662,43,2024-12-12,Avionics Update,97692.97,57.3,True,8
+663,76,2023-03-11,A-Check (Routine),5389.98,6.9,True,8
+664,64,2024-08-03,Unscheduled Repair,40594.8,31.7,True,6
+665,54,2023-04-06,Engine Overhaul,579066.46,331.6,True,2
+666,1,2023-07-24,B-Check,12005.81,26.6,False,4
+667,43,2025-03-24,A-Check (Routine),5263.87,7.8,True,3
+668,23,2023-10-10,A-Check (Routine),6921.34,11.2,False,4
+669,27,2023-03-31,A-Check (Routine),11319.85,8.8,True,8
+670,81,2023-01-30,B-Check,20625.12,32.9,True,6
+671,57,2023-03-05,A-Check (Routine),10255.18,7.5,True,2
+672,53,2023-12-15,A-Check (Routine),3016.21,7.3,False,1
+673,99,2023-11-18,A-Check (Routine),4639.94,8.4,False,7
+674,132,2023-12-02,A-Check (Routine),10149.81,5.1,False,3
+675,95,2024-05-08,A-Check (Routine),3385.51,4.1,False,2
+676,6,2024-04-23,A-Check (Routine),10212.47,5.4,True,6
+677,142,2023-07-07,A-Check (Routine),6765.25,6.8,True,4
+678,75,2025-03-21,Avionics Update,103845.42,51.8,True,1
+679,87,2023-04-24,A-Check (Routine),7093.99,10.3,True,2
+680,156,2023-09-01,Unscheduled Repair,79258.82,29.4,False,4
+681,25,2023-05-13,A-Check (Routine),10669.17,9.4,False,6
+682,148,2024-05-29,A-Check (Routine),3228.39,6.5,True,2
+683,30,2024-05-17,Engine Overhaul,1153595.72,578.4,True,4
+684,66,2023-02-05,Unscheduled Repair,52954.9,41.6,False,4
+685,40,2024-10-26,A-Check (Routine),9013.83,9.8,False,4
+686,11,2024-11-21,Engine Overhaul,620984.53,416.5,True,1
+687,65,2024-08-03,A-Check (Routine),11470.62,8.4,True,2
+688,59,2025-08-11,Unscheduled Repair,65341.36,36.3,True,6
+689,55,2024-07-07,Unscheduled Repair,10583.07,36.8,True,3
+690,96,2024-08-31,A-Check (Routine),8271.07,11.4,True,6
+691,61,2025-03-02,A-Check (Routine),3963.48,6.1,False,8
+692,76,2023-01-06,Unscheduled Repair,23988.22,30.2,False,3
+693,61,2024-07-21,C-Check,176614.56,141.2,True,8
+694,87,2025-06-22,D-Check (Heavy),1789981.42,633.0,True,2
+695,111,2024-09-14,B-Check,18904.36,16.0,False,7
+696,111,2024-08-24,A-Check (Routine),4213.35,5.2,True,3
+697,14,2023-06-17,Unscheduled Repair,87963.49,19.4,True,5
+698,42,2023-03-13,B-Check,24811.07,35.5,True,3
+699,8,2025-07-22,Unscheduled Repair,2649.17,3.8,True,5
+700,19,2024-08-05,A-Check (Routine),7607.96,4.8,True,3
+701,117,2024-05-21,Unscheduled Repair,24451.99,31.6,True,3
+702,58,2023-04-22,B-Check,25288.62,18.1,True,1
+703,63,2024-09-29,A-Check (Routine),9708.68,9.1,True,1
+704,96,2024-01-18,Unscheduled Repair,72105.52,37.2,True,1
+705,108,2023-07-07,C-Check,323696.6,123.5,True,4
+706,111,2025-05-15,Unscheduled Repair,48149.5,47.1,True,5
+707,120,2023-01-15,A-Check (Routine),5788.17,9.5,True,8
+708,149,2023-01-01,B-Check,18515.37,34.3,True,3
+709,110,2024-06-21,A-Check (Routine),6888.11,9.0,False,5
+710,26,2025-05-09,Unscheduled Repair,74760.37,35.8,True,5
+711,104,2024-04-15,Unscheduled Repair,63442.06,44.8,True,2
+712,36,2023-08-23,C-Check,439206.66,185.0,False,8
+713,5,2023-06-23,D-Check (Heavy),1462196.2,548.8,True,5
+714,71,2023-04-07,A-Check (Routine),6629.4,7.2,True,1
+715,18,2023-02-24,A-Check (Routine),4992.75,6.9,False,4
+716,51,2025-09-07,A-Check (Routine),9977.03,8.9,False,7
+717,38,2023-10-03,Unscheduled Repair,77783.93,10.1,True,8
+718,148,2024-05-04,Avionics Update,51631.38,26.3,True,5
+719,23,2025-04-22,C-Check,442074.5,203.4,False,6
+720,19,2024-03-15,A-Check (Routine),3025.06,7.0,True,4
+721,29,2024-11-06,C-Check,416494.31,226.0,True,6
+722,35,2025-08-11,Unscheduled Repair,22254.49,28.1,True,6
+723,25,2025-08-28,C-Check,324164.46,167.4,False,4
+724,151,2025-09-09,Unscheduled Repair,86984.24,32.4,True,8
+725,160,2024-03-30,A-Check (Routine),4667.76,12.0,True,2
+726,49,2024-10-30,A-Check (Routine),5934.91,11.8,True,6
+727,27,2025-03-29,D-Check (Heavy),2113285.07,563.1,False,4
+728,2,2025-10-31,Engine Overhaul,599759.68,208.2,True,2
+729,136,2024-03-12,C-Check,231633.77,143.1,False,5
+730,55,2023-03-27,C-Check,287890.68,187.6,False,7
+731,18,2024-10-16,B-Check,25777.74,28.7,False,6
+732,37,2025-01-15,B-Check,29414.95,28.9,True,4
+733,50,2025-06-28,D-Check (Heavy),1203239.31,500.9,False,1
+734,32,2024-03-25,Engine Overhaul,738797.65,502.8,True,6
+735,65,2025-10-04,C-Check,342279.09,165.6,True,8
+736,43,2023-04-06,A-Check (Routine),8752.35,4.9,False,7
+737,92,2024-01-31,A-Check (Routine),3617.61,9.2,False,7
+738,147,2025-05-14,A-Check (Routine),6062.96,7.2,True,4
+739,17,2024-07-22,Avionics Update,22083.38,47.5,True,2
+740,92,2024-10-03,Unscheduled Repair,72588.61,5.8,True,5
+741,112,2023-05-06,A-Check (Routine),9173.34,9.1,False,3
+742,82,2025-06-30,A-Check (Routine),4863.09,9.4,True,4
+743,59,2025-12-12,Engine Overhaul,685921.85,414.0,True,6
+744,160,2024-04-17,A-Check (Routine),7495.99,11.7,True,5
+745,107,2024-11-29,A-Check (Routine),10927.43,10.6,True,4
+746,66,2025-11-10,A-Check (Routine),3985.95,10.4,True,6
+747,137,2025-05-20,C-Check,384137.28,223.5,True,8
+748,135,2024-01-23,A-Check (Routine),4697.04,6.8,True,2
+749,117,2024-05-06,A-Check (Routine),10405.87,7.9,False,1
+750,153,2025-03-07,B-Check,31434.32,12.0,True,1
+751,103,2024-07-02,A-Check (Routine),3678.96,11.0,True,3
+752,125,2025-11-10,B-Check,15539.42,17.1,True,2
+753,70,2023-01-18,Unscheduled Repair,58178.3,14.4,False,2
+754,103,2023-01-14,A-Check (Routine),7625.69,5.8,False,6
+755,108,2024-03-23,Unscheduled Repair,33440.29,45.6,True,8
+756,153,2023-08-19,A-Check (Routine),10757.15,4.4,True,2
+757,8,2025-01-15,Unscheduled Repair,77882.04,30.1,False,4
+758,42,2024-06-13,A-Check (Routine),5953.31,5.4,False,8
+759,42,2023-12-15,A-Check (Routine),8934.69,5.9,True,6
+760,81,2024-10-06,B-Check,27232.66,32.7,True,6
+761,104,2024-09-19,A-Check (Routine),5502.14,8.1,False,8
+762,13,2024-04-15,Engine Overhaul,547134.23,333.0,False,7
+763,22,2025-10-27,B-Check,23570.71,23.2,False,6
+764,101,2023-12-19,A-Check (Routine),11447.52,11.2,True,2
+765,2,2023-01-05,A-Check (Routine),5177.47,7.9,True,3
+766,37,2023-10-08,A-Check (Routine),4491.52,7.9,True,6
+767,138,2024-05-12,Avionics Update,85847.46,53.0,True,3
+768,51,2023-04-27,A-Check (Routine),4996.44,9.2,True,6
+769,166,2024-07-29,B-Check,19942.41,13.6,True,8
+770,112,2025-10-25,A-Check (Routine),10268.63,7.8,True,4
+771,79,2025-08-17,A-Check (Routine),5926.12,12.0,True,1
+772,42,2025-08-30,Engine Overhaul,675422.27,329.6,True,7
+773,41,2025-05-11,C-Check,284926.58,205.5,True,8
+774,27,2024-06-28,Unscheduled Repair,18354.52,6.3,True,4
+775,80,2024-04-11,A-Check (Routine),5330.56,6.2,True,7
+776,120,2023-07-18,Unscheduled Repair,81920.71,23.7,False,8
+777,133,2024-05-17,Unscheduled Repair,4966.83,21.5,True,3
+778,78,2025-11-26,B-Check,18911.96,19.9,True,2
+779,59,2023-07-21,A-Check (Routine),5100.96,6.4,True,5
+780,115,2025-02-08,Engine Overhaul,727738.63,446.7,True,5
+781,110,2024-10-18,A-Check (Routine),10949.28,11.0,True,8
+782,130,2023-04-20,C-Check,185763.68,199.8,True,3
+783,81,2024-02-12,B-Check,21788.89,22.7,False,2
+784,156,2024-08-18,Unscheduled Repair,39576.23,43.7,True,1
+785,72,2025-10-11,C-Check,436159.02,199.2,True,5
+786,13,2024-09-28,A-Check (Routine),3377.75,6.2,False,1
+787,4,2024-01-26,B-Check,20853.61,20.3,True,3
+788,57,2023-12-07,A-Check (Routine),10433.84,11.8,True,4
+789,50,2025-07-05,Unscheduled Repair,8596.32,19.7,True,7
+790,122,2023-07-05,Unscheduled Repair,11159.76,22.7,True,1
+791,102,2024-12-11,B-Check,22051.35,16.0,True,6
+792,60,2023-05-12,Avionics Update,57743.65,67.6,True,1
+793,99,2023-12-25,Engine Overhaul,426801.39,591.6,True,5
+794,144,2024-12-21,A-Check (Routine),6887.0,6.5,False,8
+795,3,2024-12-29,C-Check,367800.61,294.1,True,6
+796,98,2023-04-15,D-Check (Heavy),2459580.44,683.5,True,8
+797,166,2025-12-28,D-Check (Heavy),2376859.48,720.8,False,6
+798,98,2024-09-21,Engine Overhaul,865081.62,575.8,False,8
+799,151,2023-10-25,A-Check (Routine),7524.54,8.7,False,3
+800,60,2023-03-13,A-Check (Routine),5640.33,9.8,False,3
+801,112,2024-04-25,B-Check,34491.81,20.7,True,7
+802,122,2025-11-29,A-Check (Routine),6549.36,8.1,False,1
+803,97,2023-01-23,Unscheduled Repair,17538.53,42.3,True,7
+804,33,2025-12-27,A-Check (Routine),9196.75,7.7,True,2
+805,65,2023-08-06,A-Check (Routine),10601.18,8.3,False,5
+806,117,2025-06-22,Unscheduled Repair,74140.82,28.4,True,7
+807,74,2023-08-29,A-Check (Routine),8084.46,9.1,False,4
+808,78,2025-05-01,A-Check (Routine),5056.31,11.2,False,6
+809,37,2024-02-12,A-Check (Routine),5730.51,11.8,True,4
+810,22,2024-10-12,A-Check (Routine),8154.64,5.4,False,4
+811,96,2025-02-22,Avionics Update,74147.56,42.5,True,7
+812,118,2023-01-19,Unscheduled Repair,68647.44,23.9,True,5
+813,12,2023-01-18,B-Check,22889.97,19.3,True,4
+814,84,2024-10-12,B-Check,17181.91,20.8,True,7
+815,159,2023-04-23,A-Check (Routine),9185.24,11.6,True,5
+816,76,2023-09-12,Unscheduled Repair,20994.99,39.4,True,7
+817,18,2023-09-19,C-Check,182905.94,294.6,True,1
+818,35,2024-08-14,A-Check (Routine),11163.31,6.0,True,4
+819,9,2024-11-13,Avionics Update,15043.15,37.1,True,3
+820,36,2023-05-15,Avionics Update,29122.29,47.4,True,5
+821,72,2024-04-20,Unscheduled Repair,37158.39,2.7,True,2
+822,78,2023-06-20,A-Check (Routine),8689.56,9.8,True,1
+823,67,2023-06-18,B-Check,33611.9,17.3,False,6
+824,20,2023-11-20,A-Check (Routine),11877.53,5.6,True,3
+825,145,2024-04-11,Unscheduled Repair,76348.43,15.1,True,4
+826,26,2025-05-24,A-Check (Routine),11462.86,4.5,False,8
+827,102,2025-01-15,B-Check,26222.29,13.7,False,2
+828,81,2023-09-22,Unscheduled Repair,72833.95,10.2,False,2
+829,116,2024-06-01,A-Check (Routine),9603.45,11.7,True,3
+830,58,2023-02-25,A-Check (Routine),10844.94,11.1,False,8
+831,136,2025-09-07,B-Check,21364.79,30.9,True,8
+832,56,2023-08-16,C-Check,444460.07,280.1,True,6
+833,126,2025-11-13,C-Check,370683.68,244.6,True,7
+834,78,2024-12-11,Unscheduled Repair,54780.74,12.9,True,5
+835,35,2024-07-23,Unscheduled Repair,48986.04,28.1,True,3
+836,161,2023-01-22,A-Check (Routine),5210.39,5.5,True,8
+837,41,2025-06-12,A-Check (Routine),8353.07,9.1,True,5
+838,19,2025-11-08,Unscheduled Repair,28919.56,13.5,True,2
+839,60,2023-01-02,A-Check (Routine),11861.98,6.1,False,3
+840,8,2024-02-11,C-Check,421394.81,282.6,True,5
+841,107,2025-03-18,Unscheduled Repair,47490.54,18.2,False,1
+842,132,2024-11-19,A-Check (Routine),10596.05,10.2,True,8
+843,55,2024-09-27,A-Check (Routine),6002.34,5.7,True,4
+844,77,2024-05-09,Avionics Update,96243.89,28.1,True,7
+845,16,2025-08-31,A-Check (Routine),10079.27,10.8,True,7
+846,108,2025-06-12,A-Check (Routine),10957.06,7.9,True,6
+847,151,2023-07-02,Engine Overhaul,756626.98,364.7,True,6
+848,49,2023-04-16,C-Check,321789.82,162.8,True,2
+849,111,2025-01-28,A-Check (Routine),6525.42,9.8,True,5
+850,3,2025-03-23,A-Check (Routine),3347.06,5.6,False,7
+851,125,2023-02-24,A-Check (Routine),8056.99,12.0,False,6
+852,8,2024-01-02,Unscheduled Repair,20783.16,16.4,False,6
+853,133,2024-12-22,C-Check,322871.17,264.4,True,7
+854,46,2023-03-24,Unscheduled Repair,7179.73,7.7,True,6
+855,8,2023-11-17,C-Check,156643.55,275.2,False,3
+856,64,2024-07-24,C-Check,363204.67,230.4,True,8
+857,110,2025-05-19,B-Check,18349.88,30.8,True,4
+858,52,2024-03-02,A-Check (Routine),3641.84,10.8,False,5
+859,7,2025-04-11,Unscheduled Repair,5370.03,46.2,False,5
+860,69,2023-01-10,Unscheduled Repair,38796.81,28.1,True,7
+861,147,2023-03-11,Unscheduled Repair,40995.97,28.8,True,5
+862,41,2023-02-26,A-Check (Routine),10466.5,10.0,True,4
+863,67,2024-02-13,Unscheduled Repair,73324.47,24.2,True,4
+864,153,2025-10-23,A-Check (Routine),8656.48,9.8,True,1
+865,83,2025-05-08,B-Check,12079.72,34.8,True,3
+866,54,2025-11-15,C-Check,289042.62,297.6,True,3
+867,146,2025-09-05,A-Check (Routine),7844.82,10.2,True,6
+868,64,2024-09-07,A-Check (Routine),7502.1,6.4,False,5
+869,14,2024-07-06,Unscheduled Repair,47733.7,32.7,False,2
+870,107,2023-07-06,Unscheduled Repair,47482.09,43.0,True,5
+871,57,2024-03-05,A-Check (Routine),11705.37,8.8,True,2
+872,158,2023-08-23,Engine Overhaul,425499.97,350.5,True,1
+873,150,2025-03-06,Unscheduled Repair,54475.43,12.3,False,7
+874,54,2023-08-02,A-Check (Routine),8972.94,6.6,True,4
+875,86,2023-04-14,Unscheduled Repair,26009.96,13.1,True,8
+876,115,2025-07-02,Avionics Update,95865.44,54.3,True,7
+877,73,2024-10-28,Unscheduled Repair,8322.89,46.6,False,2
+878,59,2023-07-25,C-Check,150494.35,234.0,False,3
+879,99,2025-04-15,C-Check,163997.66,239.3,True,4
+880,153,2025-11-18,B-Check,15628.43,13.9,True,7
+881,118,2024-03-25,A-Check (Routine),3507.16,11.9,True,2
+882,120,2024-12-13,A-Check (Routine),10438.63,7.0,True,4
+883,29,2023-11-22,A-Check (Routine),8589.94,6.0,True,6
+884,124,2025-01-24,Unscheduled Repair,75141.91,25.7,False,3
+885,134,2024-02-24,A-Check (Routine),8662.97,4.2,True,4
+886,86,2025-09-14,Unscheduled Repair,42903.69,30.0,True,4
+887,72,2023-09-24,Unscheduled Repair,26435.58,9.5,True,8
+888,126,2023-12-02,Avionics Update,62042.14,67.9,True,4
+889,7,2025-10-21,C-Check,346046.02,136.3,True,3
+890,4,2025-07-28,B-Check,28633.83,32.8,True,5
+891,116,2025-10-20,A-Check (Routine),5344.57,6.8,False,4
+892,140,2025-10-20,A-Check (Routine),8276.38,4.7,False,1
+893,160,2025-02-06,A-Check (Routine),8380.02,4.0,True,1
+894,140,2023-03-20,D-Check (Heavy),1446607.61,744.9,True,3
+895,137,2024-03-08,B-Check,19951.81,28.3,False,8
+896,15,2024-10-25,C-Check,197679.73,123.2,True,6
+897,161,2023-10-30,Unscheduled Repair,83521.31,33.3,True,6
+898,125,2024-01-09,A-Check (Routine),9676.73,7.5,True,2
+899,132,2024-05-19,B-Check,13793.01,21.2,True,5
+900,141,2025-11-14,B-Check,10808.33,28.2,True,5
+901,121,2024-10-19,A-Check (Routine),3678.25,7.0,False,5
+902,1,2023-04-17,Avionics Update,109299.04,64.7,False,2
+903,116,2025-09-05,Engine Overhaul,440896.98,239.4,True,8
+904,32,2024-04-30,A-Check (Routine),4140.06,9.9,True,1
+905,117,2024-10-19,C-Check,425452.72,133.3,False,1
+906,66,2025-08-11,B-Check,31088.68,23.8,True,4
+907,63,2023-11-06,A-Check (Routine),9433.41,7.6,True,8
+908,61,2023-10-20,Engine Overhaul,605017.53,293.4,True,7
+909,132,2025-11-15,A-Check (Routine),9990.36,10.7,True,3
+910,15,2025-11-10,B-Check,12871.79,26.6,True,2
+911,42,2023-04-14,A-Check (Routine),5897.46,10.0,True,5
+912,4,2024-02-05,A-Check (Routine),10118.3,7.1,True,7
+913,42,2023-07-20,C-Check,176270.69,145.2,True,1
+914,112,2024-04-12,Avionics Update,86832.09,26.4,True,3
+915,123,2025-09-17,Unscheduled Repair,83251.65,15.4,True,2
+916,92,2024-11-20,A-Check (Routine),5825.69,11.6,True,1
+917,110,2025-12-28,B-Check,16826.14,14.0,True,1
+918,114,2023-04-29,C-Check,231493.33,254.6,True,7
+919,93,2023-03-18,A-Check (Routine),10742.58,8.3,False,8
+920,132,2023-08-03,B-Check,19436.3,29.4,True,3
+921,34,2025-12-04,C-Check,385599.51,261.9,True,4
+922,137,2025-08-30,A-Check (Routine),11066.19,8.6,False,3
+923,145,2025-08-07,A-Check (Routine),6388.51,8.6,True,8
+924,137,2024-06-08,A-Check (Routine),5602.56,4.1,True,1
+925,149,2023-12-25,B-Check,26009.19,31.9,True,3
+926,94,2025-09-24,B-Check,33029.56,28.3,True,8
+927,135,2025-05-16,A-Check (Routine),6635.85,5.5,True,1
+928,111,2025-12-09,B-Check,33798.85,32.3,False,7
+929,68,2024-11-05,Unscheduled Repair,64026.72,12.5,True,4
+930,90,2025-12-04,Avionics Update,118438.03,26.2,True,2
+931,81,2025-07-06,A-Check (Routine),9844.55,9.2,True,5
+932,116,2023-10-25,Unscheduled Repair,82261.82,46.1,True,6
+933,147,2025-06-15,C-Check,208257.3,240.4,True,2
+934,90,2023-01-18,B-Check,14251.18,19.1,True,5
+935,119,2025-10-02,A-Check (Routine),5077.69,10.5,False,5
+936,89,2025-12-24,B-Check,11825.68,24.8,True,4
+937,133,2025-03-19,Avionics Update,100456.06,30.1,True,1
+938,92,2025-01-04,B-Check,19903.47,24.9,True,6
+939,46,2024-10-13,A-Check (Routine),6057.87,5.6,False,8
+940,116,2025-08-30,C-Check,171103.94,152.4,False,7
+941,39,2023-08-18,A-Check (Routine),11438.12,5.7,True,5
+942,111,2024-07-24,A-Check (Routine),5982.71,9.7,True,7
+943,41,2025-01-15,A-Check (Routine),9126.1,10.1,True,2
+944,101,2023-11-21,Avionics Update,25842.25,54.6,True,3
+945,113,2023-08-09,Engine Overhaul,1002677.05,505.8,True,2
+946,139,2025-02-15,Unscheduled Repair,18764.63,24.4,True,5
+947,151,2024-03-28,Unscheduled Repair,62469.64,2.2,True,5
+948,18,2025-10-30,A-Check (Routine),4644.96,5.2,True,4
+949,107,2024-12-25,A-Check (Routine),10971.19,10.5,True,3
+950,63,2025-08-10,Unscheduled Repair,40818.23,22.4,True,4
+951,104,2023-06-07,Engine Overhaul,844688.25,223.8,False,4
+952,51,2024-01-09,A-Check (Routine),4253.46,6.7,False,1
+953,99,2024-04-19,C-Check,286408.75,156.7,True,6
+954,40,2023-06-16,B-Check,14073.6,33.7,True,5
+955,139,2024-12-16,Unscheduled Repair,29631.22,14.3,True,2
+956,113,2025-05-26,A-Check (Routine),5964.85,5.8,True,8
+957,24,2023-11-09,B-Check,31465.39,21.7,True,7
+958,134,2024-02-26,C-Check,305150.52,251.9,True,2
+959,14,2023-09-21,Engine Overhaul,1157289.1,461.8,False,2
+960,39,2025-03-04,A-Check (Routine),7514.76,4.6,False,8
+961,74,2025-02-20,A-Check (Routine),10220.78,8.2,True,8
+962,105,2025-01-24,B-Check,30864.44,35.5,True,3
+963,129,2024-04-27,A-Check (Routine),9190.19,7.4,True,8
+964,92,2024-12-14,A-Check (Routine),11861.73,7.4,True,1
+965,11,2023-11-02,B-Check,31679.9,18.4,True,5
+966,67,2025-10-04,Unscheduled Repair,77553.21,45.7,True,7
+967,45,2024-02-19,B-Check,30083.06,12.5,True,8
+968,162,2023-11-15,A-Check (Routine),3120.27,7.1,False,2
+969,19,2025-09-29,A-Check (Routine),11747.16,11.3,False,2
+970,127,2024-07-09,A-Check (Routine),8728.09,4.4,True,6
+971,150,2023-03-15,Avionics Update,87753.9,31.6,True,8
+972,113,2024-10-23,Engine Overhaul,468706.83,449.2,True,2
+973,87,2025-02-13,A-Check (Routine),6741.8,8.5,True,6
+974,88,2025-09-16,B-Check,12414.55,21.1,True,5
+975,61,2024-03-11,Unscheduled Repair,48197.99,2.1,True,3
+976,119,2025-12-07,B-Check,28800.07,23.5,False,1
+977,118,2023-01-04,Avionics Update,43382.85,57.5,True,1
+978,35,2023-08-05,A-Check (Routine),9810.35,9.7,True,7
+979,98,2025-04-30,Unscheduled Repair,34966.22,23.7,True,4
+980,46,2025-08-02,Unscheduled Repair,87250.57,26.1,True,4
+981,2,2025-07-24,A-Check (Routine),3486.23,11.4,False,7
+982,98,2023-10-24,A-Check (Routine),8201.49,9.9,True,2
+983,114,2024-09-02,B-Check,33258.54,19.3,False,3
+984,22,2025-07-05,A-Check (Routine),5350.1,5.2,True,5
+985,124,2024-05-22,Engine Overhaul,621043.86,229.4,True,7
+986,30,2025-04-20,Avionics Update,52842.57,65.3,True,3
+987,54,2025-10-20,Engine Overhaul,732637.79,371.1,True,1
+988,84,2025-03-28,B-Check,25919.22,33.4,True,6
+989,95,2024-02-12,A-Check (Routine),6157.39,6.4,True,5
+990,25,2025-11-13,A-Check (Routine),7722.17,8.6,False,2
+991,107,2024-05-18,Unscheduled Repair,72045.74,30.7,True,4
+992,166,2023-04-30,A-Check (Routine),6008.02,8.8,False,8
+993,9,2024-04-04,Unscheduled Repair,82721.43,25.5,True,3
+994,41,2023-08-01,C-Check,399297.12,163.5,True,7
+995,83,2025-03-02,Engine Overhaul,766114.76,464.7,False,4
+996,117,2024-12-17,C-Check,214637.58,135.2,True,7
+997,152,2025-10-06,A-Check (Routine),6213.91,7.8,False,4
+998,142,2023-11-26,A-Check (Routine),5393.16,10.2,True,6
+999,130,2025-05-11,A-Check (Routine),6009.95,5.0,True,3
+1000,120,2024-09-28,A-Check (Routine),8206.39,4.8,True,5
+1001,112,2024-10-31,A-Check (Routine),11478.31,6.4,True,3
+1002,21,2024-06-14,A-Check (Routine),9444.68,7.5,True,1
+1003,98,2023-07-12,C-Check,175716.58,261.8,True,4
+1004,36,2024-07-16,B-Check,34690.9,21.4,True,6
+1005,84,2025-11-11,C-Check,181193.66,284.6,True,1
+1006,114,2023-01-28,B-Check,12752.1,29.3,True,3
+1007,98,2023-12-01,A-Check (Routine),8880.05,7.0,True,7
+1008,141,2024-01-11,Avionics Update,89358.03,69.6,True,5
+1009,50,2023-12-22,B-Check,19311.26,25.2,True,3
+1010,163,2025-09-03,D-Check (Heavy),1653915.99,708.8,True,3
+1011,77,2024-09-23,A-Check (Routine),3354.82,10.3,True,5
+1012,63,2023-07-24,B-Check,31484.47,32.6,True,5
+1013,82,2023-06-02,A-Check (Routine),4117.0,5.0,False,5
+1014,159,2025-08-19,Avionics Update,56986.37,25.1,True,7
+1015,146,2025-03-26,Unscheduled Repair,2885.43,9.4,True,6
+1016,164,2024-12-05,A-Check (Routine),3243.62,4.8,True,1
+1017,24,2024-02-05,C-Check,235785.62,150.8,True,6
+1018,11,2024-09-07,A-Check (Routine),11323.6,7.6,True,1
+1019,42,2025-06-20,A-Check (Routine),6946.56,8.3,True,6
+1020,43,2024-06-01,A-Check (Routine),6933.73,8.4,True,6
+1021,87,2025-08-09,Engine Overhaul,1038164.8,542.0,True,7
+1022,84,2024-06-06,A-Check (Routine),3177.84,10.7,True,5
+1023,99,2024-02-02,A-Check (Routine),11564.83,4.7,False,4
+1024,105,2023-05-02,B-Check,21944.03,30.8,False,6
+1025,35,2023-05-06,A-Check (Routine),9268.53,11.8,True,4
+1026,74,2023-01-30,A-Check (Routine),10339.94,10.1,True,2
+1027,65,2025-04-05,Unscheduled Repair,89223.57,16.0,True,7
+1028,108,2024-10-06,B-Check,10157.48,17.4,True,4
+1029,46,2024-11-01,Avionics Update,104727.87,71.3,True,5
+1030,39,2025-12-20,A-Check (Routine),11493.37,8.9,True,3
+1031,119,2025-10-07,Unscheduled Repair,87571.14,5.4,True,1
+1032,113,2024-02-24,Unscheduled Repair,55792.13,28.3,True,8
+1033,68,2025-06-20,Unscheduled Repair,34426.5,36.7,False,8
+1034,85,2023-07-16,A-Check (Routine),11963.75,5.0,True,7
+1035,133,2024-10-23,B-Check,25293.08,18.1,True,5
+1036,62,2023-09-08,C-Check,263404.92,157.9,False,2
+1037,60,2024-03-30,A-Check (Routine),8462.81,9.3,True,3
+1038,113,2023-04-28,B-Check,21742.32,16.3,True,8
+1039,160,2024-04-30,C-Check,260327.74,129.8,False,3
+1040,2,2025-05-09,Unscheduled Repair,64999.61,9.9,True,4
+1041,74,2024-08-15,A-Check (Routine),10402.35,11.0,False,8
+1042,42,2023-08-20,A-Check (Routine),9378.78,7.3,False,1
+1043,135,2024-09-29,A-Check (Routine),4405.37,10.0,True,7
+1044,64,2025-01-30,C-Check,355280.68,269.6,False,7
+1045,109,2023-02-11,Engine Overhaul,495881.14,553.3,True,7
+1046,96,2023-02-22,Unscheduled Repair,67140.15,9.1,True,2
+1047,134,2024-05-17,B-Check,23615.6,26.9,True,7
+1048,39,2025-03-22,A-Check (Routine),7141.35,10.5,True,1
+1049,120,2024-08-31,C-Check,203043.65,200.8,False,5
+1050,133,2025-02-19,A-Check (Routine),10042.88,8.3,True,7
+1051,66,2024-05-31,A-Check (Routine),5300.52,8.3,True,3
+1052,81,2023-07-22,A-Check (Routine),9555.65,5.1,True,7
+1053,149,2024-08-04,Engine Overhaul,623633.6,330.2,False,7
+1054,166,2024-04-23,Unscheduled Repair,59100.97,43.8,True,4
+1055,33,2025-10-11,Unscheduled Repair,40783.18,7.8,False,1
+1056,162,2023-01-17,Unscheduled Repair,42099.1,36.8,False,7
+1057,49,2024-03-20,Unscheduled Repair,2023.12,14.2,True,7
+1058,75,2025-12-11,A-Check (Routine),5036.85,7.0,True,6
+1059,141,2024-05-09,B-Check,25579.68,29.4,True,3
+1060,69,2025-08-27,A-Check (Routine),11341.13,7.7,False,5
+1061,117,2025-10-12,Unscheduled Repair,78206.69,3.6,True,7
+1062,102,2023-03-01,Avionics Update,101381.44,64.2,True,4
+1063,62,2025-05-09,A-Check (Routine),4709.68,9.8,True,8
+1064,51,2024-03-25,Avionics Update,40177.75,62.9,True,1
+1065,115,2025-08-03,Engine Overhaul,971774.05,284.9,True,4
+1066,164,2025-04-16,Avionics Update,87232.37,67.2,False,5
+1067,80,2023-08-05,A-Check (Routine),5911.48,11.5,True,8
+1068,155,2023-06-26,Avionics Update,118360.75,53.5,True,6
+1069,90,2023-06-04,Unscheduled Repair,11782.68,4.8,True,6
+1070,3,2025-11-26,Engine Overhaul,696741.75,515.9,True,3
+1071,39,2023-10-19,Avionics Update,117366.45,55.9,True,2
+1072,25,2024-08-21,D-Check (Heavy),1372161.41,581.6,True,7
+1073,89,2023-08-06,Engine Overhaul,424544.25,382.2,True,3
+1074,24,2023-10-10,A-Check (Routine),4825.52,4.6,True,3
+1075,133,2024-06-27,A-Check (Routine),9935.66,11.0,False,3
+1076,160,2025-04-28,A-Check (Routine),9893.32,4.2,True,3
+1077,157,2024-10-04,A-Check (Routine),11931.16,11.9,True,8
+1078,38,2025-05-18,C-Check,319552.04,133.4,True,6
+1079,33,2023-06-03,C-Check,434420.06,162.6,True,8
+1080,160,2025-04-14,A-Check (Routine),6240.52,8.0,True,1
+1081,67,2025-02-09,B-Check,25324.82,34.5,True,5
+1082,92,2024-12-23,A-Check (Routine),6814.8,9.6,False,8
+1083,158,2025-10-10,B-Check,33247.31,23.3,False,5
+1084,105,2023-02-22,B-Check,15591.71,27.1,True,4
+1085,39,2023-05-21,B-Check,21083.82,32.9,True,5
+1086,134,2023-11-06,Unscheduled Repair,35893.18,37.3,True,2
+1087,76,2023-05-09,Engine Overhaul,660589.03,217.0,True,8
+1088,69,2023-09-01,A-Check (Routine),11836.86,6.2,True,4
+1089,119,2025-03-21,A-Check (Routine),3547.52,6.5,True,2
+1090,33,2025-02-04,B-Check,27366.27,16.1,False,3
+1091,64,2023-02-28,Unscheduled Repair,7247.09,30.8,True,3
+1092,131,2023-09-14,B-Check,20867.17,28.8,True,2
+1093,81,2023-09-27,B-Check,34899.33,35.1,True,5
+1094,106,2023-03-17,B-Check,11020.74,28.2,False,4
+1095,151,2024-02-07,Unscheduled Repair,30500.7,12.8,False,5
+1096,31,2023-11-20,B-Check,24503.57,13.9,True,7
+1097,31,2023-05-16,A-Check (Routine),3303.45,6.0,True,8
+1098,47,2024-05-28,B-Check,14182.35,23.1,True,2
+1099,24,2023-05-09,Unscheduled Repair,45624.6,7.7,False,3
+1100,77,2025-11-11,A-Check (Routine),3639.58,6.3,False,6
+1101,13,2025-09-17,Engine Overhaul,759826.89,251.8,True,7
+1102,67,2024-11-29,A-Check (Routine),8237.29,11.7,True,1
+1103,68,2023-11-07,A-Check (Routine),5138.84,11.1,True,1
+1104,146,2025-11-11,B-Check,29327.41,24.2,True,5
+1105,49,2024-01-08,B-Check,29674.19,16.1,True,5
+1106,8,2024-06-25,Engine Overhaul,1129190.53,374.9,False,6
+1107,151,2025-10-26,A-Check (Routine),4713.74,4.9,True,7
+1108,165,2025-07-10,B-Check,29240.85,23.0,True,8
+1109,127,2025-08-04,C-Check,225470.03,251.3,True,3
+1110,166,2025-08-24,B-Check,20280.54,17.5,True,2
+1111,150,2023-11-04,A-Check (Routine),8676.4,5.4,True,7
+1112,69,2024-09-24,A-Check (Routine),4153.25,7.1,True,2
+1113,39,2023-10-14,A-Check (Routine),11790.35,9.8,True,2
+1114,30,2025-05-18,Unscheduled Repair,13971.83,18.8,True,4
+1115,5,2024-08-06,C-Check,374400.95,275.2,False,1
+1116,61,2023-09-04,B-Check,19876.68,12.1,False,4
+1117,24,2025-08-05,A-Check (Routine),11254.98,11.9,False,2
+1118,31,2024-02-01,A-Check (Routine),6655.26,5.6,True,2
+1119,164,2024-04-05,A-Check (Routine),11187.71,7.6,True,1
+1120,144,2023-08-09,Engine Overhaul,838017.9,313.5,False,6
+1121,120,2024-04-01,D-Check (Heavy),1492979.12,438.8,False,4
+1122,35,2025-07-17,Unscheduled Repair,65465.71,11.9,False,5
+1123,40,2024-05-07,B-Check,21280.22,28.8,True,1
+1124,134,2023-11-15,A-Check (Routine),7145.94,10.2,False,6
+1125,15,2023-12-01,A-Check (Routine),4076.68,8.2,True,5
+1126,141,2023-04-05,A-Check (Routine),3232.3,9.3,False,4
+1127,29,2024-06-09,B-Check,18398.98,16.6,True,8
+1128,164,2024-05-15,D-Check (Heavy),2196683.09,873.8,False,5
+1129,86,2024-05-25,Avionics Update,67936.56,30.7,True,6
+1130,65,2023-12-25,Engine Overhaul,778257.33,272.0,True,6
+1131,27,2024-07-18,B-Check,17004.98,35.3,True,8
+1132,104,2025-08-31,B-Check,22104.38,15.2,True,2
+1133,77,2024-01-19,C-Check,407633.59,134.5,True,6
+1134,61,2024-06-28,A-Check (Routine),6371.42,6.7,True,6
+1135,42,2023-08-26,Unscheduled Repair,16898.76,34.6,True,8
+1136,91,2024-06-08,A-Check (Routine),6291.08,7.5,False,6
+1137,124,2023-02-05,Engine Overhaul,1086164.84,335.3,True,3
+1138,166,2025-05-28,A-Check (Routine),6189.07,11.9,False,7
+1139,154,2025-06-08,Unscheduled Repair,86100.97,28.4,True,6
+1140,90,2023-08-29,Avionics Update,93356.89,57.6,True,1
+1141,131,2024-06-24,B-Check,21838.0,20.4,True,5
+1142,37,2025-02-14,A-Check (Routine),3170.21,9.8,False,4
+1143,166,2025-04-16,B-Check,33365.79,32.3,True,4
+1144,2,2024-10-03,C-Check,437262.39,240.1,False,6
+1145,123,2023-07-05,A-Check (Routine),11833.02,11.9,False,1
+1146,144,2023-11-22,B-Check,17836.56,34.2,True,1
+1147,79,2023-03-22,Engine Overhaul,480974.47,592.7,True,3
+1148,150,2025-03-10,Engine Overhaul,875230.26,229.4,True,8
+1149,71,2025-04-17,Unscheduled Repair,14159.0,7.1,False,7
+1150,65,2023-06-17,B-Check,29536.92,21.3,False,3
+1151,86,2023-10-21,A-Check (Routine),6324.31,6.7,True,2
+1152,165,2023-02-14,A-Check (Routine),7422.04,7.6,True,2
+1153,146,2023-11-05,A-Check (Routine),8567.29,10.4,False,8
+1154,107,2024-10-18,C-Check,232810.24,194.0,False,5
+1155,164,2025-06-06,Unscheduled Repair,22950.46,22.9,True,7
+1156,46,2023-11-21,A-Check (Routine),3972.82,11.1,True,7
+1157,68,2023-09-27,Avionics Update,20179.87,34.3,True,5
+1158,108,2024-09-11,C-Check,287768.47,260.6,True,8
+1159,12,2023-07-13,A-Check (Routine),6125.5,8.3,True,7
+1160,165,2025-11-19,A-Check (Routine),10961.78,6.1,True,1
+1161,117,2023-07-08,Engine Overhaul,719786.17,244.0,True,4
+1162,31,2023-09-08,C-Check,292309.23,156.6,True,3
+1163,95,2023-10-12,A-Check (Routine),10799.29,4.8,False,1
+1164,89,2025-10-27,A-Check (Routine),9386.71,11.2,True,8
+1165,84,2025-07-13,Engine Overhaul,658374.41,376.7,True,6
+1166,145,2023-04-06,B-Check,21599.75,23.1,True,1
+1167,53,2023-09-04,A-Check (Routine),6326.48,8.4,True,4
+1168,126,2023-05-24,B-Check,30709.66,18.1,False,7
+1169,124,2025-11-28,A-Check (Routine),7265.01,4.8,True,3
+1170,3,2024-04-11,B-Check,31522.34,14.6,True,6
+1171,91,2023-09-23,Avionics Update,33343.88,37.7,True,7
+1172,34,2024-09-15,B-Check,19879.15,25.3,True,5
+1173,85,2025-05-27,Unscheduled Repair,55482.51,8.6,True,8
+1174,155,2024-12-19,Engine Overhaul,796028.94,340.1,True,6
+1175,105,2023-04-04,A-Check (Routine),4064.21,6.5,False,2
+1176,69,2024-04-25,A-Check (Routine),4878.79,9.3,True,6
+1177,159,2025-02-11,B-Check,28477.51,29.3,True,6
+1178,127,2025-08-14,C-Check,231945.19,293.9,True,7
+1179,114,2023-05-02,A-Check (Routine),11767.8,7.6,False,7
+1180,119,2024-05-21,A-Check (Routine),6687.47,7.6,True,2
+1181,70,2025-06-04,A-Check (Routine),8476.92,10.5,True,4
+1182,9,2023-03-21,A-Check (Routine),8046.1,5.1,False,8
+1183,164,2024-01-05,Engine Overhaul,986766.24,467.6,False,7
+1184,117,2023-05-05,A-Check (Routine),11165.17,10.3,True,1
+1185,163,2024-01-01,Unscheduled Repair,56639.64,16.2,False,7
+1186,75,2025-09-18,A-Check (Routine),6813.67,11.3,True,1
+1187,98,2024-12-17,Unscheduled Repair,68458.05,11.3,False,6
+1188,22,2025-10-26,A-Check (Routine),4885.22,10.2,True,5
+1189,121,2025-02-01,Unscheduled Repair,60542.77,5.4,True,6
+1190,153,2023-05-14,C-Check,412850.54,211.1,False,8
+1191,96,2025-06-01,B-Check,25613.34,28.2,True,3
+1192,6,2024-06-23,Engine Overhaul,517773.06,460.6,True,5
+1193,97,2023-08-23,C-Check,392173.23,186.4,True,5
+1194,71,2025-11-19,A-Check (Routine),6942.77,7.4,False,4
+1195,88,2025-04-09,B-Check,17280.08,18.3,False,8
+1196,28,2023-08-19,Unscheduled Repair,65385.59,14.0,True,1
+1197,146,2025-10-17,Unscheduled Repair,33807.34,13.7,True,1
+1198,145,2025-07-10,B-Check,19884.01,35.1,False,3
+1199,143,2024-02-27,A-Check (Routine),8217.17,9.0,True,3
+1200,109,2025-01-06,Unscheduled Repair,45694.24,27.9,True,6
+1201,120,2025-08-25,A-Check (Routine),4536.63,11.0,True,1
+1202,68,2024-01-14,C-Check,162538.44,289.1,True,4
+1203,35,2023-10-25,Avionics Update,15253.02,38.5,True,7
+1204,74,2025-08-07,B-Check,19482.38,35.4,True,7
+1205,91,2024-01-26,Avionics Update,22890.85,29.6,True,1
+1206,152,2024-01-28,A-Check (Routine),7198.42,7.5,False,4
+1207,153,2024-01-13,A-Check (Routine),10960.29,8.2,False,4
+1208,97,2025-02-01,C-Check,182580.87,173.4,True,8
+1209,124,2025-07-05,B-Check,27561.54,22.7,True,1
+1210,33,2025-01-09,Avionics Update,51156.97,42.0,True,1
+1211,62,2025-03-03,A-Check (Routine),11785.44,6.3,True,5
+1212,38,2024-09-12,A-Check (Routine),6048.15,7.8,True,4
+1213,22,2024-11-02,Unscheduled Repair,43952.95,35.2,False,8
+1214,89,2023-11-04,A-Check (Routine),7805.69,6.5,True,2
+1215,66,2025-04-26,A-Check (Routine),6421.21,6.8,False,6
+1216,153,2025-12-17,A-Check (Routine),7763.94,10.3,True,6
+1217,24,2024-06-13,Engine Overhaul,513048.23,323.5,True,5
+1218,60,2025-08-08,A-Check (Routine),3512.15,11.7,True,6
+1219,45,2024-04-19,A-Check (Routine),11570.56,5.2,True,2
+1220,3,2025-01-31,Unscheduled Repair,87319.12,10.3,True,8
+1221,71,2023-07-19,C-Check,223460.39,224.6,False,3
+1222,56,2025-11-02,B-Check,15138.75,12.2,True,3
+1223,62,2023-01-25,Unscheduled Repair,87161.25,29.7,False,6
+1224,63,2025-10-11,A-Check (Routine),9104.79,8.6,True,3
+1225,122,2025-11-19,A-Check (Routine),7265.08,10.7,True,2
+1226,128,2025-03-07,A-Check (Routine),11972.13,4.3,True,3
+1227,114,2024-05-08,B-Check,14711.52,12.8,False,5
+1228,108,2023-12-12,B-Check,33658.83,19.4,False,4
+1229,91,2023-02-09,A-Check (Routine),8940.99,6.3,False,5
+1230,9,2023-09-05,B-Check,30185.26,26.0,False,1
+1231,3,2023-09-20,A-Check (Routine),10797.66,7.8,True,6
+1232,142,2023-08-20,B-Check,12597.75,24.7,True,8
+1233,111,2024-01-07,A-Check (Routine),3611.07,6.0,True,7
+1234,153,2023-02-02,Unscheduled Repair,45097.99,17.2,True,6
+1235,26,2025-12-23,A-Check (Routine),7285.65,8.8,True,5
+1236,64,2023-08-22,A-Check (Routine),3444.94,7.1,True,3
+1237,123,2023-07-15,B-Check,11356.15,32.6,True,4
+1238,62,2024-08-25,A-Check (Routine),10559.06,10.2,True,7
+1239,72,2024-07-29,Unscheduled Repair,13122.64,27.2,True,8
+1240,158,2023-03-20,C-Check,272191.85,271.3,True,7
+1241,71,2024-04-23,A-Check (Routine),5584.07,5.2,True,4
+1242,2,2023-10-28,A-Check (Routine),7794.37,8.9,False,8
+1243,74,2024-10-09,B-Check,18304.44,14.1,True,3
+1244,154,2024-05-27,A-Check (Routine),9130.73,7.1,True,6
+1245,137,2024-09-26,A-Check (Routine),9139.59,9.3,True,6
+1246,156,2023-09-09,B-Check,33233.02,35.5,True,2
+1247,15,2023-02-20,C-Check,441338.71,191.7,True,4
+1248,136,2024-06-14,Unscheduled Repair,27998.82,24.0,False,4
+1249,99,2025-12-26,A-Check (Routine),3626.06,10.3,True,4
+1250,134,2024-05-31,B-Check,18553.03,25.2,True,4
+1251,21,2025-06-07,B-Check,33085.89,21.1,True,1
+1252,64,2025-10-05,Unscheduled Repair,22008.12,29.3,True,1
+1253,28,2023-08-29,C-Check,178571.12,259.0,True,6
+1254,123,2023-11-23,A-Check (Routine),5567.55,9.0,True,4
+1255,34,2024-03-01,A-Check (Routine),10512.48,7.1,True,1
+1256,99,2024-12-17,C-Check,392879.46,228.2,False,3
+1257,2,2024-02-24,Unscheduled Repair,41500.85,30.7,True,6
+1258,83,2024-12-08,C-Check,181213.16,274.8,True,2
+1259,61,2025-06-09,C-Check,249999.81,157.3,True,1
+1260,13,2023-08-05,Engine Overhaul,1113073.02,422.6,False,1
+1261,44,2024-10-01,D-Check (Heavy),1976127.82,711.4,True,5
+1262,140,2025-03-11,A-Check (Routine),5087.16,6.8,True,7
+1263,85,2024-06-29,Unscheduled Repair,23852.08,38.8,True,8
+1264,128,2024-02-10,A-Check (Routine),7054.96,12.0,True,1
+1265,5,2023-03-24,A-Check (Routine),3330.94,10.5,True,7
+1266,1,2023-11-17,C-Check,358632.51,157.6,True,1
+1267,122,2023-05-03,Unscheduled Repair,68737.55,21.3,True,4
+1268,47,2025-02-22,Unscheduled Repair,24017.67,25.1,False,3
+1269,7,2023-09-30,Unscheduled Repair,39849.7,16.4,True,6
+1270,14,2025-08-30,B-Check,32752.81,30.4,True,4
+1271,55,2024-06-08,A-Check (Routine),11178.28,6.4,True,4
+1272,10,2023-11-09,D-Check (Heavy),1271617.95,773.8,True,5
+1273,126,2024-11-20,A-Check (Routine),8417.56,9.3,True,8
+1274,82,2025-08-18,A-Check (Routine),5587.07,9.3,True,6
+1275,50,2023-03-06,A-Check (Routine),5276.84,10.2,True,6
+1276,89,2024-12-24,C-Check,417300.71,236.4,True,5
+1277,150,2024-08-28,Unscheduled Repair,74919.67,8.4,True,2
+1278,102,2023-05-17,A-Check (Routine),8222.03,8.0,True,6
+1279,54,2025-08-24,Avionics Update,94354.11,73.3,True,1
+1280,133,2024-04-25,Unscheduled Repair,15020.3,33.6,True,1
+1281,10,2025-11-07,C-Check,418234.84,194.0,False,6
+1282,113,2023-02-05,Unscheduled Repair,3194.82,11.7,False,4
+1283,71,2024-05-17,A-Check (Routine),3107.33,7.2,True,1
+1284,11,2025-09-02,Avionics Update,61840.01,74.8,False,4
+1285,69,2023-11-03,A-Check (Routine),8179.34,7.8,True,7
+1286,72,2024-05-31,C-Check,150421.06,290.8,False,6
+1287,47,2024-03-15,Engine Overhaul,794535.18,404.7,True,4
+1288,93,2025-02-05,C-Check,217953.44,188.9,True,4
+1289,15,2025-07-09,B-Check,30916.29,29.1,True,2
+1290,117,2024-08-25,B-Check,26483.64,12.2,False,8
+1291,45,2023-12-20,A-Check (Routine),9460.31,7.5,True,3
+1292,83,2025-08-07,Engine Overhaul,1007705.46,579.3,True,2
+1293,95,2024-09-09,Unscheduled Repair,43779.62,10.2,False,1
+1294,38,2025-07-14,C-Check,338017.65,147.7,True,6
+1295,50,2025-05-20,B-Check,15683.43,31.0,True,3
+1296,37,2025-01-08,A-Check (Routine),7357.3,7.9,False,2
+1297,51,2024-11-16,Unscheduled Repair,20536.05,30.8,True,6
+1298,93,2024-11-02,C-Check,311655.39,158.8,True,3
+1299,78,2023-07-20,Unscheduled Repair,89760.15,29.9,True,1
+1300,141,2023-11-04,Unscheduled Repair,60252.82,23.7,True,6
+1301,60,2025-05-04,A-Check (Routine),3587.92,8.8,True,7
+1302,156,2023-06-14,A-Check (Routine),11584.66,8.7,True,1
+1303,40,2025-01-28,A-Check (Routine),7359.07,9.0,True,8
+1304,35,2024-10-10,A-Check (Routine),6000.68,7.7,True,7
+1305,142,2025-12-03,B-Check,16721.83,15.8,True,5
+1306,120,2023-04-28,Unscheduled Repair,21891.11,25.6,False,2
+1307,51,2025-03-30,A-Check (Routine),6110.16,11.4,False,1
+1308,62,2023-03-04,Unscheduled Repair,43385.31,16.9,True,2
+1309,69,2023-01-23,A-Check (Routine),4556.4,10.8,True,6
+1310,40,2024-04-02,B-Check,34664.71,24.4,True,3
+1311,42,2024-03-08,A-Check (Routine),10184.03,5.9,False,8
+1312,48,2023-01-04,D-Check (Heavy),930186.0,407.3,True,4
+1313,133,2024-02-09,Avionics Update,57722.07,30.7,False,5
+1314,85,2024-07-06,A-Check (Routine),11754.69,8.8,True,6
+1315,6,2023-03-26,A-Check (Routine),10802.95,6.2,False,7
+1316,67,2024-03-31,C-Check,407917.76,160.2,True,7
+1317,114,2023-01-07,A-Check (Routine),6701.11,9.1,True,5
+1318,136,2023-03-27,A-Check (Routine),4677.81,6.9,True,1
+1319,59,2025-03-15,B-Check,30222.98,25.4,False,5
+1320,126,2025-11-20,A-Check (Routine),3121.87,5.9,False,2
+1321,11,2024-10-26,B-Check,20970.56,26.1,True,7
+1322,28,2025-06-23,D-Check (Heavy),1732548.55,811.3,True,7
+1323,58,2023-10-19,A-Check (Routine),4411.21,4.3,False,7
+1324,121,2023-10-10,A-Check (Routine),7318.88,7.9,True,7
+1325,28,2023-08-21,Unscheduled Repair,63801.56,12.0,True,1
+1326,150,2023-08-10,A-Check (Routine),9876.13,8.4,True,7
+1327,46,2025-11-27,A-Check (Routine),4160.54,11.5,True,3
+1328,49,2023-05-21,Avionics Update,88362.57,46.0,True,4
+1329,50,2024-05-24,B-Check,12588.16,19.5,True,7
+1330,157,2024-07-05,A-Check (Routine),8447.52,6.2,False,8
+1331,29,2024-01-27,A-Check (Routine),4884.52,6.0,True,5
+1332,17,2023-06-14,C-Check,226227.68,169.1,True,5
+1333,46,2025-07-18,Engine Overhaul,1117512.76,341.5,True,2
+1334,26,2024-04-09,A-Check (Routine),5996.97,9.4,True,4
+1335,70,2024-12-21,A-Check (Routine),7779.91,6.8,False,4
+1336,126,2023-10-25,A-Check (Routine),7257.41,9.9,True,5
+1337,137,2024-03-30,A-Check (Routine),5565.6,5.0,True,2
+1338,149,2025-03-23,Unscheduled Repair,74150.1,11.7,True,8
+1339,16,2023-10-15,D-Check (Heavy),1606566.56,409.4,True,5
+1340,133,2024-02-11,A-Check (Routine),9604.9,11.6,False,8
+1341,51,2024-10-26,Unscheduled Repair,62630.92,42.0,True,7
+1342,37,2025-03-26,Unscheduled Repair,84513.09,31.1,False,6
+1343,104,2024-01-31,Unscheduled Repair,6346.57,44.5,True,5
+1344,78,2025-10-17,B-Check,32368.17,35.3,False,8
+1345,13,2025-06-18,Engine Overhaul,441512.73,560.7,True,1
+1346,12,2024-01-31,Unscheduled Repair,35759.36,5.9,False,4
+1347,7,2024-01-07,A-Check (Routine),4237.66,10.9,True,6
+1348,41,2025-05-25,A-Check (Routine),5641.53,7.6,False,1
+1349,145,2024-05-20,Unscheduled Repair,38202.77,20.3,True,8
+1350,146,2023-07-13,A-Check (Routine),11601.26,7.5,False,4
+1351,67,2023-09-30,C-Check,291142.37,265.0,True,4
+1352,127,2023-08-21,D-Check (Heavy),2431815.91,699.7,False,6
+1353,142,2024-02-12,A-Check (Routine),8627.94,6.1,False,2
+1354,95,2024-04-19,A-Check (Routine),10147.04,11.2,False,2
+1355,59,2025-12-27,B-Check,18088.01,17.3,True,1
+1356,132,2025-09-10,A-Check (Routine),11375.5,10.8,True,3
+1357,113,2023-10-05,A-Check (Routine),7343.0,10.2,False,7
+1358,104,2025-02-21,C-Check,433123.54,197.3,True,7
+1359,136,2023-02-08,A-Check (Routine),7584.55,6.5,True,1
+1360,19,2024-04-03,Unscheduled Repair,19419.07,36.6,True,2
+1361,75,2024-06-09,Unscheduled Repair,16386.76,18.6,True,2
+1362,161,2025-11-11,Unscheduled Repair,3349.74,32.3,True,1
+1363,151,2024-05-28,Unscheduled Repair,6553.46,20.2,True,4
+1364,107,2025-07-06,A-Check (Routine),3843.47,4.7,True,8
+1365,29,2023-08-28,Unscheduled Repair,30499.87,10.6,False,1
+1366,131,2024-05-24,B-Check,20814.98,35.4,False,3
+1367,31,2025-07-09,Unscheduled Repair,79104.55,23.4,True,6
+1368,149,2025-03-22,A-Check (Routine),9474.51,8.9,True,4
+1369,132,2025-08-23,Unscheduled Repair,48928.39,11.8,True,2
+1370,7,2025-06-02,B-Check,25659.51,33.8,True,2
+1371,6,2025-11-14,A-Check (Routine),5292.88,4.0,True,4
+1372,61,2025-05-13,B-Check,26056.92,20.7,False,2
+1373,37,2023-08-27,A-Check (Routine),9830.76,8.3,False,6
+1374,154,2025-03-17,A-Check (Routine),8078.45,6.5,True,4
+1375,25,2024-12-01,B-Check,29264.45,26.5,False,3
+1376,40,2023-07-17,Engine Overhaul,635974.28,362.2,True,1
+1377,43,2024-01-27,C-Check,164058.57,147.6,True,7
+1378,147,2023-11-02,B-Check,20305.27,31.0,False,1
+1379,164,2023-06-22,Unscheduled Repair,55523.66,17.5,True,8
+1380,93,2023-05-24,Unscheduled Repair,15122.26,37.0,True,7
+1381,59,2023-07-24,A-Check (Routine),4869.99,5.5,False,7
+1382,134,2024-03-14,A-Check (Routine),9114.19,7.4,True,3
+1383,41,2024-06-13,B-Check,27281.99,23.9,True,1
+1384,73,2025-08-02,Avionics Update,89464.3,29.7,True,1
+1385,143,2025-05-10,Avionics Update,90809.09,42.0,True,8
+1386,107,2023-04-30,A-Check (Routine),10983.89,11.6,True,4
+1387,109,2024-02-05,Unscheduled Repair,80258.07,36.6,True,3
+1388,83,2025-12-19,Unscheduled Repair,57593.4,10.0,True,8
+1389,139,2024-09-07,A-Check (Routine),10464.27,8.7,False,6
+1390,57,2025-10-21,C-Check,280787.18,138.8,False,3
+1391,150,2024-09-11,Engine Overhaul,472376.48,266.6,True,1
+1392,74,2025-12-25,A-Check (Routine),5928.68,10.5,True,3
+1393,160,2024-04-30,B-Check,13036.92,14.8,True,2
+1394,94,2023-09-05,Unscheduled Repair,10518.86,26.2,False,5
+1395,79,2025-11-25,A-Check (Routine),4721.76,7.4,False,4
+1396,41,2023-10-13,Avionics Update,118482.74,43.1,True,4
+1397,133,2025-04-16,C-Check,315531.6,249.8,False,2
+1398,18,2024-02-02,Unscheduled Repair,68569.28,41.4,True,2
+1399,36,2025-09-19,B-Check,12814.8,21.2,False,6
+1400,59,2023-08-19,A-Check (Routine),5362.7,11.6,True,1
+1401,134,2023-01-23,Unscheduled Repair,15451.46,9.3,True,5
+1402,125,2023-05-24,Engine Overhaul,1092477.84,224.7,True,5
+1403,142,2025-04-28,Unscheduled Repair,60934.78,14.9,True,2
+1404,16,2023-11-17,B-Check,14420.7,28.1,True,3
+1405,116,2024-07-10,A-Check (Routine),11528.53,10.0,True,5
+1406,63,2023-01-19,B-Check,31152.15,20.5,True,7
+1407,14,2023-04-07,A-Check (Routine),10689.73,5.6,True,7
+1408,80,2025-04-01,Unscheduled Repair,13970.15,19.8,False,2
+1409,163,2025-12-08,Unscheduled Repair,83120.26,21.0,True,1
+1410,37,2023-02-09,B-Check,27993.71,16.5,True,3
+1411,166,2024-10-17,C-Check,162000.56,230.0,True,1
+1412,107,2023-02-15,B-Check,12732.47,14.2,True,6
+1413,134,2023-05-05,C-Check,194399.57,162.5,False,1
+1414,144,2025-11-07,Avionics Update,23050.73,39.1,True,6
+1415,98,2025-07-21,A-Check (Routine),9469.0,5.7,False,6
+1416,65,2024-04-25,D-Check (Heavy),1034208.34,626.7,True,8
+1417,165,2024-06-30,Engine Overhaul,671074.04,352.6,False,6
+1418,111,2025-12-24,A-Check (Routine),6764.78,7.4,True,7
+1419,54,2024-09-11,A-Check (Routine),10350.17,11.3,True,5
+1420,50,2024-02-07,A-Check (Routine),6727.58,5.1,False,3
+1421,84,2024-08-04,C-Check,363017.47,245.9,True,3
+1422,56,2023-02-17,B-Check,27591.02,33.3,True,7
+1423,103,2023-04-14,B-Check,10174.63,23.9,True,8
+1424,134,2023-05-23,B-Check,19682.43,33.6,False,3
+1425,117,2025-02-21,Unscheduled Repair,41912.62,10.6,True,7
+1426,137,2023-09-21,B-Check,23617.06,12.3,True,3
+1427,84,2023-10-18,B-Check,20794.6,13.8,True,4
+1428,18,2023-01-22,A-Check (Routine),6214.53,7.7,False,5
+1429,79,2024-03-05,A-Check (Routine),10550.76,8.9,True,5
+1430,108,2024-02-12,B-Check,18057.74,30.8,True,3
+1431,163,2025-03-11,B-Check,21487.39,15.8,True,8
+1432,121,2024-04-15,C-Check,174608.46,170.9,True,4
+1433,33,2023-07-25,Avionics Update,31021.88,31.8,False,4
+1434,124,2024-02-23,Unscheduled Repair,14143.06,26.8,True,7
+1435,5,2023-08-02,A-Check (Routine),10603.47,6.3,False,3
+1436,131,2023-01-06,C-Check,385965.84,124.2,True,1
+1437,112,2025-07-21,A-Check (Routine),9576.87,11.6,True,5
+1438,17,2023-03-26,A-Check (Routine),5365.19,5.4,True,2
+1439,96,2025-10-04,A-Check (Routine),9732.37,7.6,True,4
+1440,2,2023-05-01,B-Check,22550.41,33.2,True,2
+1441,80,2023-06-14,A-Check (Routine),6617.93,8.5,False,7
+1442,146,2024-04-27,A-Check (Routine),10154.95,7.3,True,3
+1443,90,2025-05-16,A-Check (Routine),9390.14,7.7,True,5
+1444,53,2023-07-27,A-Check (Routine),7847.08,9.1,True,1
+1445,130,2025-02-24,A-Check (Routine),9805.22,8.9,True,4
+1446,36,2023-02-22,B-Check,19421.64,29.8,True,2
+1447,2,2024-03-07,Unscheduled Repair,3770.8,38.9,True,2
+1448,63,2023-06-17,A-Check (Routine),9177.2,7.4,True,8
+1449,85,2023-04-05,A-Check (Routine),8421.34,11.8,True,8
+1450,132,2023-02-19,A-Check (Routine),6762.03,11.7,True,7
+1451,150,2025-05-02,A-Check (Routine),8403.5,6.7,True,7
+1452,89,2025-05-22,A-Check (Routine),9855.6,10.7,False,4
+1453,36,2025-03-27,C-Check,337698.03,297.9,False,5
+1454,159,2025-08-16,Unscheduled Repair,83878.31,37.2,True,5
+1455,53,2025-02-16,C-Check,237566.74,191.9,True,4
+1456,107,2025-06-07,A-Check (Routine),8831.0,10.1,False,6
+1457,161,2024-08-23,C-Check,441880.16,278.4,True,6
+1458,42,2023-08-30,A-Check (Routine),10975.6,12.0,True,4
+1459,94,2025-02-16,A-Check (Routine),5760.01,7.9,True,2
+1460,80,2025-03-12,Engine Overhaul,995250.4,305.2,False,2
+1461,95,2024-12-27,A-Check (Routine),10947.2,10.9,False,1
+1462,158,2025-09-15,B-Check,22620.35,26.0,True,2
+1463,112,2024-10-24,A-Check (Routine),3201.05,8.6,True,6
+1464,94,2024-12-07,A-Check (Routine),10642.18,9.6,True,6
+1465,96,2023-07-07,A-Check (Routine),4022.29,11.6,True,2
+1466,143,2025-03-21,A-Check (Routine),10912.92,11.6,True,8
+1467,20,2024-08-01,C-Check,173476.54,150.2,True,2
+1468,9,2025-03-18,A-Check (Routine),8128.39,6.2,True,8
+1469,125,2025-02-15,A-Check (Routine),10860.94,5.4,True,7
+1470,60,2023-07-05,C-Check,416817.08,204.0,False,4
+1471,66,2025-10-14,Unscheduled Repair,54327.09,14.7,True,7
+1472,147,2023-12-13,Unscheduled Repair,27501.59,23.5,True,8
+1473,70,2025-09-30,B-Check,31199.0,29.7,True,6
+1474,131,2025-05-07,C-Check,429810.47,217.1,False,2
+1475,23,2024-01-11,Engine Overhaul,641447.47,293.1,True,6
+1476,85,2025-12-27,Unscheduled Repair,2125.93,22.4,True,6
+1477,53,2025-06-22,A-Check (Routine),3422.34,9.0,True,7
+1478,12,2024-09-09,B-Check,18750.55,13.0,True,6
+1479,113,2024-09-21,A-Check (Routine),11415.8,9.0,False,4
+1480,132,2024-09-02,A-Check (Routine),7929.14,5.1,True,1
+1481,91,2025-12-25,Unscheduled Repair,71450.9,36.5,True,4
+1482,98,2024-08-15,A-Check (Routine),10002.46,8.4,True,1
+1483,166,2024-05-27,C-Check,317885.53,120.9,False,6
+1484,157,2024-05-11,A-Check (Routine),8678.96,6.5,True,2
+1485,45,2024-06-27,Unscheduled Repair,23562.53,36.8,True,4
+1486,50,2024-07-29,Unscheduled Repair,67796.33,41.5,True,5
+1487,145,2023-01-16,Unscheduled Repair,60060.29,22.3,True,7
+1488,6,2024-10-04,Engine Overhaul,626117.41,323.1,True,2
+1489,71,2025-08-12,A-Check (Routine),10222.12,6.3,True,6
+1490,33,2023-02-19,B-Check,10670.63,32.1,False,4
+1491,137,2024-12-10,Unscheduled Repair,19544.77,37.4,True,7
+1492,85,2024-04-14,Engine Overhaul,951300.57,280.3,True,3
+1493,164,2024-02-04,A-Check (Routine),4753.95,8.6,False,8
+1494,34,2023-01-18,Unscheduled Repair,37273.02,11.8,True,7
+1495,70,2023-02-19,A-Check (Routine),8465.2,6.5,True,2
+1496,69,2025-04-06,Avionics Update,15411.67,55.2,False,2
+1497,125,2025-01-30,B-Check,12254.11,26.6,False,8
+1498,26,2025-08-26,A-Check (Routine),5805.15,8.1,False,8
+1499,111,2023-04-16,B-Check,17165.49,15.3,True,1
+1500,27,2025-03-16,Unscheduled Repair,39643.63,24.3,True,8
+1501,135,2023-07-16,B-Check,30789.37,23.5,False,4
+1502,58,2023-04-02,C-Check,194485.74,130.6,True,2
+1503,41,2025-07-07,A-Check (Routine),5103.37,4.0,False,6
+1504,32,2024-02-24,Unscheduled Repair,38875.01,10.5,True,4
+1505,70,2024-04-30,A-Check (Routine),9129.99,9.7,True,6
+1506,154,2024-11-08,A-Check (Routine),8523.5,11.7,False,8
+1507,97,2024-07-19,A-Check (Routine),4119.95,9.6,True,2
+1508,78,2023-03-01,A-Check (Routine),11817.95,4.1,True,2
+1509,16,2025-04-10,A-Check (Routine),9223.36,6.2,True,2
+1510,28,2023-04-28,B-Check,25504.12,31.2,True,2
+1511,61,2023-12-24,A-Check (Routine),6578.24,5.1,True,5
+1512,11,2025-05-24,A-Check (Routine),11387.01,7.1,True,3
+1513,87,2024-02-19,C-Check,369383.55,132.5,True,4
+1514,83,2025-11-29,Unscheduled Repair,74662.03,36.2,True,7
+1515,16,2023-09-24,Engine Overhaul,963848.9,485.5,True,7
+1516,13,2025-03-09,A-Check (Routine),9718.55,7.4,True,5
+1517,53,2024-11-10,Unscheduled Repair,18842.25,10.2,True,5
+1518,158,2023-02-17,A-Check (Routine),3694.94,7.8,False,6
+1519,120,2025-10-31,A-Check (Routine),11892.99,9.8,True,8
+1520,140,2025-02-24,Unscheduled Repair,54566.64,9.0,True,6
+1521,48,2025-09-19,Unscheduled Repair,76087.31,32.8,True,5
+1522,8,2023-02-22,B-Check,24992.73,16.4,True,6
+1523,47,2025-12-28,B-Check,16262.92,20.0,True,4
+1524,155,2024-12-20,Avionics Update,100394.21,74.0,False,1
+1525,53,2023-02-28,B-Check,33331.17,13.8,False,3
+1526,83,2023-04-04,Unscheduled Repair,83013.56,16.7,True,3
+1527,57,2023-10-02,Unscheduled Repair,52405.31,8.4,False,5
+1528,107,2025-01-04,B-Check,31659.68,19.3,True,2
+1529,30,2023-11-14,A-Check (Routine),3990.1,4.8,False,6
+1530,132,2023-02-10,Avionics Update,71739.73,39.3,True,4
+1531,21,2023-12-24,A-Check (Routine),9543.06,10.0,True,7
+1532,77,2023-03-05,A-Check (Routine),10112.73,10.3,False,6
+1533,166,2024-04-01,A-Check (Routine),7318.13,10.0,True,7
+1534,141,2023-09-01,A-Check (Routine),10524.29,5.5,False,6
+1535,118,2025-03-04,B-Check,19135.78,31.6,True,3
+1536,19,2024-12-14,Unscheduled Repair,54284.09,41.3,False,8
+1537,115,2025-04-28,A-Check (Routine),10080.32,6.9,True,8
+1538,102,2024-10-28,Unscheduled Repair,25452.24,35.6,True,2
+1539,122,2023-02-19,A-Check (Routine),3885.59,11.0,True,6
+1540,161,2024-08-05,Engine Overhaul,1027728.87,294.5,True,1
+1541,10,2025-12-11,C-Check,315457.78,294.0,True,3
+1542,117,2025-08-01,A-Check (Routine),9526.53,8.7,False,6
+1543,45,2024-03-24,A-Check (Routine),10202.34,8.3,True,8
+1544,6,2024-07-24,D-Check (Heavy),2335179.21,648.0,True,3
+1545,20,2024-09-09,D-Check (Heavy),2402674.27,752.9,True,5
+1546,23,2024-07-05,B-Check,11612.69,35.7,False,8
+1547,4,2025-03-31,Unscheduled Repair,76301.59,9.2,True,5
+1548,23,2023-08-17,C-Check,275676.87,162.9,False,7
+1549,80,2024-03-26,Unscheduled Repair,39624.51,3.8,True,4
+1550,113,2024-02-12,A-Check (Routine),10504.8,9.3,True,2
+1551,54,2025-04-11,A-Check (Routine),4401.82,10.9,True,7
+1552,18,2024-06-08,A-Check (Routine),4983.67,4.9,True,2
+1553,76,2025-11-29,Unscheduled Repair,26116.81,30.3,False,7
+1554,103,2024-04-18,B-Check,34227.82,32.8,True,5
+1555,6,2025-07-15,Unscheduled Repair,35211.04,6.6,True,2
+1556,125,2024-07-02,Avionics Update,94634.29,36.4,True,6
+1557,120,2024-08-21,Unscheduled Repair,6042.78,6.6,False,4
+1558,102,2024-02-01,C-Check,379570.82,282.2,True,3
+1559,104,2025-06-02,B-Check,21492.38,23.7,True,1
+1560,133,2025-08-17,A-Check (Routine),10653.77,6.1,True,7
+1561,134,2025-01-11,C-Check,214023.96,175.4,True,7
+1562,40,2024-08-14,A-Check (Routine),3708.3,7.6,True,6
+1563,59,2023-11-07,C-Check,317979.16,273.7,True,7
+1564,114,2023-06-27,Unscheduled Repair,74215.13,16.0,False,2
+1565,66,2023-11-08,Unscheduled Repair,74550.78,13.5,True,4
+1566,12,2024-02-10,A-Check (Routine),4072.64,7.9,False,2
+1567,20,2024-09-27,Engine Overhaul,818522.59,592.9,True,4
+1568,73,2024-03-03,B-Check,30518.13,21.9,True,5
+1569,133,2025-02-17,Unscheduled Repair,47807.22,37.0,True,2
+1570,30,2024-11-09,C-Check,420899.08,170.3,True,5
+1571,32,2025-08-31,D-Check (Heavy),1915149.97,427.6,True,8
+1572,125,2023-06-04,Avionics Update,108128.46,75.8,False,3
+1573,25,2025-04-14,A-Check (Routine),3964.01,10.5,True,4
+1574,60,2023-01-14,Unscheduled Repair,33257.37,11.7,True,8
+1575,128,2025-03-13,B-Check,34574.92,14.8,True,7
+1576,83,2023-11-04,D-Check (Heavy),1341847.04,646.4,True,8
+1577,52,2023-06-22,Engine Overhaul,1196016.36,562.4,True,5
+1578,142,2025-04-14,Avionics Update,91902.57,40.0,True,3
+1579,158,2023-09-05,A-Check (Routine),7198.62,5.7,True,5
+1580,32,2025-06-03,D-Check (Heavy),1752383.22,722.9,False,3
+1581,153,2023-07-30,Engine Overhaul,767237.84,269.7,False,3
+1582,104,2024-07-18,Avionics Update,81299.13,59.2,True,7
+1583,111,2025-12-27,C-Check,325777.41,181.6,True,3
+1584,57,2023-11-03,A-Check (Routine),4483.93,10.2,True,6
+1585,165,2023-02-10,Unscheduled Repair,21103.85,33.5,True,5
+1586,31,2023-10-06,Avionics Update,63135.65,29.2,True,6
+1587,92,2023-11-21,A-Check (Routine),7078.85,8.2,True,8
+1588,26,2024-12-27,C-Check,385389.73,199.8,True,2
+1589,101,2025-10-09,Unscheduled Repair,59227.45,5.1,True,8
+1590,91,2024-07-17,C-Check,324050.71,188.5,False,8
+1591,66,2025-08-06,A-Check (Routine),4486.62,11.9,True,6
+1592,70,2024-11-12,Engine Overhaul,924567.51,261.8,False,3
+1593,144,2025-03-18,B-Check,14853.17,23.2,True,7
+1594,144,2025-10-15,A-Check (Routine),8756.88,7.7,True,7
+1595,150,2024-07-03,B-Check,25761.72,31.6,True,3
+1596,127,2023-06-25,A-Check (Routine),11464.92,9.2,True,6
+1597,157,2023-12-02,A-Check (Routine),3577.91,4.4,True,4
+1598,32,2025-02-06,A-Check (Routine),3326.9,11.2,False,8
+1599,89,2024-12-30,B-Check,34421.17,25.7,True,2
+1600,85,2023-10-26,B-Check,28726.23,19.2,True,3
+1601,80,2024-10-19,Unscheduled Repair,76117.58,32.2,True,7
+1602,90,2025-07-24,B-Check,33685.44,31.6,True,3
+1603,48,2025-03-11,D-Check (Heavy),1949113.29,707.0,False,6
+1604,105,2025-12-05,C-Check,376106.25,261.2,True,6
+1605,102,2023-11-10,Unscheduled Repair,44944.34,5.5,True,4
+1606,121,2025-12-06,Unscheduled Repair,85123.57,22.5,True,4
+1607,62,2025-05-17,B-Check,24673.1,12.1,True,7
+1608,25,2025-07-03,A-Check (Routine),4188.19,5.3,True,1
+1609,130,2023-10-28,D-Check (Heavy),946374.58,430.6,True,8
+1610,77,2025-04-29,A-Check (Routine),4178.52,4.6,True,8
+1611,138,2025-06-14,Unscheduled Repair,10554.69,38.4,True,8
+1612,94,2025-01-15,B-Check,28256.12,33.7,True,3
+1613,11,2025-07-29,Avionics Update,110163.42,38.4,True,6
+1614,91,2023-07-19,B-Check,20544.76,23.4,True,7
+1615,134,2025-07-15,A-Check (Routine),3572.88,5.7,True,3
+1616,24,2024-03-11,A-Check (Routine),10799.77,7.7,True,2
+1617,1,2025-12-12,C-Check,334865.08,285.8,True,7
+1618,98,2024-05-23,B-Check,28197.0,31.9,True,5
+1619,31,2024-12-25,B-Check,10662.64,17.3,True,3
+1620,90,2024-10-13,D-Check (Heavy),2490697.66,762.9,False,2
+1621,165,2023-07-01,D-Check (Heavy),1745112.42,715.9,True,2
+1622,130,2025-12-20,A-Check (Routine),6276.34,4.8,False,6
+1623,63,2024-06-03,A-Check (Routine),11150.97,11.1,False,3
+1624,24,2023-12-27,Avionics Update,71926.78,35.9,True,4
+1625,142,2023-10-22,A-Check (Routine),3238.61,7.3,True,7
+1626,55,2024-08-12,A-Check (Routine),4168.99,9.2,True,5
+1627,141,2025-08-17,A-Check (Routine),9810.5,8.4,False,8
+1628,17,2023-04-05,C-Check,217467.72,229.5,True,2
+1629,148,2025-08-30,B-Check,29100.84,23.1,True,3
+1630,134,2024-07-01,Unscheduled Repair,3165.13,4.1,True,6
+1631,16,2024-03-02,A-Check (Routine),5365.93,10.1,True,2
+1632,21,2025-03-29,Unscheduled Repair,7491.21,22.4,True,7
+1633,2,2025-06-11,A-Check (Routine),6079.68,10.2,False,3
+1634,138,2024-06-10,A-Check (Routine),6794.0,11.5,False,3
+1635,154,2023-12-05,Avionics Update,42901.37,58.7,False,5
+1636,60,2025-08-07,B-Check,32406.22,17.0,False,6
+1637,122,2024-04-17,Unscheduled Repair,80243.64,11.3,True,8
+1638,20,2024-03-31,B-Check,25842.32,24.4,True,3
+1639,11,2024-05-02,A-Check (Routine),7649.61,6.9,True,4
+1640,3,2024-06-20,A-Check (Routine),9177.86,5.5,True,5
+1641,73,2024-10-17,Unscheduled Repair,69149.85,43.6,False,8
+1642,90,2023-02-12,A-Check (Routine),11153.46,8.1,False,5
+1643,37,2024-01-14,A-Check (Routine),5012.78,10.0,True,8
+1644,22,2025-01-26,C-Check,389601.43,157.4,True,6
+1645,90,2024-12-20,A-Check (Routine),5170.2,10.7,True,7
+1646,60,2023-12-08,C-Check,228450.43,133.6,True,3
+1647,52,2023-11-18,Avionics Update,80952.18,67.4,True,3
+1648,47,2025-11-20,B-Check,33935.09,13.6,True,8
+1649,97,2025-04-17,B-Check,25758.72,30.3,True,8
+1650,72,2025-02-04,Unscheduled Repair,45783.79,12.2,True,4
+1651,164,2024-06-10,A-Check (Routine),11198.72,9.6,True,8
+1652,15,2024-12-03,Avionics Update,105352.41,30.2,True,5
+1653,88,2023-05-17,B-Check,29886.49,18.5,True,4
+1654,114,2024-03-12,C-Check,329598.47,291.8,True,6
+1655,53,2025-08-14,A-Check (Routine),9781.15,5.4,True,3
+1656,52,2025-08-03,Unscheduled Repair,23604.77,38.6,True,1
+1657,48,2024-09-19,B-Check,20713.27,18.9,True,1
+1658,15,2025-05-05,Unscheduled Repair,4079.54,37.2,False,4
+1659,160,2024-09-08,A-Check (Routine),8406.47,4.7,True,2
+1660,72,2023-04-14,Unscheduled Repair,61673.64,12.6,True,1
+1661,115,2023-12-12,B-Check,14914.41,25.5,True,7
+1662,8,2023-06-01,B-Check,16873.25,34.7,True,4
+1663,14,2024-07-28,A-Check (Routine),7366.1,8.6,False,8
+1664,69,2024-11-21,Engine Overhaul,714145.77,363.9,True,6
+1665,88,2024-03-13,Unscheduled Repair,66421.44,32.6,True,8
+1666,8,2025-02-20,A-Check (Routine),9053.93,7.5,True,7
+1667,48,2024-03-29,C-Check,370601.1,155.3,False,3
+1668,34,2024-09-11,Avionics Update,97267.69,71.2,True,3
+1669,46,2025-08-10,Unscheduled Repair,55580.82,11.6,True,5
+1670,9,2025-12-05,B-Check,19663.36,23.3,True,4
+1671,159,2023-02-26,Unscheduled Repair,22236.09,8.3,True,7
+1672,122,2024-12-13,A-Check (Routine),7906.26,5.6,True,3
+1673,14,2023-02-11,B-Check,31166.6,24.6,True,2
+1674,107,2024-08-17,Engine Overhaul,838479.13,585.8,True,6
+1675,96,2023-10-02,Unscheduled Repair,49556.52,21.9,False,1
+1676,70,2023-10-04,B-Check,14744.99,19.3,False,3
+1677,35,2024-06-05,B-Check,22033.95,28.6,True,3
+1678,31,2023-11-26,A-Check (Routine),7616.0,6.7,True,4
+1679,42,2024-12-25,A-Check (Routine),8146.73,7.0,False,6
+1680,1,2025-05-28,Unscheduled Repair,44619.65,42.7,True,2
+1681,18,2024-08-04,Engine Overhaul,726193.1,298.2,False,2
+1682,55,2024-07-15,A-Check (Routine),11007.72,10.4,True,8
+1683,68,2024-11-04,A-Check (Routine),9082.04,8.5,True,6
+1684,39,2025-12-28,A-Check (Routine),9620.62,7.1,True,7
+1685,85,2024-10-15,A-Check (Routine),10432.92,9.4,True,1
+1686,102,2025-05-19,A-Check (Routine),4914.35,6.9,True,4
+1687,51,2025-11-20,A-Check (Routine),7977.97,11.2,True,6
+1688,31,2023-06-23,Unscheduled Repair,17070.27,38.2,True,1
+1689,113,2024-04-18,Unscheduled Repair,11072.01,14.8,True,8
+1690,56,2023-07-01,A-Check (Routine),10205.53,7.5,False,5
+1691,161,2025-11-17,A-Check (Routine),11463.15,7.6,True,7
+1692,145,2023-03-05,A-Check (Routine),9358.42,4.1,True,7
+1693,17,2023-10-16,Unscheduled Repair,56644.68,15.8,True,4
+1694,108,2024-03-23,Unscheduled Repair,88706.78,47.9,True,6
+1695,60,2025-09-07,A-Check (Routine),11040.98,7.0,True,8
+1696,30,2025-04-20,C-Check,403276.99,231.2,True,4
+1697,165,2024-01-07,D-Check (Heavy),1640299.26,491.5,True,5
+1698,28,2024-11-14,Avionics Update,96576.86,60.1,True,7
+1699,136,2023-04-22,A-Check (Routine),4173.14,9.5,False,2
+1700,42,2024-03-05,Engine Overhaul,948002.64,358.8,False,4
+1701,112,2023-04-21,B-Check,12252.67,19.4,True,8
+1702,104,2025-03-15,A-Check (Routine),4588.89,11.3,True,1
+1703,79,2025-08-21,A-Check (Routine),11766.93,11.7,True,2
+1704,166,2025-01-30,B-Check,15910.95,18.8,True,4
+1705,165,2025-01-10,Unscheduled Repair,61632.33,18.4,True,7
+1706,127,2023-07-28,Unscheduled Repair,63422.64,32.6,True,2
+1707,52,2024-06-06,A-Check (Routine),9168.07,11.0,True,6
+1708,111,2024-01-31,Unscheduled Repair,58560.25,36.1,True,1
+1709,55,2023-10-05,C-Check,356586.7,242.8,True,5
+1710,60,2023-12-14,Unscheduled Repair,58376.42,18.4,True,8
+1711,99,2025-02-27,A-Check (Routine),10853.8,5.6,True,1
+1712,121,2025-02-13,A-Check (Routine),8005.14,9.2,True,1
+1713,73,2024-11-20,Avionics Update,114425.54,26.8,True,7
+1714,144,2023-04-29,Unscheduled Repair,19715.28,32.1,True,6
+1715,18,2024-05-15,A-Check (Routine),5493.44,5.6,True,2
+1716,113,2024-02-19,A-Check (Routine),7227.94,5.2,True,3
+1717,93,2023-07-26,B-Check,34298.93,16.3,False,2
+1718,73,2025-10-23,Unscheduled Repair,57440.9,27.1,True,5
+1719,80,2023-08-10,A-Check (Routine),7115.8,5.1,True,5
+1720,134,2024-02-09,Unscheduled Repair,8982.22,11.4,False,1
+1721,14,2024-04-26,A-Check (Routine),4167.47,5.4,False,5
+1722,123,2024-03-16,A-Check (Routine),10615.2,7.4,True,3
+1723,14,2025-01-02,D-Check (Heavy),1051410.19,894.1,True,5
+1724,8,2025-08-01,B-Check,21768.13,28.0,True,5
+1725,53,2025-03-22,Avionics Update,73004.45,72.7,True,5
+1726,96,2023-09-17,A-Check (Routine),8515.81,11.5,True,5
+1727,65,2025-03-05,Avionics Update,98881.79,43.3,False,5
+1728,63,2025-07-02,A-Check (Routine),7838.85,4.1,True,6
+1729,41,2023-01-28,Unscheduled Repair,34067.07,14.3,True,5
+1730,102,2023-10-27,Avionics Update,58594.85,31.5,False,2
+1731,73,2023-11-29,A-Check (Routine),10979.61,5.5,False,1
+1732,129,2023-06-25,B-Check,28210.07,35.7,False,1
+1733,162,2024-12-11,B-Check,14292.67,27.7,True,1
+1734,98,2025-08-22,Unscheduled Repair,61063.51,14.2,True,5
+1735,84,2025-06-21,Unscheduled Repair,31153.63,15.7,True,2
+1736,76,2024-07-13,Unscheduled Repair,86614.95,38.6,False,8
+1737,129,2023-06-13,A-Check (Routine),3862.18,9.6,False,4
+1738,129,2025-11-10,Unscheduled Repair,2542.72,3.3,True,8
+1739,9,2023-05-13,Engine Overhaul,1096102.76,535.0,True,1
+1740,70,2024-12-22,B-Check,31060.7,22.2,False,1
+1741,65,2025-09-12,Engine Overhaul,727638.09,261.7,False,5
+1742,64,2025-11-17,C-Check,297536.84,288.8,False,4
+1743,73,2024-07-21,B-Check,33159.91,14.4,True,6
+1744,8,2023-07-26,Unscheduled Repair,79111.49,38.6,True,4
+1745,34,2023-12-04,A-Check (Routine),7019.29,10.5,True,1
+1746,5,2025-12-27,Unscheduled Repair,83408.65,13.3,True,3
+1747,145,2023-11-25,D-Check (Heavy),2151556.13,618.5,True,8
+1748,31,2025-12-10,D-Check (Heavy),1378234.5,511.1,False,6
+1749,10,2024-06-16,C-Check,325252.75,201.4,False,2
+1750,48,2025-07-02,B-Check,24626.32,15.0,True,7
+1751,19,2024-11-25,C-Check,429365.7,215.3,True,1
+1752,140,2023-05-12,Unscheduled Repair,83239.01,25.5,True,6
+1753,115,2024-01-01,Unscheduled Repair,70033.05,23.1,False,6
+1754,56,2024-03-21,Unscheduled Repair,86101.1,36.7,True,2
+1755,5,2024-10-19,A-Check (Routine),11455.84,4.9,True,1
+1756,79,2025-04-22,Unscheduled Repair,60364.69,15.1,True,7
+1757,28,2023-11-20,A-Check (Routine),10435.73,7.8,False,2
+1758,156,2023-12-31,A-Check (Routine),8644.76,10.8,True,5
+1759,157,2023-06-11,D-Check (Heavy),1762433.2,841.7,True,4
+1760,37,2025-01-02,A-Check (Routine),7311.28,4.6,True,8
+1761,59,2025-09-20,A-Check (Routine),8360.94,6.1,True,5
+1762,58,2025-10-30,Engine Overhaul,469021.54,491.8,False,6
+1763,164,2024-08-01,Avionics Update,45437.89,62.1,True,2
+1764,34,2025-07-11,C-Check,382047.74,238.0,True,8
+1765,48,2023-09-11,B-Check,28028.48,15.4,False,5
+1766,103,2024-04-15,Unscheduled Repair,49450.45,7.5,True,5
+1767,100,2025-04-22,B-Check,17912.35,28.2,True,3
+1768,83,2023-04-15,Engine Overhaul,679163.72,467.6,True,5
+1769,15,2023-05-01,C-Check,345363.28,203.0,True,5
+1770,160,2024-05-06,C-Check,444172.76,244.5,False,6
+1771,11,2024-03-05,A-Check (Routine),3326.81,12.0,False,6
+1772,109,2023-09-07,D-Check (Heavy),2447828.71,679.7,True,5
+1773,39,2025-05-30,C-Check,370837.16,267.7,True,4
+1774,146,2024-08-20,C-Check,255718.8,251.6,True,6
+1775,131,2025-10-09,Unscheduled Repair,16371.0,31.5,False,2
+1776,166,2024-08-15,A-Check (Routine),5128.42,10.0,True,2
+1777,105,2024-07-07,B-Check,34443.14,15.5,True,1
+1778,125,2023-04-05,Unscheduled Repair,18671.31,10.1,True,4
+1779,112,2024-06-03,Unscheduled Repair,76774.97,44.7,True,1
+1780,91,2025-07-26,A-Check (Routine),4042.08,8.7,True,2
+1781,92,2023-07-21,A-Check (Routine),4837.13,11.0,True,8
+1782,105,2023-02-03,Unscheduled Repair,19291.06,22.1,True,2
+1783,67,2024-10-31,A-Check (Routine),4952.79,7.0,False,7
+1784,5,2024-01-18,Unscheduled Repair,4099.15,46.0,False,6
+1785,125,2023-10-05,A-Check (Routine),5731.79,5.7,False,1
+1786,50,2025-07-08,B-Check,33348.87,21.3,True,5
+1787,121,2024-07-08,C-Check,304338.45,189.5,True,8
+1788,134,2023-08-13,C-Check,261787.55,198.7,True,6
+1789,150,2025-05-04,C-Check,340850.66,176.3,True,7
+1790,63,2025-07-11,A-Check (Routine),8192.35,5.7,True,4
+1791,9,2024-02-10,B-Check,33073.15,21.2,False,6
+1792,67,2025-05-15,Unscheduled Repair,21176.87,24.6,True,1
+1793,116,2023-05-11,D-Check (Heavy),2307384.98,400.2,True,6
+1794,117,2025-03-08,A-Check (Routine),3224.78,6.5,True,6
+1795,73,2024-01-25,Unscheduled Repair,28026.0,13.1,True,8
+1796,163,2024-10-08,A-Check (Routine),6618.81,9.4,False,2
+1797,11,2025-10-09,C-Check,240149.92,157.6,True,5
+1798,136,2023-11-15,A-Check (Routine),10028.94,6.9,True,2
+1799,20,2024-10-13,A-Check (Routine),4202.4,10.1,True,4
+1800,120,2023-12-14,A-Check (Routine),10700.74,7.6,True,1
+1801,41,2024-06-26,Unscheduled Repair,22593.6,32.2,True,8
+1802,155,2024-08-16,Unscheduled Repair,80126.48,8.6,False,1
+1803,90,2025-07-18,A-Check (Routine),7552.44,6.8,True,4
+1804,124,2024-03-11,Unscheduled Repair,66248.48,34.2,True,6
+1805,148,2023-06-27,Unscheduled Repair,56275.08,21.6,True,4
+1806,136,2023-09-26,A-Check (Routine),3699.22,5.6,False,6
+1807,143,2025-09-29,A-Check (Routine),10482.1,5.9,True,1
+1808,96,2025-10-15,A-Check (Routine),3275.6,6.6,False,8
+1809,94,2024-07-04,A-Check (Routine),6448.12,11.3,True,8
+1810,151,2024-02-15,A-Check (Routine),10386.2,4.5,False,2
+1811,106,2025-08-25,A-Check (Routine),9100.96,11.3,False,2
+1812,118,2023-05-12,Unscheduled Repair,55012.59,21.4,True,1
+1813,93,2025-11-11,Unscheduled Repair,60064.61,45.7,True,8
+1814,145,2023-07-15,A-Check (Routine),4482.18,4.2,True,5
+1815,136,2023-01-07,A-Check (Routine),9792.54,4.3,False,5
+1816,102,2024-07-11,A-Check (Routine),8419.89,5.9,False,7
+1817,141,2024-06-28,D-Check (Heavy),2225534.51,618.2,True,8
+1818,10,2024-09-21,B-Check,30366.91,18.9,False,6
+1819,10,2024-03-08,Unscheduled Repair,22018.9,20.4,True,4
+1820,116,2025-10-07,A-Check (Routine),8996.62,9.1,True,4
+1821,10,2024-05-07,A-Check (Routine),10899.16,4.5,True,4
+1822,89,2023-10-21,Unscheduled Repair,72725.65,11.8,False,3
+1823,127,2025-10-28,Unscheduled Repair,3115.52,31.6,True,3
+1824,83,2024-09-09,B-Check,18919.44,35.6,False,6
+1825,106,2023-09-15,Engine Overhaul,410767.53,299.1,True,7
+1826,31,2024-06-10,C-Check,198122.95,174.3,False,2
+1827,88,2024-11-07,A-Check (Routine),8038.21,4.9,True,6
+1828,76,2023-12-24,A-Check (Routine),5099.33,4.9,False,6
+1829,65,2024-03-29,A-Check (Routine),11327.75,6.3,False,5
+1830,88,2025-12-30,Avionics Update,45329.95,24.1,True,6
+1831,100,2024-03-25,A-Check (Routine),9500.88,10.7,True,4
+1832,11,2024-03-23,B-Check,23660.44,21.7,True,3
+1833,44,2023-03-05,A-Check (Routine),9929.52,4.5,False,1
+1834,41,2024-06-16,A-Check (Routine),11283.32,10.4,False,6
+1835,35,2023-07-26,Unscheduled Repair,59875.85,42.2,True,3
+1836,69,2023-06-06,Avionics Update,103883.87,68.8,True,1
+1837,50,2023-07-05,Unscheduled Repair,49799.73,15.7,True,5
+1838,116,2023-05-20,A-Check (Routine),7843.66,4.2,False,3
+1839,92,2024-05-09,A-Check (Routine),8807.09,5.3,False,3
+1840,68,2023-10-05,B-Check,25983.3,14.6,True,2
+1841,81,2023-03-01,A-Check (Routine),7320.26,8.0,True,6
+1842,148,2025-11-26,A-Check (Routine),6149.09,4.8,True,1
+1843,125,2023-07-18,Avionics Update,88414.34,29.8,True,4
+1844,56,2025-04-19,B-Check,15994.0,21.0,True,5
+1845,43,2023-10-13,Avionics Update,48590.3,61.1,False,8
+1846,133,2023-03-17,B-Check,27225.45,15.5,False,7
+1847,75,2023-05-09,A-Check (Routine),10488.19,11.3,True,3
+1848,23,2025-09-15,A-Check (Routine),6933.64,11.6,False,8
+1849,102,2025-04-25,Unscheduled Repair,11094.87,10.5,True,5
+1850,9,2025-10-26,C-Check,229388.0,242.1,True,5
+1851,38,2023-08-22,B-Check,25116.67,29.1,True,5
+1852,68,2024-11-13,Unscheduled Repair,27749.43,34.2,True,2
+1853,90,2024-08-29,B-Check,32753.75,31.4,True,4
+1854,57,2023-12-04,B-Check,31868.48,23.6,True,3
+1855,18,2023-04-05,A-Check (Routine),5449.38,8.1,False,2
+1856,88,2023-09-30,Avionics Update,85769.07,42.7,True,5
+1857,68,2025-03-18,Unscheduled Repair,6037.66,5.4,True,2
+1858,82,2023-11-20,A-Check (Routine),7995.65,9.5,True,6
+1859,89,2024-09-23,A-Check (Routine),6306.92,5.8,True,6
+1860,16,2024-06-10,A-Check (Routine),11231.74,4.7,True,1
+1861,56,2023-08-06,B-Check,12501.16,28.5,True,3
+1862,154,2025-04-06,A-Check (Routine),7031.14,6.2,False,5
+1863,118,2023-02-10,B-Check,21689.71,31.6,False,8
+1864,91,2024-12-05,B-Check,19381.42,19.1,True,6
+1865,16,2024-12-18,A-Check (Routine),9953.31,8.1,True,7
+1866,126,2025-03-03,A-Check (Routine),3648.62,7.1,False,4
+1867,144,2023-12-31,A-Check (Routine),10007.1,10.7,False,2
+1868,28,2023-01-06,B-Check,27671.69,33.4,True,4
+1869,93,2024-10-28,A-Check (Routine),10741.09,5.5,True,3
+1870,31,2023-09-09,A-Check (Routine),7212.66,10.8,True,5
+1871,106,2023-01-06,A-Check (Routine),6335.68,9.7,True,4
+1872,97,2025-10-30,Avionics Update,82979.98,44.3,True,7
+1873,166,2025-07-14,B-Check,31196.34,18.4,True,2
+1874,93,2025-07-23,Unscheduled Repair,68410.56,41.4,True,8
+1875,152,2023-06-19,Engine Overhaul,1004367.45,223.4,True,8
+1876,111,2023-02-06,A-Check (Routine),5533.9,7.8,True,1
+1877,56,2025-12-08,Unscheduled Repair,23641.27,25.8,False,5
+1878,30,2024-10-11,A-Check (Routine),3449.02,10.4,True,6
+1879,43,2023-08-21,A-Check (Routine),6171.88,9.5,True,4
+1880,66,2024-12-06,C-Check,268730.76,193.9,True,6
+1881,7,2023-07-29,Unscheduled Repair,30038.03,17.2,False,7
+1882,38,2023-05-23,Engine Overhaul,853525.8,433.9,True,8
+1883,24,2024-02-10,A-Check (Routine),11555.77,9.0,True,6
+1884,13,2023-07-16,A-Check (Routine),3783.43,4.9,True,8
+1885,8,2024-09-26,A-Check (Routine),9522.94,9.8,True,6
+1886,85,2024-12-21,A-Check (Routine),5189.81,8.3,True,1
+1887,28,2025-09-13,Unscheduled Repair,46065.94,7.4,False,6
+1888,70,2023-10-30,A-Check (Routine),9457.43,9.8,True,4
+1889,157,2023-08-09,A-Check (Routine),7587.66,10.1,False,7
+1890,86,2025-05-28,Avionics Update,58433.04,74.2,True,6
+1891,40,2024-01-25,Unscheduled Repair,33141.18,39.6,True,6
+1892,31,2025-11-21,B-Check,19409.02,21.4,True,8
+1893,158,2025-10-04,A-Check (Routine),8233.3,5.6,False,2
+1894,60,2023-05-20,A-Check (Routine),6141.76,5.4,False,8
+1895,131,2024-07-04,A-Check (Routine),3391.67,8.5,True,1
+1896,68,2025-02-11,A-Check (Routine),4290.63,11.5,True,7
+1897,88,2023-05-10,A-Check (Routine),4573.5,11.7,False,5
+1898,54,2023-01-20,D-Check (Heavy),1321253.55,631.6,True,3
+1899,58,2024-10-03,Unscheduled Repair,36068.87,16.2,False,8
+1900,106,2025-05-18,Unscheduled Repair,70414.71,28.7,True,5
+1901,107,2025-08-08,Avionics Update,99761.35,69.1,True,1
+1902,86,2023-10-23,Unscheduled Repair,55136.58,45.3,False,2
+1903,105,2025-08-19,Unscheduled Repair,46440.79,17.0,True,2
+1904,95,2024-12-03,Unscheduled Repair,66078.27,34.5,True,1
+1905,9,2023-04-01,Avionics Update,37062.89,69.2,True,6
+1906,91,2025-12-08,Engine Overhaul,602331.26,482.2,False,5
+1907,136,2024-07-04,Unscheduled Repair,60894.21,12.5,True,4
+1908,15,2023-01-16,Avionics Update,117291.91,65.1,True,4
+1909,67,2023-06-22,A-Check (Routine),6319.46,10.3,False,5
+1910,86,2025-08-04,A-Check (Routine),3660.62,8.6,False,7
+1911,138,2025-12-15,A-Check (Routine),8012.08,4.9,False,8
+1912,61,2023-09-24,Unscheduled Repair,63396.11,21.4,False,4
+1913,139,2025-03-28,Engine Overhaul,1109445.52,321.7,True,4
+1914,23,2023-05-02,B-Check,25441.76,32.8,True,4
+1915,5,2023-08-22,C-Check,427338.98,289.9,True,3
+1916,145,2025-04-26,Unscheduled Repair,75863.98,36.2,True,5
+1917,124,2023-11-23,C-Check,430826.79,135.1,True,3
+1918,88,2024-02-08,A-Check (Routine),3759.45,8.5,True,1
+1919,118,2023-05-16,A-Check (Routine),6169.75,6.1,True,7
+1920,24,2025-01-20,C-Check,252050.5,211.6,True,5
+1921,80,2025-03-26,Unscheduled Repair,58659.25,12.3,True,6
+1922,70,2024-07-04,A-Check (Routine),10462.41,10.5,True,5
+1923,92,2025-02-28,C-Check,367636.78,127.1,False,1
+1924,97,2024-07-06,A-Check (Routine),10376.95,8.5,True,7
+1925,71,2024-01-10,Unscheduled Repair,55343.04,27.4,True,2
+1926,86,2025-02-09,Unscheduled Repair,26510.38,21.5,False,3
+1927,64,2023-10-14,Unscheduled Repair,15700.54,44.7,True,2
+1928,68,2025-02-19,B-Check,28531.75,32.8,True,7
+1929,143,2025-05-27,B-Check,10820.7,29.7,False,7
+1930,133,2025-02-28,Unscheduled Repair,85449.28,4.5,True,2
+1931,123,2025-09-27,Engine Overhaul,1017863.13,371.3,False,8
+1932,160,2023-06-27,C-Check,265229.01,177.0,True,1
+1933,16,2023-12-08,Unscheduled Repair,67947.18,7.3,True,4
+1934,17,2023-06-06,A-Check (Routine),11600.59,9.9,True,2
+1935,79,2023-01-02,A-Check (Routine),4047.8,10.4,False,1
+1936,38,2024-12-20,Engine Overhaul,433437.88,497.5,False,2
+1937,130,2023-06-18,Engine Overhaul,962947.38,525.7,True,1
+1938,28,2025-05-25,Avionics Update,30896.5,55.1,False,1
+1939,118,2023-04-06,B-Check,34882.52,16.2,True,5
+1940,13,2024-11-15,A-Check (Routine),7991.7,7.1,True,5
+1941,72,2024-03-04,B-Check,16464.46,27.7,True,2
+1942,146,2024-02-19,B-Check,20755.39,28.1,False,5
+1943,64,2024-06-25,B-Check,18455.57,12.3,True,8
+1944,53,2025-11-02,B-Check,11927.54,24.3,True,4
+1945,21,2023-10-25,Unscheduled Repair,35178.04,37.7,True,8
+1946,64,2024-05-02,A-Check (Routine),4111.25,9.5,True,5
+1947,78,2025-05-22,A-Check (Routine),3889.37,11.3,True,7
+1948,72,2025-04-09,B-Check,29347.31,14.4,False,2
+1949,165,2024-05-22,Unscheduled Repair,69343.8,20.9,True,6
+1950,149,2025-11-05,A-Check (Routine),9253.49,10.8,True,7
+1951,106,2025-01-07,D-Check (Heavy),975452.5,882.9,True,4
+1952,15,2025-01-31,B-Check,20067.48,14.5,True,4
+1953,1,2025-07-01,A-Check (Routine),6513.57,5.4,False,3
+1954,141,2024-09-19,Avionics Update,22224.38,28.5,True,1
+1955,59,2025-01-02,C-Check,164415.82,180.3,True,1
+1956,55,2025-12-12,A-Check (Routine),3978.61,4.2,True,2
+1957,130,2024-11-06,Avionics Update,73036.7,65.3,True,8
+1958,122,2025-12-14,Unscheduled Repair,69048.12,15.5,True,3
+1959,162,2023-07-10,A-Check (Routine),6162.51,4.6,True,7
+1960,84,2023-01-30,A-Check (Routine),9083.34,4.6,True,1
+1961,47,2024-02-21,A-Check (Routine),9184.52,7.8,True,6
+1962,91,2025-12-12,A-Check (Routine),11329.96,7.0,True,2
+1963,47,2024-08-02,C-Check,377206.21,134.9,True,2
+1964,35,2025-01-21,A-Check (Routine),5533.82,11.2,False,3
+1965,23,2023-07-09,A-Check (Routine),9084.21,10.1,True,5
+1966,5,2023-02-03,A-Check (Routine),3089.35,6.4,True,6
+1967,84,2023-08-14,Unscheduled Repair,75611.93,47.1,True,4
+1968,131,2023-07-05,B-Check,12053.69,28.2,True,8
+1969,121,2024-12-01,Unscheduled Repair,4420.3,9.3,True,1
+1970,69,2024-05-15,A-Check (Routine),10493.57,5.6,True,2
+1971,115,2023-09-21,A-Check (Routine),6561.22,9.5,True,4
+1972,14,2023-05-26,A-Check (Routine),6908.43,10.3,False,7
+1973,145,2023-05-31,A-Check (Routine),5389.3,5.4,False,4
+1974,132,2025-01-18,B-Check,28686.37,32.6,False,2
+1975,65,2024-06-07,C-Check,156528.87,281.2,True,4
+1976,51,2023-02-27,Avionics Update,78185.24,29.0,False,2
+1977,88,2023-02-21,A-Check (Routine),11166.41,5.7,False,8
+1978,65,2024-11-22,A-Check (Routine),6044.21,9.1,True,1
+1979,165,2024-02-13,A-Check (Routine),9064.86,11.8,True,7
+1980,121,2023-03-31,A-Check (Routine),10893.1,11.7,True,4
+1981,24,2024-09-18,B-Check,14729.76,14.5,True,2
+1982,125,2025-10-31,A-Check (Routine),7685.09,4.4,True,2
+1983,148,2024-08-23,A-Check (Routine),7237.18,8.1,False,4
+1984,154,2024-05-23,B-Check,15788.82,20.2,True,3
+1985,98,2024-09-17,C-Check,211536.89,279.3,True,4
+1986,103,2024-12-24,A-Check (Routine),8934.79,6.7,True,3
+1987,2,2023-01-12,A-Check (Routine),9916.46,8.2,False,1
+1988,149,2024-11-16,A-Check (Routine),7064.63,11.5,False,7
+1989,152,2023-11-12,Unscheduled Repair,19359.61,30.6,True,7
+1990,119,2025-01-18,A-Check (Routine),3243.85,10.3,False,3
+1991,105,2025-10-14,Engine Overhaul,457472.71,355.2,True,1
+1992,48,2024-10-26,C-Check,285172.16,294.8,True,2
+1993,73,2023-02-24,A-Check (Routine),9926.32,9.9,True,8
+1994,159,2025-09-30,A-Check (Routine),7738.53,8.3,True,8
+1995,47,2023-07-11,B-Check,24813.52,27.4,True,6
+1996,20,2023-11-21,B-Check,28995.37,27.5,True,1
+1997,14,2025-08-10,B-Check,17170.86,31.1,True,7
+1998,101,2024-05-29,B-Check,23854.44,31.3,True,8
+1999,4,2023-09-05,A-Check (Routine),8418.02,8.0,True,5
+2000,38,2023-11-09,A-Check (Routine),10513.83,6.2,True,5
+2001,160,2024-09-08,A-Check (Routine),8255.63,8.4,True,2
+2002,3,2023-09-05,B-Check,22176.47,31.4,True,3
+2003,96,2023-01-18,A-Check (Routine),9093.93,10.4,True,7
+2004,90,2023-12-21,Engine Overhaul,614417.9,396.4,True,8
+2005,53,2025-06-18,A-Check (Routine),11975.64,10.2,True,6
+2006,71,2023-07-31,C-Check,258093.75,299.5,True,8
+2007,99,2024-09-05,Unscheduled Repair,48846.85,10.2,True,7
+2008,68,2024-09-07,C-Check,164584.39,134.5,True,7
+2009,104,2024-06-04,Engine Overhaul,899005.95,328.3,False,5
+2010,156,2025-01-19,A-Check (Routine),8181.74,6.3,False,7
+2011,97,2023-03-04,A-Check (Routine),9977.33,11.0,False,8
+2012,116,2023-12-01,B-Check,34614.59,15.7,True,8
+2013,156,2024-04-30,Engine Overhaul,670197.94,523.7,True,6
+2014,106,2023-09-14,Unscheduled Repair,3904.79,12.1,True,3
+2015,79,2024-05-28,Unscheduled Repair,75695.2,20.3,True,2
+2016,33,2025-12-03,B-Check,22816.73,33.5,True,2
+2017,54,2023-03-26,A-Check (Routine),10205.46,11.3,True,2
+2018,30,2025-10-30,B-Check,21633.65,27.0,True,2
+2019,3,2025-11-27,A-Check (Routine),10038.51,4.7,False,8
+2020,52,2023-02-16,Unscheduled Repair,81987.34,17.1,True,4
+2021,76,2025-10-12,A-Check (Routine),5533.54,5.7,False,8
+2022,41,2023-10-24,C-Check,181087.57,122.0,True,7
+2023,125,2024-04-17,A-Check (Routine),10039.95,11.3,True,5
+2024,19,2024-11-16,B-Check,16873.61,32.7,True,6
+2025,126,2025-07-18,C-Check,362513.63,202.9,True,7
+2026,7,2024-01-26,Unscheduled Repair,38054.66,3.4,True,4
+2027,111,2023-10-27,A-Check (Routine),6060.21,9.7,True,2
+2028,81,2025-04-06,A-Check (Routine),5550.73,6.2,True,2
+2029,59,2023-07-27,B-Check,15307.78,32.4,False,2
+2030,19,2025-07-24,D-Check (Heavy),1577796.7,707.3,False,5
+2031,51,2023-03-22,A-Check (Routine),7852.25,9.3,False,1
+2032,128,2024-01-10,B-Check,13125.31,14.3,True,3
+2033,150,2023-03-08,Unscheduled Repair,29733.05,11.7,True,1
+2034,49,2025-02-10,A-Check (Routine),6483.92,10.7,True,5
+2035,163,2025-05-04,C-Check,157127.55,212.5,False,2
+2036,155,2024-12-20,A-Check (Routine),6084.88,9.5,True,1
+2037,140,2024-11-30,A-Check (Routine),4925.54,4.8,True,7
+2038,153,2025-06-23,A-Check (Routine),9172.61,4.4,True,2
+2039,99,2023-08-10,A-Check (Routine),10611.51,4.5,True,1
+2040,104,2023-06-22,A-Check (Routine),6757.02,5.4,False,1
+2041,96,2023-05-22,A-Check (Routine),6366.02,9.6,True,1
+2042,34,2023-01-26,A-Check (Routine),3245.35,4.6,True,8
+2043,138,2025-02-17,Unscheduled Repair,63114.97,22.4,True,1
+2044,116,2023-11-28,Avionics Update,53515.26,34.6,False,3
+2045,104,2023-02-25,A-Check (Routine),3325.42,8.6,True,4
+2046,144,2023-07-21,A-Check (Routine),5182.89,9.7,True,1
+2047,85,2023-12-27,A-Check (Routine),11507.64,11.6,True,1
+2048,49,2025-04-10,Avionics Update,49526.59,36.7,True,5
+2049,152,2023-10-08,A-Check (Routine),4479.35,9.5,True,5
+2050,96,2025-05-31,A-Check (Routine),3831.41,9.6,False,1
+2051,5,2023-09-19,Unscheduled Repair,15074.77,13.4,False,4
+2052,49,2023-09-11,Avionics Update,114384.2,30.0,True,3
+2053,79,2025-11-08,A-Check (Routine),8953.83,6.8,True,6
+2054,131,2023-05-15,C-Check,405941.89,293.1,True,6
+2055,133,2025-10-26,A-Check (Routine),8660.95,11.3,True,2
+2056,71,2024-08-27,Unscheduled Repair,47828.25,8.5,False,4
+2057,9,2024-07-04,Unscheduled Repair,66372.32,44.9,True,4
+2058,62,2023-11-25,C-Check,412690.37,190.9,False,1
+2059,88,2023-06-25,A-Check (Routine),8598.53,10.5,True,6
+2060,137,2024-07-26,Avionics Update,90692.86,25.9,True,3
+2061,101,2023-06-12,A-Check (Routine),10688.39,6.7,True,6
+2062,111,2023-09-23,A-Check (Routine),5151.99,6.0,True,6
+2063,148,2025-10-06,B-Check,15838.01,15.5,True,1
+2064,10,2023-04-17,C-Check,391085.6,146.6,True,1
+2065,103,2025-10-22,Unscheduled Repair,55684.87,32.4,False,3
+2066,46,2023-03-28,A-Check (Routine),3565.64,9.3,False,1
+2067,94,2023-01-02,Unscheduled Repair,89598.93,24.1,True,6
+2068,42,2025-08-07,A-Check (Routine),5035.96,9.1,True,2
+2069,97,2025-05-28,B-Check,31882.45,35.5,True,5
+2070,24,2023-05-06,Unscheduled Repair,37426.2,21.7,True,7
+2071,57,2023-06-06,Unscheduled Repair,84556.69,29.2,False,2
+2072,16,2023-01-16,Avionics Update,87744.2,38.0,True,2
+2073,90,2024-01-14,Engine Overhaul,1174076.27,482.8,False,6
+2074,117,2024-01-24,B-Check,15878.46,13.2,True,4
+2075,30,2024-05-27,A-Check (Routine),9297.0,9.2,True,1
+2076,20,2025-08-22,A-Check (Routine),9530.5,5.1,False,4
+2077,118,2024-02-13,A-Check (Routine),11209.42,9.3,True,7
+2078,6,2024-08-03,Avionics Update,80557.12,75.8,True,3
+2079,46,2023-05-21,Unscheduled Repair,30143.63,42.8,True,2
+2080,67,2025-12-10,Avionics Update,18742.78,37.1,True,8
+2081,2,2025-09-15,Unscheduled Repair,67521.17,30.2,True,8
+2082,93,2024-05-28,Engine Overhaul,787360.04,204.2,True,4
+2083,28,2023-08-04,B-Check,20911.96,31.5,True,4
+2084,89,2024-12-03,B-Check,23748.35,16.3,True,6
+2085,151,2024-01-19,C-Check,445626.61,153.5,False,3
+2086,132,2024-09-04,B-Check,33475.59,35.9,True,8
+2087,65,2023-03-30,A-Check (Routine),6330.36,9.4,False,2
+2088,108,2025-10-07,Engine Overhaul,999619.18,318.9,True,6
+2089,100,2024-03-13,Unscheduled Repair,3214.28,14.9,True,7
+2090,59,2024-11-01,A-Check (Routine),9425.62,8.2,True,2
+2091,51,2023-11-06,A-Check (Routine),7822.24,7.1,True,8
+2092,143,2023-04-21,A-Check (Routine),10653.37,7.2,True,3
+2093,17,2025-05-03,A-Check (Routine),9168.78,5.1,True,6
+2094,144,2025-12-04,A-Check (Routine),8669.42,4.7,True,3
+2095,70,2024-11-20,D-Check (Heavy),1884130.65,724.4,True,7
+2096,22,2024-11-27,A-Check (Routine),4108.62,10.3,True,1
+2097,28,2025-08-29,A-Check (Routine),10751.26,11.8,True,5
+2098,135,2024-05-14,A-Check (Routine),9636.89,5.2,True,3
+2099,164,2023-09-21,A-Check (Routine),8352.04,9.6,True,1
+2100,137,2023-11-30,C-Check,294832.99,255.8,False,5
+2101,24,2025-11-21,Unscheduled Repair,21388.02,45.3,False,4
+2102,85,2025-12-14,A-Check (Routine),6123.01,12.0,False,7
+2103,91,2024-08-13,A-Check (Routine),6360.27,8.8,True,3
+2104,15,2023-01-07,B-Check,13450.79,25.6,True,6
+2105,4,2025-12-27,C-Check,262687.13,133.6,True,5
+2106,145,2024-01-27,A-Check (Routine),11600.1,6.2,True,8
+2107,8,2024-04-30,Engine Overhaul,769566.32,511.5,True,5
+2108,138,2023-12-27,B-Check,19856.23,14.4,True,5
+2109,110,2024-06-15,Unscheduled Repair,61323.48,38.7,False,4
+2110,70,2023-11-06,C-Check,163366.39,291.0,True,8
+2111,41,2023-02-18,C-Check,218639.23,271.0,True,3
+2112,141,2023-12-13,Unscheduled Repair,82950.58,44.5,True,3
+2113,124,2024-05-20,B-Check,29238.15,13.6,True,4
+2114,99,2025-07-05,B-Check,33568.82,12.1,True,6
+2115,33,2024-03-24,A-Check (Routine),6894.02,5.6,True,7
+2116,69,2023-12-08,C-Check,357965.32,209.4,False,5
+2117,154,2024-07-12,Avionics Update,53113.18,40.4,True,6
+2118,97,2025-02-23,A-Check (Routine),6233.88,10.9,False,4
+2119,6,2023-03-05,A-Check (Routine),10779.68,4.4,True,5
+2120,143,2023-02-17,Engine Overhaul,1085948.74,342.7,True,1
+2121,37,2025-03-27,A-Check (Routine),7243.95,8.6,True,5
+2122,124,2023-09-11,A-Check (Routine),9364.7,5.6,True,6
+2123,99,2024-02-05,D-Check (Heavy),1250334.98,566.6,True,1
+2124,65,2024-08-16,B-Check,18181.64,27.8,False,5
+2125,5,2025-03-04,A-Check (Routine),4032.65,7.5,True,7
+2126,11,2024-09-29,B-Check,11106.01,33.7,False,8
+2127,23,2025-10-27,Unscheduled Repair,4078.84,6.3,False,3
+2128,62,2025-10-01,Avionics Update,40617.58,39.0,True,4
+2129,88,2023-02-20,Unscheduled Repair,35611.31,11.4,True,7
+2130,87,2024-12-08,A-Check (Routine),3687.68,4.6,True,4
+2131,155,2025-06-23,A-Check (Routine),11425.57,9.2,True,3
+2132,141,2025-07-29,B-Check,21103.3,14.1,False,5
+2133,89,2024-01-09,A-Check (Routine),9201.55,9.7,True,8
+2134,151,2023-09-05,Avionics Update,56566.52,51.8,True,1
+2135,48,2025-10-15,A-Check (Routine),4703.1,6.5,False,1
+2136,17,2025-08-14,B-Check,25708.48,12.6,True,7
+2137,128,2024-05-12,A-Check (Routine),10782.57,6.8,False,6
+2138,118,2024-12-08,B-Check,28006.35,30.0,False,1
+2139,4,2024-01-23,A-Check (Routine),3028.38,7.0,True,2
+2140,72,2024-11-06,A-Check (Routine),6950.9,8.8,True,8
+2141,26,2025-09-07,Unscheduled Repair,87241.77,20.4,False,6
+2142,156,2024-04-08,A-Check (Routine),4832.73,4.1,True,6
+2143,14,2024-05-06,B-Check,18576.08,21.3,True,3
+2144,82,2024-01-24,B-Check,29134.02,23.2,True,7
+2145,53,2023-02-12,A-Check (Routine),8122.16,8.8,False,6
+2146,112,2024-05-11,Engine Overhaul,473985.74,346.6,True,3
+2147,45,2024-06-21,Unscheduled Repair,4865.24,45.6,False,8
+2148,2,2024-01-08,Engine Overhaul,799671.16,231.0,True,4
+2149,133,2025-01-15,Unscheduled Repair,5999.14,3.2,False,4
+2150,154,2024-09-20,B-Check,24335.91,23.6,True,2
+2151,20,2025-08-03,A-Check (Routine),4516.52,5.2,False,2
+2152,63,2023-03-20,A-Check (Routine),9837.04,10.5,True,3
+2153,104,2025-05-24,A-Check (Routine),7554.88,10.1,False,1
+2154,68,2025-02-10,A-Check (Routine),7948.23,8.5,True,2
+2155,120,2023-12-27,Unscheduled Repair,35700.92,29.7,False,7
+2156,166,2023-01-05,Unscheduled Repair,30846.13,35.5,True,2
+2157,48,2023-01-05,C-Check,409455.19,154.8,True,6
+2158,19,2024-11-20,C-Check,314257.56,202.0,False,5
+2159,95,2025-08-30,A-Check (Routine),9943.2,9.3,True,4
+2160,58,2025-04-26,B-Check,17324.28,20.8,True,7
+2161,93,2025-06-02,B-Check,11197.28,12.8,True,4
+2162,165,2024-09-12,Unscheduled Repair,55934.86,38.4,True,8
+2163,30,2023-09-30,A-Check (Routine),8452.94,11.2,True,8
+2164,29,2025-12-04,Avionics Update,88205.04,59.9,True,2
+2165,52,2023-09-08,C-Check,388602.15,241.1,False,2
+2166,142,2024-09-01,A-Check (Routine),3394.11,8.6,False,5
+2167,40,2025-12-08,Avionics Update,84787.46,59.6,True,5
+2168,73,2025-08-01,Unscheduled Repair,47234.02,41.7,True,7
+2169,146,2023-08-30,Unscheduled Repair,68995.07,16.2,True,6
+2170,113,2024-10-02,B-Check,15838.22,24.5,True,7
+2171,27,2025-11-30,B-Check,33581.67,15.7,True,4
+2172,13,2024-05-23,Engine Overhaul,909531.85,591.0,True,2
+2173,90,2024-08-13,B-Check,27209.97,21.4,True,6
+2174,148,2025-07-20,Engine Overhaul,498840.19,472.9,True,4
+2175,30,2023-03-30,A-Check (Routine),8477.2,6.8,False,2
+2176,22,2025-09-15,C-Check,214750.0,122.7,False,6
+2177,102,2023-09-23,A-Check (Routine),8760.15,10.4,True,6
+2178,103,2023-06-17,A-Check (Routine),7547.92,7.1,True,7
+2179,89,2024-06-29,Unscheduled Repair,65042.06,3.0,False,7
+2180,7,2024-01-25,Engine Overhaul,1190387.91,375.7,True,3
+2181,154,2023-12-22,B-Check,24700.78,29.9,False,6
+2182,52,2024-05-09,A-Check (Routine),10433.36,11.2,True,6
+2183,134,2025-07-20,Unscheduled Repair,39741.85,19.2,True,2
+2184,4,2025-10-06,Unscheduled Repair,23997.42,13.0,True,2
+2185,77,2025-07-16,A-Check (Routine),8686.83,5.7,False,7
+2186,22,2025-05-06,D-Check (Heavy),1739081.18,701.5,False,8
+2187,135,2024-07-12,Avionics Update,48900.97,54.9,True,6
+2188,136,2023-09-18,C-Check,345542.74,225.6,True,2
+2189,85,2023-02-25,Unscheduled Repair,37961.76,34.7,True,6
+2190,142,2023-03-06,Unscheduled Repair,25429.35,29.5,False,4
+2191,118,2025-11-02,A-Check (Routine),10731.18,11.2,False,6
+2192,59,2025-05-15,B-Check,30727.57,34.1,True,2
+2193,116,2024-04-21,Unscheduled Repair,23035.76,4.9,True,6
+2194,91,2023-08-10,A-Check (Routine),10842.17,11.7,True,8
+2195,50,2023-10-28,B-Check,33072.49,29.8,True,8
+2196,18,2023-12-25,A-Check (Routine),10654.65,9.3,True,7
+2197,102,2023-08-30,A-Check (Routine),5914.74,4.7,True,5
+2198,136,2024-07-30,A-Check (Routine),9661.33,9.7,True,1
+2199,128,2023-05-16,Unscheduled Repair,66972.91,7.6,True,8
+2200,148,2023-02-01,A-Check (Routine),6938.61,5.3,True,3
+2201,62,2025-01-10,A-Check (Routine),11067.9,6.7,False,7
+2202,125,2025-05-08,Unscheduled Repair,30212.02,26.6,True,1
+2203,9,2025-10-30,Unscheduled Repair,84205.53,22.8,True,5
+2204,39,2023-10-17,A-Check (Routine),4773.35,4.6,False,6
+2205,89,2025-04-20,A-Check (Routine),4331.57,6.7,True,2
+2206,2,2024-09-14,Unscheduled Repair,79597.67,15.9,True,6
+2207,30,2023-02-16,A-Check (Routine),7189.65,4.2,True,8
+2208,113,2023-08-31,B-Check,14825.69,24.9,True,1
+2209,80,2025-05-04,Unscheduled Repair,40237.79,40.2,True,7
+2210,148,2023-08-22,B-Check,11289.32,21.8,True,6
+2211,11,2024-06-15,A-Check (Routine),10075.35,6.9,True,7
+2212,24,2023-03-15,A-Check (Routine),3410.95,7.7,True,3
+2213,103,2024-02-14,Engine Overhaul,982819.49,546.6,False,7
+2214,123,2025-05-28,B-Check,22427.83,20.6,True,1
+2215,149,2025-06-21,A-Check (Routine),9642.02,11.8,True,7
+2216,162,2025-08-28,A-Check (Routine),3105.45,10.0,True,8
+2217,59,2025-11-30,A-Check (Routine),4959.36,11.0,True,6
+2218,61,2024-05-20,Unscheduled Repair,42595.64,44.6,True,6
+2219,53,2025-11-08,A-Check (Routine),4317.38,4.6,True,3
+2220,72,2024-07-07,Unscheduled Repair,42560.05,19.2,True,8
+2221,102,2023-11-05,B-Check,21400.32,13.4,True,1
+2222,122,2025-03-25,B-Check,15834.01,28.3,True,7
+2223,137,2024-06-05,A-Check (Routine),7202.65,8.1,True,1
+2224,43,2024-10-24,Unscheduled Repair,61618.15,19.4,False,1
+2225,87,2023-05-19,B-Check,28413.14,35.1,True,5
+2226,7,2023-04-14,D-Check (Heavy),1087825.84,739.9,False,1
+2227,161,2025-12-27,A-Check (Routine),4188.01,4.7,True,3
+2228,70,2023-07-23,B-Check,10503.26,27.6,True,7
+2229,104,2024-10-10,Unscheduled Repair,75206.65,44.1,True,6
+2230,115,2023-10-07,Unscheduled Repair,42143.47,35.7,True,2
+2231,134,2023-09-15,Unscheduled Repair,10972.49,29.5,True,8
+2232,93,2024-07-31,Unscheduled Repair,10726.23,7.9,True,5
+2233,94,2024-05-13,A-Check (Routine),3586.34,10.4,True,5
+2234,86,2023-04-01,Unscheduled Repair,52326.56,2.5,True,7
+2235,13,2025-01-10,B-Check,29729.85,23.1,False,7
+2236,63,2023-12-30,B-Check,30016.34,13.0,True,7
+2237,120,2025-10-19,Avionics Update,105955.39,40.0,False,7
+2238,73,2024-05-04,A-Check (Routine),3090.67,8.3,True,6
+2239,99,2024-08-21,Engine Overhaul,563527.8,492.6,True,8
+2240,54,2023-04-29,Unscheduled Repair,23809.19,45.0,False,3
+2241,101,2023-09-04,Unscheduled Repair,59937.33,5.7,True,4
+2242,7,2024-04-05,A-Check (Routine),9937.35,11.2,True,4
+2243,88,2024-03-08,A-Check (Routine),6689.1,4.7,False,4
+2244,126,2025-06-26,Unscheduled Repair,53183.82,2.3,True,2
+2245,141,2024-11-10,A-Check (Routine),8292.9,4.2,True,5
+2246,84,2025-04-10,A-Check (Routine),10429.74,4.0,False,4
+2247,25,2023-10-10,D-Check (Heavy),1668232.57,628.8,False,1
+2248,137,2025-09-04,Unscheduled Repair,79390.58,32.6,False,6
+2249,164,2024-01-31,Unscheduled Repair,72472.23,21.5,True,8
+2250,134,2024-09-29,C-Check,227185.49,207.0,True,1
+2251,54,2024-01-14,A-Check (Routine),8223.75,7.5,True,1
+2252,43,2023-10-07,Unscheduled Repair,44355.86,27.8,True,7
+2253,39,2025-09-12,B-Check,20865.11,34.2,True,4
+2254,136,2023-11-12,A-Check (Routine),6454.96,4.8,False,5
+2255,115,2024-11-13,B-Check,14696.9,22.3,True,3
+2256,80,2024-08-27,Unscheduled Repair,77303.55,19.4,True,1
+2257,88,2025-03-08,B-Check,34156.76,21.1,True,7
+2258,140,2023-11-01,B-Check,29907.28,12.4,True,7
+2259,120,2025-06-22,A-Check (Routine),6131.75,4.3,False,8
+2260,21,2024-02-24,B-Check,21481.51,29.4,True,7
+2261,83,2024-10-11,A-Check (Routine),9176.07,11.3,True,3
+2262,17,2025-08-09,B-Check,12304.97,30.9,False,5
+2263,133,2024-06-05,Avionics Update,23621.49,77.6,True,7
+2264,27,2025-08-13,Avionics Update,102785.65,62.3,True,6
+2265,38,2025-04-25,B-Check,17413.53,23.7,True,2
+2266,20,2023-04-06,A-Check (Routine),5415.35,8.4,True,4
+2267,141,2023-05-08,B-Check,12401.28,33.9,False,6
+2268,93,2024-02-16,B-Check,14924.59,26.7,True,3
+2269,36,2024-09-03,Unscheduled Repair,81765.92,18.4,False,4
+2270,105,2023-06-13,A-Check (Routine),3237.21,6.3,False,5
+2271,6,2023-08-16,Engine Overhaul,725202.41,455.0,True,6
+2272,23,2025-12-22,A-Check (Routine),5310.06,4.7,True,1
+2273,92,2024-11-17,Unscheduled Repair,31094.72,40.5,True,6
+2274,87,2025-06-02,Unscheduled Repair,78476.94,18.4,True,8
+2275,93,2024-06-25,B-Check,31576.94,18.8,True,5
+2276,149,2023-02-09,C-Check,259544.22,129.3,True,3
+2277,78,2025-10-27,A-Check (Routine),5408.2,8.9,True,6
+2278,21,2024-07-21,Unscheduled Repair,22592.26,22.5,False,8
+2279,154,2023-11-30,C-Check,345931.41,265.3,True,4
+2280,14,2024-10-05,Unscheduled Repair,4488.14,34.6,True,5
+2281,75,2024-05-22,D-Check (Heavy),2372474.1,625.6,False,2
+2282,81,2024-10-26,A-Check (Routine),6267.16,6.2,False,5
+2283,41,2025-03-09,B-Check,31766.37,20.2,True,4
+2284,97,2023-11-22,C-Check,402421.76,237.1,True,1
+2285,65,2023-08-16,A-Check (Routine),10426.05,8.9,True,4
+2286,158,2024-02-20,Unscheduled Repair,48836.48,6.6,True,5
+2287,160,2025-10-16,A-Check (Routine),10471.76,5.2,True,6
+2288,15,2023-04-10,A-Check (Routine),6706.22,11.3,True,1
+2289,12,2024-04-12,A-Check (Routine),4722.8,10.7,True,3
+2290,42,2025-03-26,C-Check,356651.34,131.6,True,5
+2291,84,2025-08-15,C-Check,225179.54,143.7,True,2
+2292,83,2023-08-17,Unscheduled Repair,31580.15,25.2,True,8
+2293,162,2024-04-30,A-Check (Routine),7669.56,9.2,True,1
+2294,164,2023-07-20,A-Check (Routine),7744.44,11.9,False,5
+2295,94,2023-02-15,Unscheduled Repair,29050.28,11.6,True,6
+2296,37,2025-10-17,A-Check (Routine),9231.19,9.4,True,2
+2297,154,2023-01-30,C-Check,159689.16,282.3,True,4
+2298,142,2024-09-12,Avionics Update,33960.76,36.2,True,6
+2299,131,2024-10-06,B-Check,30251.05,13.0,True,6
+2300,164,2023-12-08,Unscheduled Repair,43721.13,43.3,True,8
+2301,63,2023-04-01,A-Check (Routine),8243.37,11.8,True,7
+2302,10,2025-10-24,Unscheduled Repair,68007.89,36.3,True,8
+2303,80,2025-12-16,C-Check,373256.43,261.1,True,5
+2304,37,2025-10-04,D-Check (Heavy),1140730.99,446.1,True,5
+2305,41,2025-11-25,Engine Overhaul,1193360.75,427.4,True,4
+2306,3,2024-12-16,A-Check (Routine),11167.15,11.9,True,3
+2307,33,2023-10-10,B-Check,33587.93,14.9,False,1
+2308,74,2023-03-04,B-Check,23295.59,15.3,True,2
+2309,75,2025-03-31,A-Check (Routine),11658.39,8.7,True,4
+2310,9,2023-07-06,B-Check,15353.61,20.4,True,2
+2311,45,2023-02-03,C-Check,318365.36,158.4,True,7
+2312,21,2023-04-16,Avionics Update,23745.35,40.1,True,7
+2313,25,2025-04-17,Unscheduled Repair,30067.36,11.4,True,8
+2314,89,2023-03-10,Unscheduled Repair,50668.76,33.8,True,7
+2315,133,2024-02-17,A-Check (Routine),9563.3,6.3,False,4
+2316,153,2023-03-23,Engine Overhaul,658673.09,438.8,True,7
+2317,33,2025-07-06,A-Check (Routine),5953.08,6.5,False,6
+2318,145,2024-04-17,Unscheduled Repair,21206.12,27.2,True,4
+2319,46,2025-10-18,B-Check,31344.09,22.7,True,1
+2320,58,2023-10-03,Avionics Update,106268.55,45.6,True,6
+2321,103,2023-06-23,A-Check (Routine),7716.99,9.8,True,8
+2322,119,2024-05-24,A-Check (Routine),5378.36,7.9,True,6
+2323,19,2025-06-06,A-Check (Routine),7895.55,7.7,False,6
+2324,47,2024-04-13,B-Check,21183.53,25.7,True,1
+2325,153,2025-07-08,A-Check (Routine),3214.94,4.1,False,3
+2326,102,2023-10-19,Unscheduled Repair,62593.76,37.5,True,2
+2327,52,2025-01-13,Unscheduled Repair,44359.35,25.6,True,1
+2328,17,2025-06-01,C-Check,328018.97,184.5,True,4
+2329,18,2023-10-20,Engine Overhaul,457973.83,210.2,True,4
+2330,100,2025-07-23,C-Check,372435.46,279.5,False,3
+2331,81,2025-11-12,Unscheduled Repair,89235.64,15.0,True,3
+2332,84,2023-06-11,A-Check (Routine),3886.52,10.7,True,6
+2333,131,2023-07-11,C-Check,427716.47,250.5,False,1
+2334,122,2025-02-09,A-Check (Routine),10578.23,8.3,True,5
+2335,111,2024-06-25,B-Check,16135.53,20.7,True,2
+2336,12,2024-03-15,A-Check (Routine),6819.03,6.1,True,6
+2337,85,2023-02-19,B-Check,34834.75,19.8,True,2
+2338,19,2024-04-15,C-Check,314773.11,150.7,True,1
+2339,62,2024-07-31,Unscheduled Repair,84054.31,21.4,False,5
+2340,111,2023-03-18,A-Check (Routine),6067.41,7.4,False,8
+2341,104,2024-09-20,Unscheduled Repair,14789.43,46.1,True,2
+2342,155,2023-09-28,Unscheduled Repair,38933.64,29.9,True,1
+2343,163,2025-09-29,Unscheduled Repair,21245.08,46.3,True,6
+2344,155,2024-02-02,A-Check (Routine),6862.29,8.4,False,6
+2345,135,2025-12-07,A-Check (Routine),4870.78,12.0,True,7
+2346,71,2024-03-05,C-Check,161583.85,158.7,True,2
+2347,114,2025-03-01,Unscheduled Repair,50144.94,3.6,False,4
+2348,106,2023-02-05,Unscheduled Repair,78064.2,16.1,True,3
+2349,35,2024-01-24,A-Check (Routine),4602.42,7.2,False,3
+2350,96,2024-02-15,Engine Overhaul,885700.89,430.4,True,4
+2351,46,2024-05-06,A-Check (Routine),7996.0,9.8,True,1
+2352,50,2024-12-30,A-Check (Routine),8841.6,6.3,True,6
+2353,102,2023-07-07,B-Check,12440.39,32.9,True,2
+2354,81,2024-05-09,B-Check,26533.93,25.4,True,4
+2355,21,2023-12-24,A-Check (Routine),6315.35,4.3,False,7
+2356,17,2023-07-27,C-Check,155002.47,256.0,False,5
+2357,10,2024-02-17,A-Check (Routine),5513.2,9.6,True,3
+2358,28,2025-07-10,A-Check (Routine),5880.84,4.3,True,2
+2359,79,2023-12-10,B-Check,18476.94,31.3,True,7
+2360,83,2024-05-05,C-Check,293991.6,263.3,True,5
+2361,126,2025-04-12,Unscheduled Repair,82498.05,28.2,True,7
+2362,115,2023-12-06,B-Check,27695.29,18.4,True,2
+2363,49,2023-09-02,A-Check (Routine),9657.99,11.2,True,2
+2364,46,2023-04-08,A-Check (Routine),10397.45,4.8,True,5
+2365,79,2023-04-04,A-Check (Routine),11820.46,4.8,True,8
+2366,113,2023-03-06,A-Check (Routine),10574.25,5.8,True,3
+2367,32,2024-02-25,B-Check,26833.57,19.2,True,3
+2368,25,2024-12-24,Unscheduled Repair,31965.93,33.9,True,6
+2369,88,2024-06-09,A-Check (Routine),9157.39,8.4,True,7
+2370,65,2025-06-18,A-Check (Routine),6664.21,9.3,True,3
+2371,35,2024-02-16,A-Check (Routine),7290.98,5.0,False,2
+2372,53,2025-02-18,Avionics Update,48121.81,40.9,True,4
+2373,59,2024-07-08,C-Check,375900.14,240.6,True,7
+2374,146,2023-04-26,B-Check,28173.9,31.4,True,4
+2375,69,2023-04-11,A-Check (Routine),8945.4,8.9,True,2
+2376,119,2023-10-30,A-Check (Routine),9886.3,4.6,True,6
+2377,126,2025-08-30,C-Check,189722.33,244.2,True,2
+2378,62,2024-02-06,A-Check (Routine),10129.05,9.2,True,3
+2379,147,2024-05-26,A-Check (Routine),10335.32,5.6,False,5
+2380,84,2024-12-15,Unscheduled Repair,75692.96,21.0,True,3
+2381,9,2025-07-04,A-Check (Routine),11844.86,11.1,False,4
+2382,69,2024-08-18,Engine Overhaul,750421.59,418.8,True,4
+2383,31,2023-04-26,A-Check (Routine),9075.01,8.8,True,7
+2384,143,2023-01-04,Avionics Update,117796.29,35.3,True,5
+2385,117,2023-02-03,B-Check,19988.72,21.2,True,2
+2386,154,2024-08-06,A-Check (Routine),8127.62,9.5,True,4
+2387,22,2024-05-28,C-Check,278826.86,159.4,True,6
+2388,160,2024-03-31,D-Check (Heavy),946928.37,479.5,True,2
+2389,70,2024-03-15,Avionics Update,60415.63,37.0,False,2
+2390,99,2025-08-26,A-Check (Routine),5669.67,6.5,True,3
+2391,34,2024-05-31,A-Check (Routine),11947.28,11.4,True,2
+2392,20,2024-12-18,B-Check,18621.65,19.9,False,5
+2393,111,2024-07-04,A-Check (Routine),4012.75,6.7,False,4
+2394,112,2023-11-22,C-Check,263924.21,148.0,True,4
+2395,88,2024-06-03,Unscheduled Repair,62375.47,2.5,True,1
+2396,36,2025-08-04,A-Check (Routine),6912.52,4.2,False,2
+2397,78,2023-07-22,A-Check (Routine),10358.71,5.6,True,8
+2398,98,2024-07-22,A-Check (Routine),10023.46,7.8,True,1
+2399,8,2023-03-15,B-Check,25025.75,22.8,True,1
+2400,114,2024-01-10,A-Check (Routine),4591.23,12.0,True,1
+2401,73,2023-06-13,B-Check,31178.4,29.7,True,2
+2402,99,2024-08-08,A-Check (Routine),4800.33,4.1,True,3
+2403,140,2025-03-05,A-Check (Routine),6479.53,9.2,True,2
+2404,84,2024-05-03,Unscheduled Repair,86320.68,44.7,True,8
+2405,11,2023-09-07,C-Check,298441.23,170.1,True,8
+2406,10,2024-05-31,Engine Overhaul,842807.46,219.5,True,2
+2407,4,2025-02-16,A-Check (Routine),11655.42,10.0,True,2
+2408,50,2023-08-21,B-Check,10667.74,27.6,False,7
+2409,95,2024-07-04,Engine Overhaul,846762.01,289.7,True,1
+2410,127,2024-06-12,A-Check (Routine),9410.1,6.7,True,7
+2411,95,2023-02-27,A-Check (Routine),4587.89,8.8,False,6
+2412,160,2025-12-08,Engine Overhaul,792373.04,305.3,True,7
+2413,125,2024-12-23,Unscheduled Repair,34673.91,10.0,False,1
+2414,159,2024-04-05,Unscheduled Repair,38767.18,29.5,True,2
+2415,153,2024-03-25,D-Check (Heavy),2021647.84,872.0,True,3
+2416,140,2024-05-09,Unscheduled Repair,18400.38,18.2,True,2
+2417,107,2023-11-03,A-Check (Routine),5389.84,11.9,True,5
+2418,135,2023-07-13,D-Check (Heavy),1294065.44,638.7,True,7
+2419,1,2023-08-04,A-Check (Routine),3696.52,8.9,False,5
+2420,149,2024-04-01,B-Check,31898.45,18.0,True,4
+2421,56,2025-04-23,Unscheduled Repair,54438.0,32.7,True,4
+2422,74,2023-01-24,B-Check,24349.5,27.0,False,5
+2423,155,2025-03-21,A-Check (Routine),11094.18,6.3,True,3
+2424,85,2025-03-13,Unscheduled Repair,67055.69,10.5,True,7
+2425,4,2023-03-13,A-Check (Routine),7126.0,8.1,True,1
+2426,60,2023-05-05,Unscheduled Repair,19059.57,44.0,True,5
+2427,82,2023-01-17,A-Check (Routine),7757.45,4.9,False,3
+2428,116,2023-06-15,B-Check,20925.47,26.1,True,6
+2429,48,2025-09-15,C-Check,295210.67,203.2,True,7
+2430,115,2023-11-13,B-Check,26812.78,14.5,True,8
+2431,116,2023-10-11,A-Check (Routine),3545.7,7.7,True,6
+2432,67,2023-08-30,Avionics Update,105458.71,68.1,True,2
+2433,165,2024-08-05,C-Check,338754.26,140.4,True,4
+2434,16,2024-02-26,B-Check,32894.97,22.9,True,4
+2435,45,2023-12-23,A-Check (Routine),11755.38,8.5,False,4
+2436,154,2023-10-15,Engine Overhaul,745545.21,338.6,True,7
+2437,142,2024-07-15,B-Check,13234.68,25.2,True,6
+2438,137,2025-11-08,Avionics Update,67468.19,28.2,False,2
+2439,94,2024-02-11,A-Check (Routine),6666.03,8.9,False,4
+2440,112,2025-07-30,A-Check (Routine),5932.27,8.5,True,1
+2441,89,2025-10-28,B-Check,32342.18,24.5,True,5
+2442,140,2023-09-19,C-Check,419908.63,151.1,True,7
+2443,81,2023-01-30,B-Check,15525.45,18.5,False,3
+2444,129,2023-07-23,B-Check,26656.47,34.0,False,2
+2445,52,2025-04-19,A-Check (Routine),9646.07,8.9,False,3
+2446,156,2025-05-10,A-Check (Routine),11296.17,5.9,True,4
+2447,106,2025-08-25,B-Check,34395.3,28.5,True,5
+2448,150,2025-03-11,A-Check (Routine),4177.34,7.3,False,1
+2449,31,2023-05-27,A-Check (Routine),9737.08,6.1,True,5
+2450,79,2023-09-18,A-Check (Routine),6018.17,5.9,True,8
+2451,25,2023-06-13,Unscheduled Repair,67300.68,26.6,True,3
+2452,145,2023-03-18,A-Check (Routine),6126.07,8.2,False,4
+2453,112,2025-04-22,D-Check (Heavy),2441001.63,728.0,True,6
+2454,88,2023-06-29,A-Check (Routine),8300.53,6.6,False,8
+2455,107,2023-06-15,Unscheduled Repair,30192.35,16.8,False,2
+2456,153,2025-12-25,B-Check,18557.39,12.4,True,3
+2457,16,2024-05-02,B-Check,26063.84,16.5,True,2
+2458,140,2025-10-19,C-Check,437003.17,169.2,True,2
+2459,85,2025-11-19,B-Check,34124.78,24.3,True,3
+2460,131,2025-03-08,A-Check (Routine),7552.22,7.1,False,5
+2461,72,2023-08-06,Unscheduled Repair,14986.61,27.7,True,6
+2462,110,2024-12-07,B-Check,14398.28,19.2,True,1
+2463,75,2025-01-21,C-Check,297007.9,142.2,True,1
+2464,57,2024-08-17,A-Check (Routine),10394.05,8.6,False,4
+2465,88,2023-05-24,C-Check,361803.06,297.4,True,7
+2466,45,2023-04-16,B-Check,18227.13,35.1,True,4
+2467,160,2023-07-04,C-Check,298068.02,227.5,True,7
+2468,79,2023-02-14,A-Check (Routine),3820.98,11.7,False,8
+2469,67,2024-07-15,A-Check (Routine),8289.74,10.5,True,7
+2470,11,2025-12-08,A-Check (Routine),6731.81,4.2,True,6
+2471,153,2025-01-23,A-Check (Routine),4641.79,11.5,True,8
+2472,155,2023-11-26,Avionics Update,94691.75,53.3,True,3
+2473,92,2025-12-03,Avionics Update,23404.63,40.2,True,1
+2474,54,2023-11-19,Unscheduled Repair,72723.83,31.3,False,7
+2475,109,2023-05-01,C-Check,193075.61,206.0,False,5
+2476,147,2025-01-14,D-Check (Heavy),976969.62,686.6,True,1
+2477,26,2024-03-26,Unscheduled Repair,72474.89,3.0,True,4
+2478,159,2024-08-12,A-Check (Routine),5914.29,10.4,False,2
+2479,134,2024-08-07,B-Check,33001.74,29.8,True,3
+2480,14,2023-09-09,A-Check (Routine),6600.98,9.3,True,5
+2481,72,2025-12-09,C-Check,316934.75,194.3,True,5
+2482,127,2023-11-03,A-Check (Routine),10914.4,8.3,True,5
+2483,121,2025-04-16,Unscheduled Repair,59336.64,25.5,True,2
+2484,65,2025-01-20,C-Check,338425.74,207.9,False,2
+2485,117,2024-12-17,A-Check (Routine),5132.72,6.9,True,1
+2486,155,2025-01-23,A-Check (Routine),8953.96,9.1,True,8
+2487,67,2024-07-26,B-Check,18885.48,12.7,True,4
+2488,70,2025-07-16,A-Check (Routine),6058.09,5.5,False,6
+2489,152,2023-12-08,B-Check,20438.51,31.5,True,5
+2490,14,2024-06-25,Unscheduled Repair,79523.55,38.6,True,1
+2491,121,2024-09-02,Unscheduled Repair,67110.05,43.8,True,6
+2492,155,2025-09-02,A-Check (Routine),10459.58,6.7,True,1
+2493,11,2025-07-17,Avionics Update,109865.93,70.0,True,3
+2494,144,2023-02-11,Unscheduled Repair,68129.34,42.6,True,6
+2495,94,2024-09-14,Unscheduled Repair,88330.21,38.1,True,5
+2496,13,2025-03-24,B-Check,22890.2,20.3,True,2
+2497,160,2024-03-20,C-Check,341395.08,238.1,True,6
+2498,76,2025-04-07,B-Check,18337.61,13.9,False,6
+2499,63,2023-01-22,Avionics Update,87796.94,36.7,False,8
+2500,154,2024-10-17,B-Check,31549.31,25.5,True,3
+2501,112,2023-03-13,A-Check (Routine),9439.51,9.2,True,2
+2502,157,2023-03-23,A-Check (Routine),3350.35,7.3,False,4
+2503,15,2024-02-29,B-Check,26179.27,35.3,True,3
+2504,165,2024-03-12,A-Check (Routine),6076.33,10.4,True,6
+2505,36,2024-09-07,Unscheduled Repair,2505.22,9.4,True,6
+2506,159,2024-03-09,A-Check (Routine),11716.5,8.4,True,2
+2507,34,2023-10-28,A-Check (Routine),9566.33,10.8,True,6
+2508,69,2024-12-25,B-Check,13336.63,18.4,True,8
+2509,89,2025-11-03,Unscheduled Repair,18605.58,4.7,True,7
+2510,80,2025-07-17,Unscheduled Repair,3976.36,36.0,False,3
+2511,54,2025-05-24,Engine Overhaul,1102755.66,532.5,True,7
+2512,130,2025-01-30,Avionics Update,106046.4,53.2,False,6
+2513,37,2025-01-05,B-Check,21031.82,15.7,True,4
+2514,43,2025-04-24,A-Check (Routine),4905.94,7.5,False,8
+2515,30,2025-10-07,B-Check,31836.1,29.6,False,2
+2516,156,2024-09-25,A-Check (Routine),6477.18,9.4,True,6
+2517,88,2024-05-11,A-Check (Routine),6888.82,5.7,True,7
+2518,86,2025-11-14,C-Check,427577.99,259.3,True,6
+2519,135,2025-11-19,Avionics Update,79635.02,35.6,False,6
+2520,92,2025-04-08,A-Check (Routine),8162.92,11.5,False,7
+2521,92,2024-06-06,A-Check (Routine),7716.75,9.7,True,2
+2522,114,2024-05-16,Avionics Update,51384.13,57.0,False,1
+2523,105,2023-11-29,A-Check (Routine),8696.43,8.6,False,7
+2524,103,2023-04-02,A-Check (Routine),3257.2,4.1,False,4
+2525,26,2023-11-25,A-Check (Routine),8013.01,9.1,True,7
+2526,165,2024-04-02,Avionics Update,23498.3,41.9,True,4
+2527,71,2023-10-11,B-Check,24912.73,32.3,False,3
+2528,72,2024-05-03,Unscheduled Repair,77448.53,33.0,True,8
+2529,145,2025-01-14,Engine Overhaul,977285.0,358.0,True,1
+2530,158,2024-02-27,A-Check (Routine),5322.36,9.9,True,4
+2531,8,2025-10-02,Engine Overhaul,859345.18,327.2,True,2
+2532,138,2023-11-29,C-Check,256369.11,135.6,True,3
+2533,114,2024-06-17,Unscheduled Repair,57271.35,31.5,True,1
+2534,117,2025-08-20,C-Check,269421.25,160.8,False,5
+2535,20,2025-05-18,C-Check,234766.63,137.7,True,3
+2536,54,2025-05-21,A-Check (Routine),4305.52,11.5,True,1
+2537,102,2025-03-15,A-Check (Routine),5647.31,6.4,True,8
+2538,149,2023-10-27,Avionics Update,59820.19,45.5,True,6
+2539,29,2025-05-15,Avionics Update,105600.29,37.7,True,6
+2540,49,2024-11-21,D-Check (Heavy),2125372.31,896.0,True,7
+2541,19,2023-05-12,A-Check (Routine),4921.37,7.4,True,4
+2542,78,2025-02-23,A-Check (Routine),7039.87,9.3,True,1
+2543,134,2023-09-30,A-Check (Routine),7953.72,10.9,True,1
+2544,7,2023-06-11,A-Check (Routine),10471.14,5.6,True,2
+2545,1,2025-02-21,A-Check (Routine),10985.57,9.9,True,1
+2546,108,2024-10-13,B-Check,20473.06,18.8,True,5
+2547,28,2025-07-03,B-Check,26953.05,34.0,True,5
+2548,8,2023-03-21,Avionics Update,51358.78,33.8,True,6
+2549,105,2023-10-29,A-Check (Routine),6316.8,6.3,True,7
+2550,54,2023-12-03,Unscheduled Repair,73484.14,41.6,True,1
+2551,152,2024-10-14,B-Check,11584.93,20.6,True,2
+2552,155,2023-11-15,A-Check (Routine),4625.08,9.8,True,4
+2553,71,2025-09-09,Unscheduled Repair,14894.43,13.0,True,8
+2554,64,2023-08-15,Unscheduled Repair,51109.32,19.4,True,5
+2555,84,2025-04-10,Avionics Update,75453.64,48.0,False,3
+2556,13,2023-04-19,Unscheduled Repair,60939.99,15.9,True,8
+2557,44,2025-05-21,B-Check,30885.43,26.0,True,3
+2558,10,2023-12-08,A-Check (Routine),5602.69,7.9,True,7
+2559,140,2023-03-29,Unscheduled Repair,46344.9,23.0,True,1
+2560,61,2024-03-21,A-Check (Routine),11403.14,9.1,True,7
+2561,6,2025-03-11,A-Check (Routine),4024.1,8.5,True,6
+2562,33,2024-11-15,A-Check (Routine),7411.55,4.8,True,5
+2563,55,2024-11-22,D-Check (Heavy),1155484.29,646.6,True,7
+2564,141,2025-04-16,Unscheduled Repair,51592.33,26.2,False,1
+2565,126,2023-07-14,C-Check,282495.94,237.7,True,6
+2566,20,2024-08-17,Avionics Update,90420.21,60.9,True,1
+2567,76,2023-12-24,Unscheduled Repair,51196.75,2.2,False,8
+2568,23,2025-09-14,Unscheduled Repair,77390.55,15.2,True,8
+2569,90,2023-11-18,A-Check (Routine),11432.83,7.2,True,3
+2570,85,2024-11-07,A-Check (Routine),3292.96,4.4,True,7
+2571,15,2024-11-28,Avionics Update,42994.47,42.4,True,8
+2572,34,2025-12-23,A-Check (Routine),8345.31,9.6,True,8
+2573,20,2025-09-16,B-Check,17561.81,28.4,True,3
+2574,46,2025-01-16,Unscheduled Repair,22358.9,22.9,True,6
+2575,110,2023-09-13,A-Check (Routine),3444.44,5.6,True,1
+2576,54,2024-07-07,A-Check (Routine),11866.67,4.1,True,1
+2577,31,2025-03-31,Unscheduled Repair,67377.58,9.5,True,3
+2578,81,2023-01-05,C-Check,319265.09,216.7,True,1
+2579,10,2024-09-26,C-Check,219308.75,201.1,True,7
+2580,72,2023-09-11,A-Check (Routine),11356.59,9.5,True,3
+2581,21,2024-05-25,Engine Overhaul,1187492.9,205.4,True,5
+2582,65,2025-12-30,A-Check (Routine),4628.14,6.8,False,4
+2583,15,2024-05-28,A-Check (Routine),5051.88,11.7,True,4
+2584,95,2025-08-20,B-Check,16265.95,16.2,True,6
+2585,112,2023-10-04,D-Check (Heavy),1811105.88,821.2,True,2
+2586,74,2025-01-16,Avionics Update,114679.21,79.1,True,5
+2587,105,2023-08-14,A-Check (Routine),6192.35,10.9,True,4
+2588,48,2023-02-23,B-Check,33651.98,20.2,True,8
+2589,79,2025-09-02,A-Check (Routine),11504.78,7.3,True,4
+2590,160,2025-06-28,Unscheduled Repair,6682.79,9.0,False,3
+2591,56,2023-08-13,A-Check (Routine),10939.57,7.5,True,8
+2592,97,2023-12-09,Unscheduled Repair,15609.92,20.5,False,3
+2593,34,2023-03-20,A-Check (Routine),5974.05,4.5,True,7
+2594,79,2023-07-28,B-Check,19464.93,28.7,True,1
+2595,81,2025-03-12,A-Check (Routine),7349.15,8.1,True,7
+2596,127,2024-08-17,A-Check (Routine),9425.81,7.4,True,2
+2597,145,2025-12-02,B-Check,23123.41,35.3,True,4
+2598,69,2025-08-28,B-Check,30606.78,18.6,True,8
+2599,138,2024-08-08,A-Check (Routine),11041.41,4.9,True,1
+2600,81,2024-06-11,Unscheduled Repair,60865.28,41.9,False,5
+2601,145,2023-01-03,B-Check,18815.27,35.0,True,5
+2602,16,2024-10-13,C-Check,379012.78,257.0,True,2
+2603,67,2023-08-22,A-Check (Routine),4169.76,9.9,True,7
+2604,148,2025-05-14,C-Check,257411.52,124.5,False,4
+2605,36,2023-11-16,B-Check,23675.18,31.7,True,8
+2606,137,2023-09-02,Unscheduled Repair,29491.11,45.3,True,7
+2607,112,2023-10-12,C-Check,289092.86,137.4,True,4
+2608,118,2023-07-11,Unscheduled Repair,60761.28,20.5,False,8
+2609,159,2025-06-24,Unscheduled Repair,84441.39,37.0,False,8
+2610,23,2025-03-21,A-Check (Routine),5625.18,6.9,True,7
+2611,134,2025-07-11,A-Check (Routine),9730.17,9.4,True,3
+2612,7,2025-06-22,C-Check,192975.74,240.4,False,5
+2613,140,2023-11-07,A-Check (Routine),4463.18,10.1,True,8
+2614,16,2025-11-26,Unscheduled Repair,60089.68,4.6,False,4
+2615,162,2024-06-28,A-Check (Routine),8641.11,5.9,True,1
+2616,69,2023-06-07,D-Check (Heavy),1860480.51,867.7,True,4
+2617,29,2024-05-16,A-Check (Routine),10351.01,6.6,False,1
+2618,56,2025-01-16,A-Check (Routine),8424.81,10.5,False,6
+2619,156,2023-06-24,Avionics Update,102290.32,57.4,True,2
+2620,13,2023-05-11,A-Check (Routine),11332.86,4.8,False,5
+2621,71,2025-09-21,A-Check (Routine),3111.54,8.3,True,3
+2622,66,2023-05-31,A-Check (Routine),6148.61,6.3,True,1
+2623,50,2024-08-07,Avionics Update,30110.0,78.5,True,5
+2624,22,2023-06-26,A-Check (Routine),4530.29,10.2,True,4
+2625,76,2024-02-02,C-Check,157322.71,169.0,True,5
+2626,4,2023-01-19,C-Check,259555.79,212.7,False,4
+2627,164,2023-10-04,Engine Overhaul,961514.53,454.4,True,3
+2628,40,2025-03-14,A-Check (Routine),5259.32,7.6,True,1
+2629,57,2024-01-07,D-Check (Heavy),1942868.26,514.0,False,5
+2630,42,2023-10-20,Unscheduled Repair,50818.8,23.3,True,1
+2631,151,2024-02-29,B-Check,12155.55,32.7,True,6
+2632,122,2024-04-28,Avionics Update,65831.9,66.6,True,8
+2633,60,2023-01-11,A-Check (Routine),3056.08,7.7,False,1
+2634,15,2025-01-18,Unscheduled Repair,72663.26,29.9,True,6
+2635,100,2024-05-01,A-Check (Routine),5185.44,11.3,True,2
+2636,62,2025-08-26,Avionics Update,23606.61,44.1,True,3
+2637,6,2024-06-01,Unscheduled Repair,53158.88,19.0,True,5
+2638,93,2024-08-24,C-Check,438274.91,188.5,True,8
+2639,121,2025-03-28,A-Check (Routine),4415.77,6.0,True,5
+2640,5,2025-09-10,B-Check,30407.52,29.6,True,4
+2641,70,2025-12-30,Unscheduled Repair,44474.29,25.4,True,2
+2642,97,2023-10-04,A-Check (Routine),10482.79,10.9,True,1
+2643,49,2025-01-02,C-Check,234552.33,234.1,True,7
+2644,132,2023-12-21,A-Check (Routine),5118.99,11.6,True,6
+2645,29,2025-11-22,B-Check,14827.62,32.7,False,8
+2646,90,2024-02-07,A-Check (Routine),7943.12,11.6,True,5
+2647,149,2025-02-11,A-Check (Routine),4738.5,11.7,True,8
+2648,78,2025-03-02,A-Check (Routine),8113.14,9.0,True,3
+2649,95,2025-09-08,A-Check (Routine),10711.85,8.9,False,2
+2650,32,2025-11-07,Engine Overhaul,717614.08,456.7,True,3
+2651,59,2023-01-08,A-Check (Routine),11160.34,7.1,True,7
+2652,118,2025-09-01,Unscheduled Repair,76594.77,18.6,True,1
+2653,16,2023-02-11,C-Check,404955.03,135.4,False,4
+2654,28,2024-05-15,A-Check (Routine),6774.6,7.1,False,4
+2655,50,2024-05-16,A-Check (Routine),11190.4,11.1,True,5
+2656,65,2024-10-10,D-Check (Heavy),1069106.46,704.2,True,8
+2657,61,2025-04-11,D-Check (Heavy),2360737.35,407.3,True,2
+2658,102,2024-08-02,A-Check (Routine),9918.31,8.4,True,1
+2659,95,2023-02-15,Unscheduled Repair,77223.56,12.2,False,2
+2660,13,2025-12-30,C-Check,415417.5,294.2,True,5
+2661,31,2024-12-16,A-Check (Routine),10107.02,7.5,True,6
+2662,142,2024-09-22,B-Check,24272.23,31.4,False,3
+2663,16,2025-02-26,Engine Overhaul,811355.83,246.8,True,6
+2664,143,2023-03-02,Avionics Update,115369.1,33.9,True,3
+2665,95,2024-02-18,C-Check,346129.49,140.6,True,4
+2666,21,2023-06-17,Unscheduled Repair,44842.41,31.7,True,5
+2667,106,2023-01-09,A-Check (Routine),9922.84,10.7,True,4
+2668,39,2023-07-17,A-Check (Routine),7655.51,8.7,False,2
+2669,87,2023-02-20,B-Check,18403.18,26.2,True,1
+2670,136,2024-05-02,A-Check (Routine),11405.2,8.5,True,4
+2671,116,2024-05-26,A-Check (Routine),11785.42,10.5,True,7
+2672,15,2024-01-10,B-Check,15814.15,12.6,True,2
+2673,10,2024-07-14,A-Check (Routine),11958.4,6.6,True,7
+2674,87,2023-09-14,Unscheduled Repair,15200.55,42.7,True,6
+2675,12,2023-12-28,A-Check (Routine),5182.41,4.5,False,1
+2676,79,2024-05-02,Avionics Update,62158.54,26.0,True,3
+2677,161,2024-07-19,Unscheduled Repair,83073.49,42.7,True,5
+2678,151,2024-12-22,A-Check (Routine),4366.41,4.7,False,5
+2679,30,2025-11-07,C-Check,296458.09,278.7,True,3
+2680,2,2025-05-16,C-Check,425535.62,224.3,True,8
+2681,5,2025-12-03,A-Check (Routine),9586.05,4.9,True,7
+2682,71,2024-09-07,A-Check (Routine),4403.59,8.3,True,6
+2683,126,2024-09-22,Avionics Update,73704.35,62.2,False,8
+2684,104,2023-01-19,D-Check (Heavy),1425807.31,457.9,True,3
+2685,121,2025-03-05,B-Check,33045.46,16.1,True,3
+2686,16,2024-05-11,A-Check (Routine),11776.83,4.8,False,7
+2687,48,2024-05-19,C-Check,323431.87,136.9,False,8
+2688,153,2025-12-19,Avionics Update,30003.3,76.9,False,7
+2689,50,2023-04-16,B-Check,16081.84,26.7,True,4
+2690,20,2025-07-03,A-Check (Routine),4886.06,8.6,True,5
+2691,99,2025-01-07,B-Check,19765.03,12.9,True,7
+2692,83,2025-04-25,A-Check (Routine),8975.46,7.9,True,5
+2693,161,2024-07-30,A-Check (Routine),3233.22,8.7,False,8
+2694,94,2023-12-04,B-Check,24195.4,34.6,True,6
+2695,112,2024-05-01,A-Check (Routine),7663.69,7.8,True,8
+2696,13,2024-03-31,C-Check,226812.5,262.3,True,5
+2697,2,2024-10-22,B-Check,31706.91,20.9,False,2
+2698,110,2025-01-26,A-Check (Routine),4048.56,9.5,True,1
+2699,15,2025-09-14,Avionics Update,48212.26,38.3,True,5
+2700,39,2024-05-30,A-Check (Routine),9246.77,9.1,True,3
+2701,47,2024-08-19,Avionics Update,76237.15,43.7,True,1
+2702,150,2024-07-20,A-Check (Routine),3319.99,9.0,False,7
+2703,154,2025-09-20,Engine Overhaul,518862.13,272.4,True,3
+2704,34,2023-09-29,A-Check (Routine),10784.41,11.5,True,7
+2705,117,2023-09-18,A-Check (Routine),6511.29,10.7,True,7
+2706,60,2024-07-13,A-Check (Routine),5913.18,10.4,True,1
+2707,18,2024-05-19,C-Check,171614.14,125.7,True,2
+2708,129,2025-02-24,Unscheduled Repair,9660.56,38.1,True,8
+2709,145,2025-04-13,A-Check (Routine),7774.17,7.9,True,3
+2710,78,2024-08-20,Engine Overhaul,426990.58,495.2,False,1
+2711,102,2024-06-20,A-Check (Routine),9311.88,11.8,True,3
+2712,64,2025-09-07,A-Check (Routine),10672.8,5.5,True,3
+2713,31,2024-02-03,Unscheduled Repair,46443.17,30.5,False,6
+2714,12,2024-12-16,Unscheduled Repair,87170.9,45.5,False,6
+2715,131,2023-08-26,Unscheduled Repair,10651.59,35.6,False,6
+2716,164,2024-09-19,A-Check (Routine),9211.51,11.0,True,3
+2717,78,2025-11-10,Avionics Update,108563.0,71.2,True,3
+2718,137,2023-11-16,A-Check (Routine),11003.83,7.3,True,5
+2719,129,2024-06-12,B-Check,27013.36,21.7,False,5
+2720,39,2023-03-03,Engine Overhaul,449426.07,551.1,True,7
+2721,11,2023-10-17,A-Check (Routine),10032.09,10.2,True,7
+2722,160,2025-06-15,C-Check,345749.27,288.8,True,4
+2723,56,2023-06-20,A-Check (Routine),5979.19,12.0,True,4
+2724,116,2024-05-15,Unscheduled Repair,5104.12,33.3,False,5
+2725,4,2025-11-16,Engine Overhaul,488337.15,250.3,True,6
+2726,56,2024-05-16,A-Check (Routine),10367.09,8.2,False,5
+2727,59,2025-12-15,B-Check,17962.17,29.6,True,6
+2728,59,2025-02-02,A-Check (Routine),11232.04,9.0,True,2
+2729,142,2025-10-23,Unscheduled Repair,60439.58,11.6,True,1
+2730,128,2024-06-28,B-Check,16127.7,13.1,True,2
+2731,46,2024-01-12,C-Check,437093.13,229.7,True,6
+2732,87,2025-07-06,Unscheduled Repair,38480.86,30.9,False,1
+2733,3,2023-08-25,A-Check (Routine),10077.2,7.2,True,7
+2734,116,2023-09-18,A-Check (Routine),4666.02,11.4,True,1
+2735,17,2024-04-30,Unscheduled Repair,78277.17,20.7,False,1
+2736,134,2024-09-28,B-Check,16076.23,35.7,True,3
+2737,49,2024-12-05,B-Check,15799.91,35.1,True,4
+2738,80,2024-12-20,Unscheduled Repair,52994.93,8.0,True,3
+2739,14,2025-08-18,C-Check,225383.54,242.8,True,4
+2740,138,2024-10-13,A-Check (Routine),8635.81,8.1,True,1
+2741,56,2024-06-24,C-Check,186455.35,219.9,True,7
+2742,162,2025-05-11,A-Check (Routine),10754.65,9.4,True,2
+2743,87,2024-03-12,A-Check (Routine),4026.57,9.9,True,5
+2744,42,2025-01-11,C-Check,447645.12,129.3,True,5
+2745,127,2025-06-26,C-Check,209125.42,263.5,True,2
+2746,129,2024-04-03,Unscheduled Repair,50965.28,28.3,True,1
+2747,10,2024-07-19,Avionics Update,17677.25,42.4,True,7
+2748,50,2023-10-25,A-Check (Routine),10930.32,6.4,True,4
+2749,87,2024-03-12,Unscheduled Repair,18671.79,31.6,False,3
+2750,16,2023-09-21,B-Check,18007.96,14.9,True,7
+2751,105,2023-05-21,Engine Overhaul,1121452.97,362.2,True,2
+2752,85,2025-06-04,C-Check,381257.23,201.6,True,4
+2753,144,2025-04-18,A-Check (Routine),10970.62,11.1,False,7
+2754,139,2025-01-24,Unscheduled Repair,45279.06,31.0,True,3
+2755,150,2025-10-20,A-Check (Routine),6444.9,7.0,True,5
+2756,124,2024-05-08,Unscheduled Repair,43131.56,13.1,True,4
+2757,66,2023-08-19,A-Check (Routine),11487.86,11.4,True,7
+2758,45,2023-05-31,B-Check,34473.73,25.5,True,6
+2759,49,2024-05-01,C-Check,320604.72,210.0,True,1
+2760,93,2024-10-18,Unscheduled Repair,75923.06,47.5,False,4
+2761,138,2024-01-11,B-Check,11358.25,19.7,True,6
+2762,103,2025-09-19,A-Check (Routine),7917.48,5.5,False,7
+2763,10,2024-07-12,A-Check (Routine),4496.39,10.4,True,1
+2764,12,2024-08-31,Unscheduled Repair,66838.51,42.3,True,6
+2765,2,2024-08-01,C-Check,225827.41,166.3,False,3
+2766,162,2025-04-13,D-Check (Heavy),1811118.04,492.5,True,1
+2767,102,2024-07-26,Avionics Update,74430.15,40.3,True,7
+2768,145,2024-07-19,B-Check,10102.87,26.1,True,5
+2769,61,2023-08-13,A-Check (Routine),11374.95,6.1,True,2
+2770,150,2023-10-07,Engine Overhaul,603119.62,466.1,False,5
+2771,106,2023-05-22,Unscheduled Repair,85740.87,32.0,True,3
+2772,41,2024-01-29,Avionics Update,38530.87,43.9,True,6
+2773,78,2025-11-30,Engine Overhaul,991680.92,281.6,True,5
+2774,102,2024-12-19,Unscheduled Repair,5944.71,14.8,True,2
+2775,38,2023-06-24,A-Check (Routine),10976.48,6.4,True,3
+2776,59,2024-02-17,Avionics Update,89556.83,65.0,True,1
+2777,159,2023-05-19,C-Check,322161.9,294.2,True,2
+2778,156,2025-03-26,A-Check (Routine),5276.1,10.7,False,7
+2779,159,2025-05-21,A-Check (Routine),6062.98,11.0,True,6
+2780,28,2024-08-04,Unscheduled Repair,27698.47,2.4,False,7
+2781,6,2024-08-17,Unscheduled Repair,14192.17,42.2,True,5
+2782,40,2025-02-13,Unscheduled Repair,48002.93,31.2,True,8
+2783,148,2024-02-02,A-Check (Routine),8540.51,6.7,True,7
+2784,19,2024-08-28,B-Check,30330.96,20.4,True,5
+2785,2,2023-03-20,Engine Overhaul,706611.85,463.4,True,8
+2786,45,2023-10-13,Engine Overhaul,621482.64,231.0,True,1
+2787,80,2024-04-03,B-Check,14815.8,22.6,True,2
+2788,122,2025-09-15,A-Check (Routine),5049.59,4.8,True,1
+2789,28,2023-10-30,C-Check,345843.93,219.1,True,1
+2790,136,2024-07-01,Unscheduled Repair,45485.07,24.0,True,2
+2791,82,2024-04-08,B-Check,32366.77,28.0,True,4
+2792,48,2025-10-12,A-Check (Routine),9039.36,10.5,True,4
+2793,123,2025-07-18,Unscheduled Repair,78909.54,41.2,False,2
+2794,17,2024-09-10,Unscheduled Repair,51832.23,27.3,True,1
+2795,139,2023-12-06,Engine Overhaul,858435.37,396.0,True,2
+2796,3,2025-09-19,C-Check,262659.83,181.4,False,8
+2797,104,2024-09-26,A-Check (Routine),10890.75,7.4,True,8
+2798,75,2023-10-28,A-Check (Routine),3754.95,10.5,False,4
+2799,51,2024-04-12,Unscheduled Repair,77823.27,11.7,True,8
+2800,66,2025-01-09,Avionics Update,93062.14,74.6,True,4
+2801,5,2024-09-08,Unscheduled Repair,33553.92,12.0,True,2
+2802,89,2025-04-18,A-Check (Routine),8465.15,11.0,True,8
+2803,37,2023-12-14,Avionics Update,21948.12,41.0,True,2
+2804,112,2025-02-23,A-Check (Routine),6844.0,10.6,True,3
+2805,137,2023-06-27,A-Check (Routine),3523.27,7.1,True,1
+2806,56,2024-10-21,Unscheduled Repair,54929.59,42.8,False,8
+2807,149,2024-05-28,Unscheduled Repair,87877.39,14.5,True,7
+2808,14,2023-11-07,B-Check,34370.79,15.9,True,7
+2809,91,2025-07-12,Unscheduled Repair,80017.05,12.6,True,1
+2810,144,2023-04-29,B-Check,18776.96,20.4,True,5
+2811,113,2024-07-03,A-Check (Routine),3179.66,6.0,False,2
+2812,93,2024-04-05,C-Check,409387.24,137.6,True,8
+2813,6,2025-12-30,Unscheduled Repair,71667.86,40.0,True,7
+2814,126,2023-04-27,A-Check (Routine),7465.51,9.7,True,8
+2815,34,2023-08-14,B-Check,13878.33,23.7,True,5
+2816,39,2025-09-29,A-Check (Routine),9783.88,9.6,True,1
+2817,138,2024-07-27,A-Check (Routine),7635.87,7.3,True,1
+2818,112,2023-01-21,A-Check (Routine),9939.31,8.2,False,7
+2819,42,2023-11-18,A-Check (Routine),6113.24,8.9,False,3
+2820,52,2023-09-12,Unscheduled Repair,60603.02,18.2,True,5
+2821,155,2025-11-13,A-Check (Routine),9661.03,10.1,True,5
+2822,74,2024-08-19,A-Check (Routine),4853.36,6.9,True,2
+2823,130,2025-03-20,B-Check,33007.42,14.6,True,1
+2824,86,2024-01-27,Unscheduled Repair,74485.64,34.0,True,6
+2825,129,2023-05-04,A-Check (Routine),11678.42,5.5,True,8
+2826,22,2024-06-11,C-Check,267802.56,184.4,True,4
+2827,18,2024-05-28,Engine Overhaul,478356.09,228.0,True,1
+2828,70,2024-02-12,Engine Overhaul,1030371.35,540.0,True,5
+2829,143,2024-06-17,Unscheduled Repair,42089.66,35.4,True,3
+2830,135,2024-12-25,A-Check (Routine),4259.14,8.1,True,5
+2831,120,2025-08-25,Engine Overhaul,624353.78,200.7,False,3
+2832,37,2023-12-31,B-Check,17707.09,28.3,True,2
+2833,162,2025-12-22,A-Check (Routine),10790.24,11.4,True,4
+2834,91,2025-10-13,Engine Overhaul,959641.99,402.9,False,5
+2835,38,2025-07-07,B-Check,23133.1,29.3,True,5
+2836,8,2024-12-20,A-Check (Routine),7698.13,11.6,True,4
+2837,37,2024-01-14,Unscheduled Repair,8332.8,10.0,False,6
+2838,79,2023-01-11,B-Check,12170.17,25.2,True,5
+2839,9,2025-12-19,B-Check,23732.24,12.5,True,1
+2840,166,2023-03-26,D-Check (Heavy),1508826.77,761.6,True,4
+2841,130,2023-02-27,B-Check,27931.03,15.0,True,1
+2842,104,2023-08-24,A-Check (Routine),9795.77,5.3,True,8
+2843,85,2025-05-06,C-Check,243601.79,213.0,True,6
+2844,6,2024-04-08,A-Check (Routine),7007.1,9.2,False,7
+2845,74,2025-10-26,Avionics Update,113195.34,65.8,True,2
+2846,9,2025-03-17,C-Check,300010.21,236.9,False,4
+2847,12,2024-10-10,Unscheduled Repair,3106.26,43.6,True,7
+2848,57,2025-01-31,B-Check,18478.93,14.9,True,3
+2849,31,2024-01-14,C-Check,364008.37,281.9,True,6
+2850,162,2023-02-13,B-Check,14552.5,13.6,False,4
+2851,1,2024-07-23,A-Check (Routine),9906.07,6.6,True,4
+2852,58,2024-09-04,Unscheduled Repair,34855.23,29.8,True,8
+2853,63,2023-06-05,A-Check (Routine),5655.66,9.8,True,5
+2854,35,2024-10-22,B-Check,28587.05,21.1,True,1
+2855,29,2024-05-29,Engine Overhaul,902643.43,219.2,False,4
+2856,84,2025-01-07,A-Check (Routine),9117.38,7.8,True,2
+2857,157,2025-09-27,D-Check (Heavy),2046969.14,564.5,True,8
+2858,78,2023-08-28,Unscheduled Repair,62917.92,3.8,True,1
+2859,159,2023-12-08,Unscheduled Repair,72248.97,17.7,True,8
+2860,87,2024-03-15,A-Check (Routine),6459.22,5.4,True,3
+2861,37,2025-02-05,B-Check,19096.1,23.2,False,8
+2862,6,2023-11-18,A-Check (Routine),9902.69,7.3,True,7
+2863,131,2024-12-03,A-Check (Routine),9774.35,7.0,True,8
+2864,44,2023-07-22,B-Check,26919.95,24.3,True,1
+2865,115,2023-09-10,B-Check,31323.29,34.8,True,5
+2866,90,2024-09-05,B-Check,19126.54,26.4,True,1
+2867,98,2023-05-08,Avionics Update,20311.19,38.2,True,5
+2868,108,2025-10-11,Engine Overhaul,409215.59,227.3,False,5
+2869,48,2024-08-09,B-Check,32998.7,34.5,False,2
+2870,20,2025-05-01,A-Check (Routine),5347.04,5.2,False,6
+2871,33,2025-03-20,B-Check,24703.71,32.9,True,6
+2872,4,2024-03-18,C-Check,285306.74,244.3,True,2
+2873,92,2025-08-21,Unscheduled Repair,28081.86,28.5,False,5
+2874,10,2023-05-22,B-Check,17305.7,15.4,True,7
+2875,71,2024-04-22,B-Check,29485.36,27.1,True,4
+2876,7,2025-01-31,B-Check,24311.01,35.9,True,4
+2877,22,2023-05-29,A-Check (Routine),7492.78,4.1,True,7
+2878,104,2023-11-04,B-Check,29860.79,22.9,True,5
+2879,24,2023-09-03,Engine Overhaul,412917.85,463.2,False,7
+2880,24,2025-06-03,B-Check,28569.19,29.4,True,1
+2881,165,2024-05-13,A-Check (Routine),11082.92,9.6,False,7
+2882,33,2025-03-13,Unscheduled Repair,9254.88,22.2,False,3
+2883,47,2023-08-29,B-Check,26780.86,22.2,True,4
+2884,95,2023-09-05,Unscheduled Repair,68736.63,42.6,False,8
+2885,68,2025-07-05,A-Check (Routine),6493.97,4.0,True,6
+2886,49,2025-06-03,A-Check (Routine),4873.97,9.1,True,8
+2887,15,2023-11-17,C-Check,286250.95,142.2,True,3
+2888,57,2025-06-13,A-Check (Routine),4656.36,9.1,True,4
+2889,34,2025-06-12,B-Check,15519.99,12.1,True,2
+2890,139,2025-08-24,A-Check (Routine),5810.56,10.7,True,7
+2891,34,2023-07-22,A-Check (Routine),11274.39,5.3,True,3
+2892,75,2023-12-16,Engine Overhaul,725377.9,303.8,True,4
+2893,88,2023-11-08,B-Check,26628.6,25.8,False,8
+2894,32,2025-03-26,C-Check,368192.12,252.6,True,7
+2895,4,2023-11-17,Unscheduled Repair,43159.96,25.6,True,8
+2896,80,2023-07-07,Engine Overhaul,1120856.78,455.3,True,3
+2897,131,2023-05-02,A-Check (Routine),3281.62,11.7,False,1
+2898,156,2023-05-04,B-Check,19424.0,31.3,True,4
+2899,111,2023-04-22,A-Check (Routine),8270.04,9.5,True,1
+2900,148,2025-12-17,Unscheduled Repair,69700.59,40.8,True,8
+2901,76,2024-02-10,B-Check,18750.12,16.7,False,6
+2902,127,2025-10-03,B-Check,20043.52,17.9,True,7
+2903,18,2025-11-17,Unscheduled Repair,10316.89,48.0,False,5
+2904,35,2023-10-14,C-Check,214333.16,187.8,True,1
+2905,100,2025-08-25,B-Check,19597.82,24.9,True,6
+2906,9,2023-05-31,C-Check,218956.6,130.9,True,6
+2907,147,2024-03-11,B-Check,27425.04,17.5,True,1
+2908,150,2023-04-16,A-Check (Routine),8920.58,8.9,False,5
+2909,64,2024-08-30,A-Check (Routine),5780.27,9.9,True,4
+2910,151,2025-02-23,Unscheduled Repair,67414.0,37.2,True,1
+2911,56,2025-03-17,Unscheduled Repair,66398.28,41.6,True,6
+2912,107,2023-07-30,B-Check,23655.89,30.8,True,1
+2913,160,2023-05-22,B-Check,14641.2,28.8,True,4
+2914,148,2023-01-02,B-Check,16306.11,21.9,True,4
+2915,150,2024-12-21,Unscheduled Repair,7024.18,9.7,True,2
+2916,8,2025-05-20,A-Check (Routine),10609.2,5.8,True,6
+2917,40,2025-01-24,A-Check (Routine),7244.63,7.8,False,6
+2918,52,2023-11-02,Engine Overhaul,844135.97,334.0,True,4
+2919,7,2024-08-06,Unscheduled Repair,44531.13,14.5,False,4
+2920,122,2024-09-30,Unscheduled Repair,21629.4,7.1,True,1
+2921,41,2024-03-05,A-Check (Routine),8951.15,5.0,False,8
+2922,142,2023-11-08,Unscheduled Repair,23475.85,11.6,True,4
+2923,74,2025-11-28,A-Check (Routine),10025.07,11.9,True,4
+2924,81,2025-07-11,B-Check,14129.36,24.6,True,7
+2925,79,2024-08-27,Avionics Update,48928.61,58.2,True,2
+2926,117,2023-02-07,Unscheduled Repair,63356.43,42.9,True,8
+2927,5,2023-12-03,B-Check,22865.2,31.8,False,8
+2928,32,2023-08-16,Avionics Update,82204.65,39.7,True,4
+2929,98,2024-08-31,Engine Overhaul,775936.91,477.1,True,8
+2930,116,2025-10-13,C-Check,396292.0,284.0,True,3
+2931,3,2025-10-08,Unscheduled Repair,7545.95,21.0,True,1
+2932,101,2024-03-06,B-Check,33119.42,29.1,True,4
+2933,11,2024-03-02,A-Check (Routine),11194.78,5.0,True,3
+2934,74,2025-08-27,B-Check,30957.96,33.4,True,7
+2935,127,2024-04-27,C-Check,168238.72,221.5,True,2
+2936,9,2024-06-10,B-Check,21708.52,33.2,True,5
+2937,136,2025-02-04,Unscheduled Repair,24922.39,46.2,True,6
+2938,163,2023-12-12,A-Check (Routine),4828.8,8.7,True,6
+2939,90,2025-11-24,Engine Overhaul,1030520.72,436.3,True,1
+2940,22,2023-07-10,A-Check (Routine),6913.68,6.1,True,1
+2941,154,2023-09-09,A-Check (Routine),11823.28,8.0,True,8
+2942,98,2023-07-05,Unscheduled Repair,12079.86,40.2,True,6
+2943,39,2023-11-26,A-Check (Routine),4225.94,12.0,False,5
+2944,44,2024-06-08,A-Check (Routine),3292.39,4.4,True,4
+2945,117,2025-10-01,Unscheduled Repair,8528.86,22.0,True,6
+2946,100,2024-03-13,D-Check (Heavy),943860.33,429.9,True,8
+2947,105,2023-08-14,B-Check,20084.79,30.7,False,8
+2948,111,2025-04-09,Engine Overhaul,490156.42,512.9,True,3
+2949,71,2025-06-29,D-Check (Heavy),1694302.46,863.8,False,6
+2950,128,2023-02-23,B-Check,29672.37,16.3,True,3
+2951,161,2025-01-03,Unscheduled Repair,15462.02,3.0,True,7
+2952,71,2023-11-11,A-Check (Routine),6174.69,8.2,False,7
+2953,83,2025-11-09,Unscheduled Repair,88609.59,21.6,True,4
+2954,105,2023-12-11,A-Check (Routine),5192.25,6.6,True,1
+2955,123,2025-01-27,A-Check (Routine),5406.55,11.3,True,4
+2956,89,2023-06-22,Unscheduled Repair,15696.18,13.0,False,7
+2957,71,2023-09-17,Engine Overhaul,1191692.18,506.5,True,1
+2958,58,2024-03-28,A-Check (Routine),4357.77,11.4,False,8
+2959,152,2023-01-12,D-Check (Heavy),2320873.5,479.8,True,3
+2960,157,2025-07-09,B-Check,17498.09,30.5,False,5
+2961,56,2024-12-24,A-Check (Routine),11638.66,10.2,True,5
+2962,4,2024-09-04,B-Check,18057.5,31.6,True,5
+2963,48,2025-11-05,B-Check,26265.91,27.1,True,3
+2964,55,2024-09-02,A-Check (Routine),3302.67,10.9,True,1
+2965,146,2023-05-28,Unscheduled Repair,80954.79,46.2,True,6
+2966,48,2025-11-12,Unscheduled Repair,72365.05,34.3,True,8
+2967,84,2024-07-20,A-Check (Routine),9540.6,4.2,True,7
+2968,50,2024-10-21,A-Check (Routine),4992.92,4.1,True,2
+2969,11,2023-12-01,Unscheduled Repair,19189.72,28.6,False,4
+2970,120,2025-08-03,Unscheduled Repair,81181.99,26.0,True,2
+2971,51,2025-09-09,A-Check (Routine),11167.89,4.7,True,3
+2972,64,2024-06-10,Unscheduled Repair,73744.02,38.2,True,3
+2973,152,2024-06-11,Avionics Update,32787.07,43.2,True,6
+2974,129,2025-05-05,C-Check,180710.69,170.3,True,4
+2975,61,2025-07-13,C-Check,280767.6,206.8,True,5
+2976,119,2025-01-08,B-Check,12295.8,14.8,False,1
+2977,112,2024-01-27,Unscheduled Repair,46758.35,4.5,False,4
+2978,78,2025-09-22,Unscheduled Repair,78700.68,19.3,True,8
+2979,67,2025-06-26,D-Check (Heavy),1778980.91,626.0,True,7
+2980,76,2024-05-21,Avionics Update,55000.52,45.7,True,2
+2981,104,2025-12-25,A-Check (Routine),11447.18,8.1,True,5
+2982,160,2025-12-22,Unscheduled Repair,75413.49,29.7,True,6
+2983,58,2023-10-19,A-Check (Routine),3218.78,10.5,True,8
+2984,33,2023-08-29,A-Check (Routine),3003.07,8.2,True,2
+2985,129,2023-05-02,A-Check (Routine),6232.4,4.6,False,2
+2986,17,2023-03-05,A-Check (Routine),7709.67,7.0,False,6
+2987,114,2024-06-02,Unscheduled Repair,35778.23,45.4,True,4
+2988,86,2025-03-09,Unscheduled Repair,15649.91,19.6,True,8
+2989,136,2023-03-17,B-Check,29967.5,31.9,True,3
+2990,104,2023-12-13,B-Check,30825.99,24.1,True,6
+2991,89,2023-02-14,Avionics Update,94386.42,34.8,True,8
+2992,13,2023-05-27,Unscheduled Repair,36679.59,25.6,True,6
+2993,27,2024-11-21,A-Check (Routine),4354.93,8.4,True,5
+2994,25,2023-05-18,B-Check,17993.97,34.1,True,6
+2995,131,2024-07-25,A-Check (Routine),5958.53,11.9,True,1
+2996,33,2024-09-15,Avionics Update,56351.27,79.1,True,7
+2997,148,2025-10-02,B-Check,17059.87,16.4,True,7
+2998,83,2023-12-23,B-Check,19142.16,35.9,True,8
+2999,116,2024-04-14,Unscheduled Repair,49981.26,9.3,True,6
+3000,76,2023-04-16,C-Check,156997.7,224.4,True,2
+3001,165,2023-07-30,Unscheduled Repair,53933.63,16.9,True,6
+3002,161,2024-01-11,Unscheduled Repair,34680.62,12.3,True,8
+3003,51,2025-03-29,Unscheduled Repair,18975.37,20.4,False,5
+3004,30,2025-04-01,C-Check,169072.97,166.0,False,2
+3005,34,2023-11-29,A-Check (Routine),9046.28,7.3,False,6
+3006,89,2023-08-22,A-Check (Routine),8040.17,6.4,True,1
+3007,23,2023-06-08,C-Check,282012.01,253.8,False,4
+3008,61,2025-11-29,C-Check,154024.35,261.9,True,1
+3009,100,2023-09-22,A-Check (Routine),3859.6,5.8,True,8
+3010,118,2023-08-30,B-Check,12638.66,12.7,True,8
+3011,71,2024-05-02,C-Check,188548.26,174.1,True,6
+3012,93,2025-02-22,A-Check (Routine),7393.16,8.8,True,6
+3013,58,2025-04-20,A-Check (Routine),6981.08,11.6,True,3
+3014,10,2025-08-28,B-Check,24914.19,16.1,True,3
+3015,6,2025-07-27,C-Check,213060.16,172.2,True,3
+3016,143,2024-04-29,Unscheduled Repair,35167.22,22.6,False,2
+3017,116,2025-08-15,B-Check,11617.26,21.6,True,1
+3018,94,2024-07-29,A-Check (Routine),8427.02,10.3,False,8
+3019,83,2025-08-09,Unscheduled Repair,49004.81,35.4,False,1
+3020,19,2023-05-28,B-Check,17565.82,18.8,True,4
+3021,49,2025-02-22,C-Check,309574.85,173.8,True,7
+3022,141,2023-05-27,A-Check (Routine),5711.8,9.7,True,8
+3023,111,2024-04-12,Engine Overhaul,653071.95,397.0,True,5
+3024,46,2024-03-13,Unscheduled Repair,73292.14,21.6,True,8
+3025,145,2025-02-13,Unscheduled Repair,58174.89,43.6,True,8
+3026,24,2023-12-05,A-Check (Routine),9187.05,9.1,True,5
+3027,33,2025-12-11,B-Check,32397.22,35.9,False,7
+3028,106,2023-09-08,A-Check (Routine),3849.69,9.5,True,8
+3029,93,2024-12-20,A-Check (Routine),3229.8,4.2,False,1
+3030,12,2025-09-02,C-Check,184459.87,161.1,True,5
+3031,59,2023-01-28,A-Check (Routine),3115.15,10.0,True,3
+3032,160,2024-06-21,A-Check (Routine),8514.44,5.5,True,6
+3033,58,2023-08-23,C-Check,415647.94,191.4,True,3
+3034,71,2025-04-26,A-Check (Routine),7663.54,7.6,True,1
+3035,146,2025-09-13,A-Check (Routine),6562.56,10.1,False,1
+3036,134,2025-08-15,B-Check,26846.53,12.7,False,7
+3037,139,2023-02-19,D-Check (Heavy),1481562.55,425.4,True,7
+3038,50,2025-03-11,A-Check (Routine),5755.58,4.7,True,4
+3039,11,2025-07-22,Unscheduled Repair,79766.52,15.6,True,7
+3040,125,2024-04-12,A-Check (Routine),11239.94,5.8,False,1
+3041,157,2025-06-12,C-Check,399007.48,279.7,True,7
+3042,46,2025-08-28,Avionics Update,55530.23,58.3,True,7
+3043,10,2023-10-04,A-Check (Routine),9992.29,11.5,True,6
+3044,96,2025-09-17,B-Check,30495.93,19.7,False,5
+3045,18,2023-01-29,B-Check,32281.56,33.9,True,8
+3046,61,2024-04-06,A-Check (Routine),10130.23,10.9,True,3
+3047,101,2023-09-06,C-Check,158072.97,202.7,True,8
+3048,129,2024-01-20,A-Check (Routine),3561.79,5.4,True,2
+3049,120,2024-04-18,D-Check (Heavy),1396321.26,505.1,False,6
+3050,109,2025-03-04,A-Check (Routine),11288.14,4.6,True,8
+3051,20,2023-01-13,A-Check (Routine),10277.74,8.8,True,7
+3052,116,2025-05-14,A-Check (Routine),5124.95,8.0,True,7
+3053,62,2024-09-25,Unscheduled Repair,60234.25,20.6,True,7
+3054,105,2025-11-03,B-Check,10091.45,13.3,True,2
+3055,11,2025-10-31,Engine Overhaul,807612.81,544.3,True,8
+3056,150,2024-11-01,B-Check,31198.61,17.7,True,7
+3057,127,2023-06-08,Unscheduled Repair,43870.1,5.8,True,1
+3058,99,2025-10-20,A-Check (Routine),4252.46,10.8,False,5
+3059,73,2025-01-06,Avionics Update,47726.9,24.2,False,6
+3060,146,2024-06-26,A-Check (Routine),9493.7,8.6,False,8
+3061,30,2024-07-04,C-Check,172072.46,208.5,True,4
+3062,147,2023-10-04,Unscheduled Repair,52949.58,45.6,True,1
+3063,119,2023-08-26,A-Check (Routine),6746.6,5.2,True,3
+3064,66,2023-11-19,D-Check (Heavy),2167342.19,467.7,True,8
+3065,133,2024-01-04,C-Check,159311.69,139.8,False,6
+3066,82,2024-07-28,B-Check,33915.58,19.8,True,2
+3067,136,2025-01-15,A-Check (Routine),3026.3,5.0,False,8
+3068,132,2025-12-13,C-Check,352800.16,164.8,True,1
+3069,104,2024-08-24,B-Check,10367.65,15.6,True,8
+3070,71,2025-01-31,C-Check,236987.54,123.4,True,6
+3071,103,2025-03-04,D-Check (Heavy),1413522.44,480.0,False,2
+3072,106,2025-07-04,Engine Overhaul,520176.8,209.7,True,6
+3073,77,2025-09-02,B-Check,16330.28,18.5,True,5
+3074,140,2023-10-24,D-Check (Heavy),1897623.64,607.7,True,1
+3075,11,2023-01-26,Engine Overhaul,1002806.78,400.4,False,6
+3076,67,2025-06-16,A-Check (Routine),5686.22,10.8,True,1
+3077,56,2023-12-24,B-Check,27323.69,20.0,False,2
+3078,97,2024-07-15,B-Check,28109.77,24.9,True,3
+3079,145,2024-06-05,Unscheduled Repair,66650.64,34.3,True,2
+3080,3,2024-03-06,A-Check (Routine),5555.67,11.9,True,4
+3081,141,2024-05-26,Unscheduled Repair,33970.78,4.2,True,1
+3082,125,2024-04-13,A-Check (Routine),6871.95,5.0,True,3
+3083,48,2025-08-04,A-Check (Routine),4969.78,5.3,True,7
+3084,30,2025-02-22,Engine Overhaul,637278.29,400.3,True,7
+3085,105,2025-07-06,A-Check (Routine),6877.9,8.8,True,5
+3086,48,2024-05-25,Unscheduled Repair,7738.87,2.2,True,1
+3087,45,2023-11-05,Unscheduled Repair,50639.64,14.2,True,5
+3088,83,2025-06-21,A-Check (Routine),5558.87,11.9,True,3
+3089,74,2024-03-11,Unscheduled Repair,12085.92,33.4,True,3
+3090,117,2024-12-19,C-Check,340644.32,214.2,False,8
+3091,15,2023-07-17,A-Check (Routine),8993.99,9.2,True,8
+3092,50,2024-05-29,A-Check (Routine),5709.18,8.0,True,4
+3093,106,2023-07-11,Engine Overhaul,427728.35,430.1,False,6
+3094,91,2025-06-21,A-Check (Routine),5231.98,9.3,True,6
+3095,142,2025-06-10,Unscheduled Repair,4282.7,6.5,True,7
+3096,44,2025-10-10,B-Check,20801.87,17.2,True,7
+3097,131,2024-10-13,C-Check,359308.23,281.2,True,6
+3098,94,2023-08-21,B-Check,23227.31,12.5,True,5
+3099,86,2023-07-31,D-Check (Heavy),2267403.83,564.5,False,8
+3100,33,2023-01-09,B-Check,30806.18,23.9,True,2
+3101,133,2024-01-10,Unscheduled Repair,22300.63,21.2,True,5
+3102,24,2023-11-07,C-Check,398152.04,181.1,False,8
+3103,9,2024-06-09,A-Check (Routine),8075.8,5.8,True,2
+3104,123,2024-10-02,A-Check (Routine),7399.04,8.9,True,2
+3105,144,2025-12-16,Unscheduled Repair,66325.02,24.7,True,3
+3106,41,2025-05-23,B-Check,11205.61,19.1,True,5
+3107,156,2025-11-22,Avionics Update,37828.99,30.7,True,1
+3108,143,2024-02-12,B-Check,30124.04,34.1,True,1
+3109,120,2025-11-02,Engine Overhaul,573208.79,581.9,False,4
+3110,12,2023-11-19,Engine Overhaul,632857.45,306.0,True,3
+3111,79,2024-03-31,A-Check (Routine),10219.52,6.3,True,6
+3112,119,2025-09-24,B-Check,14465.96,33.2,False,7
+3113,131,2023-12-26,A-Check (Routine),8157.69,9.7,True,6
+3114,157,2025-08-02,A-Check (Routine),3474.13,9.1,False,7
+3115,64,2024-08-19,A-Check (Routine),5899.77,6.1,True,8
+3116,126,2024-06-24,Engine Overhaul,503761.78,539.4,False,4
+3117,30,2024-07-31,C-Check,257169.45,227.0,True,7
+3118,5,2023-06-24,A-Check (Routine),8506.8,8.6,True,8
+3119,34,2025-06-10,A-Check (Routine),8823.71,7.2,False,7
+3120,4,2023-06-25,Unscheduled Repair,30416.08,9.7,False,8
+3121,46,2024-10-25,Unscheduled Repair,3650.87,30.5,True,2
+3122,158,2025-09-28,Avionics Update,106805.65,36.2,True,1
+3123,150,2024-10-16,A-Check (Routine),3952.6,11.3,False,1
+3124,129,2024-07-06,C-Check,406726.27,230.5,True,4
+3125,17,2025-11-26,A-Check (Routine),3132.29,4.9,True,2
+3126,158,2024-06-06,A-Check (Routine),4460.26,6.8,True,5
+3127,12,2025-09-12,A-Check (Routine),5952.92,5.9,True,1
+3128,166,2025-10-16,A-Check (Routine),3659.95,7.6,True,5
+3129,27,2025-02-05,Avionics Update,47477.74,39.4,True,6
+3130,116,2024-01-04,Unscheduled Repair,81807.15,32.3,True,4
+3131,56,2023-05-24,A-Check (Routine),4291.84,9.0,False,7
+3132,148,2025-04-15,Unscheduled Repair,31870.21,32.1,False,3
+3133,149,2023-01-11,A-Check (Routine),8332.92,11.1,True,8
+3134,77,2023-03-31,B-Check,27247.79,33.4,True,6
+3135,75,2024-12-18,Unscheduled Repair,6304.82,14.6,True,3
+3136,88,2025-03-05,C-Check,309118.93,283.5,True,7
+3137,134,2025-10-31,A-Check (Routine),4910.29,6.9,True,6
+3138,37,2024-10-04,A-Check (Routine),3349.63,9.9,True,3
+3139,90,2025-06-02,A-Check (Routine),9111.89,4.5,False,7
+3140,117,2025-07-06,A-Check (Routine),6906.04,6.3,False,5
+3141,82,2025-09-15,A-Check (Routine),9151.39,7.1,False,8
+3142,69,2023-12-25,A-Check (Routine),4660.73,11.5,True,4
+3143,145,2023-06-26,B-Check,10154.44,26.6,False,5
+3144,108,2025-12-26,A-Check (Routine),3930.78,10.2,True,3
+3145,63,2024-02-09,A-Check (Routine),10036.35,8.6,True,3
+3146,88,2024-04-20,Unscheduled Repair,74755.97,23.9,True,1
+3147,16,2024-12-01,A-Check (Routine),5123.19,11.9,True,8
+3148,1,2023-09-27,B-Check,19337.05,28.5,True,7
+3149,20,2023-02-17,Unscheduled Repair,28446.01,34.7,True,2
+3150,79,2025-03-28,Unscheduled Repair,78403.68,15.2,True,8
+3151,74,2025-08-08,Unscheduled Repair,21398.03,38.6,True,5
+3152,79,2023-05-05,A-Check (Routine),4045.63,6.4,True,8
+3153,81,2025-11-22,A-Check (Routine),8213.93,6.6,True,1
+3154,159,2024-07-14,Engine Overhaul,866358.61,292.9,False,2
+3155,150,2025-07-12,A-Check (Routine),6112.79,7.3,False,7
+3156,142,2024-04-29,Unscheduled Repair,88437.18,34.6,False,1
+3157,120,2024-04-07,D-Check (Heavy),1414645.29,814.5,True,6
+3158,130,2023-11-09,Unscheduled Repair,45915.83,44.5,True,2
+3159,63,2025-01-08,B-Check,20237.05,31.3,True,6
+3160,82,2025-04-07,A-Check (Routine),8291.78,11.8,True,5
+3161,2,2023-01-02,B-Check,27844.22,35.7,True,3
+3162,41,2023-09-05,B-Check,25717.55,25.0,True,4
+3163,115,2024-11-18,Unscheduled Repair,40248.04,5.7,False,4
+3164,53,2025-02-13,Avionics Update,99085.08,31.3,True,2
+3165,111,2025-07-18,A-Check (Routine),5050.36,4.1,False,7
+3166,148,2023-10-04,A-Check (Routine),11367.94,5.2,True,8
+3167,76,2025-01-31,A-Check (Routine),7547.83,4.2,True,4
+3168,16,2024-05-05,Unscheduled Repair,48842.06,16.8,True,4
+3169,87,2023-04-07,C-Check,288864.23,231.2,True,2
+3170,117,2025-12-03,Unscheduled Repair,56651.32,7.2,True,3
+3171,141,2023-06-19,Unscheduled Repair,37601.46,14.6,True,1
+3172,84,2024-04-28,Unscheduled Repair,13120.78,4.0,True,3
+3173,105,2024-12-28,Engine Overhaul,1071845.16,251.1,False,6
+3174,76,2025-09-04,B-Check,23880.9,31.2,True,6
+3175,85,2023-08-21,Engine Overhaul,859889.67,318.0,True,4
+3176,62,2023-09-25,B-Check,17214.66,22.0,True,1
+3177,140,2024-12-29,Engine Overhaul,961355.23,542.4,True,7
+3178,91,2025-03-03,B-Check,25776.0,32.7,True,1
+3179,24,2025-12-07,A-Check (Routine),7527.65,10.6,True,1
+3180,34,2025-08-09,A-Check (Routine),7981.48,4.5,True,1
+3181,135,2025-02-26,C-Check,152438.69,230.8,True,1
+3182,63,2023-03-30,B-Check,15298.38,32.0,True,8
+3183,135,2025-09-23,A-Check (Routine),10630.01,9.3,False,8
+3184,139,2025-06-06,Unscheduled Repair,6839.03,14.8,False,8
+3185,133,2025-11-05,A-Check (Routine),5795.13,11.5,False,3
+3186,33,2023-06-07,Engine Overhaul,840980.53,206.5,False,8
+3187,55,2025-08-04,A-Check (Routine),8455.38,11.7,True,8
+3188,51,2023-07-07,A-Check (Routine),9454.27,4.6,True,7
+3189,65,2024-08-11,C-Check,396953.58,168.8,True,8
+3190,112,2024-04-05,Avionics Update,106774.75,27.6,True,3
+3191,39,2023-11-13,Unscheduled Repair,59336.86,22.8,True,4
+3192,76,2025-12-08,A-Check (Routine),9980.64,6.7,True,1
+3193,137,2023-05-03,A-Check (Routine),11145.28,4.6,False,3
+3194,68,2024-07-14,Engine Overhaul,550592.98,505.4,True,3
+3195,51,2023-11-28,C-Check,251533.9,172.8,True,1
+3196,96,2025-09-03,A-Check (Routine),3439.23,10.1,False,6
+3197,32,2024-06-02,B-Check,27765.42,28.6,True,6
+3198,120,2024-06-17,A-Check (Routine),7782.93,9.3,True,4
+3199,35,2024-11-09,A-Check (Routine),7570.07,7.5,False,3
+3200,10,2024-01-13,Avionics Update,49123.85,78.1,True,5
+3201,46,2025-03-19,Unscheduled Repair,61631.87,42.5,True,4
+3202,66,2024-05-08,A-Check (Routine),6713.07,7.7,False,4
+3203,89,2023-11-12,C-Check,170952.47,138.0,False,8
+3204,30,2023-08-15,A-Check (Routine),8009.17,4.4,False,1
+3205,13,2025-06-28,Unscheduled Repair,45978.59,28.5,True,7
+3206,20,2024-03-21,B-Check,17127.63,23.9,True,5
+3207,33,2023-09-15,Unscheduled Repair,5538.25,40.4,False,1
+3208,1,2023-09-20,Unscheduled Repair,75075.2,15.5,True,8
+3209,129,2024-06-03,C-Check,290795.5,242.5,False,7
+3210,67,2024-07-20,D-Check (Heavy),1953131.81,820.5,True,5
+3211,125,2023-06-09,B-Check,26052.76,13.7,True,7
+3212,27,2025-12-22,Engine Overhaul,472945.08,271.9,True,7
+3213,19,2024-04-23,Unscheduled Repair,58045.56,14.0,False,7
+3214,160,2023-06-30,B-Check,27520.41,34.3,True,1
+3215,64,2025-12-16,B-Check,34631.67,13.4,True,2
+3216,122,2023-08-24,Avionics Update,100066.54,43.7,True,6
+3217,148,2023-09-25,A-Check (Routine),10802.09,7.2,False,6
+3218,54,2024-12-22,A-Check (Routine),7996.72,7.8,False,7
+3219,164,2025-08-10,B-Check,16169.99,29.4,True,2
+3220,149,2025-06-19,B-Check,29012.16,31.4,False,1
+3221,42,2023-02-08,A-Check (Routine),10640.44,7.9,False,5
+3222,28,2025-08-26,B-Check,22109.39,34.9,False,1
+3223,155,2025-07-01,Unscheduled Repair,36554.1,46.8,False,1
+3224,109,2023-06-19,A-Check (Routine),9716.82,10.8,True,5
+3225,161,2025-11-10,A-Check (Routine),4070.34,11.6,False,8
+3226,70,2024-09-07,Avionics Update,108053.71,41.9,True,3
+3227,81,2023-04-29,A-Check (Routine),4749.51,11.7,True,5
+3228,107,2024-08-20,Avionics Update,37822.68,55.5,True,5
+3229,2,2023-08-30,Unscheduled Repair,71786.36,9.1,True,5
+3230,73,2024-10-22,A-Check (Routine),11087.88,9.5,False,3
+3231,118,2025-02-18,A-Check (Routine),9635.12,9.3,True,3
+3232,141,2023-05-17,A-Check (Routine),3893.88,5.3,True,4
+3233,27,2023-05-13,B-Check,34795.94,24.3,False,3
+3234,19,2023-05-01,Unscheduled Repair,51564.08,8.9,True,7
+3235,18,2025-07-12,A-Check (Routine),3677.82,6.0,True,8
+3236,104,2023-08-10,C-Check,305022.11,238.8,True,5
+3237,50,2023-09-27,Unscheduled Repair,85062.29,16.7,False,8
+3238,87,2024-11-05,A-Check (Routine),10705.85,10.0,False,6
+3239,80,2024-08-23,A-Check (Routine),9893.27,11.9,True,6
+3240,68,2023-06-08,A-Check (Routine),4008.58,7.2,True,7
+3241,62,2023-06-09,A-Check (Routine),5161.31,11.3,True,3
+3242,53,2023-01-30,B-Check,27919.61,28.4,True,6
+3243,94,2024-06-17,C-Check,399954.21,294.4,True,2
+3244,140,2023-07-27,Unscheduled Repair,81635.89,42.6,True,5
+3245,36,2023-10-13,A-Check (Routine),9295.17,7.0,True,5
+3246,37,2023-10-30,Unscheduled Repair,3593.41,22.6,True,2
+3247,133,2025-12-16,B-Check,32067.41,28.5,True,8
+3248,100,2025-10-26,C-Check,237616.12,138.2,True,7
+3249,21,2025-10-28,A-Check (Routine),9862.22,6.5,True,2
+3250,151,2023-07-30,A-Check (Routine),8095.95,9.1,True,2
+3251,124,2025-05-01,Avionics Update,46478.35,28.1,True,3
+3252,56,2023-01-17,B-Check,32165.38,24.5,True,6
+3253,105,2024-04-18,A-Check (Routine),5776.02,11.7,True,2
+3254,159,2023-09-15,A-Check (Routine),6716.56,6.2,True,1
+3255,164,2023-10-04,B-Check,24135.9,24.3,False,5
+3256,85,2025-04-17,B-Check,30912.75,32.6,True,6
+3257,43,2025-12-11,Unscheduled Repair,77841.68,13.8,True,6
+3258,141,2024-10-30,A-Check (Routine),11358.5,7.2,True,6
+3259,13,2025-12-22,D-Check (Heavy),2228471.32,645.3,True,3
+3260,41,2023-05-02,B-Check,10915.74,20.2,True,4
+3261,29,2024-10-16,B-Check,34066.39,19.6,True,7
+3262,3,2023-06-12,A-Check (Routine),9819.1,6.5,True,5
+3263,166,2025-04-20,Engine Overhaul,687227.43,430.2,False,2
+3264,105,2023-08-07,A-Check (Routine),11893.89,11.0,False,6
+3265,128,2023-07-15,B-Check,11413.79,26.8,True,7
+3266,107,2023-06-29,Unscheduled Repair,36399.09,38.2,True,8
+3267,146,2023-02-06,C-Check,277264.07,225.2,False,6
+3268,153,2025-12-24,Unscheduled Repair,84732.01,11.5,True,8
+3269,69,2024-03-20,Unscheduled Repair,45905.6,13.2,True,3
+3270,23,2023-05-11,A-Check (Routine),7920.64,9.2,False,6
+3271,133,2024-01-07,Engine Overhaul,891381.14,455.4,True,1
+3272,126,2023-09-08,B-Check,25618.65,14.5,False,7
+3273,73,2025-04-03,Unscheduled Repair,5856.64,20.2,True,8
+3274,62,2025-11-30,Engine Overhaul,565279.12,211.8,True,1
+3275,21,2023-07-18,B-Check,21418.65,17.9,True,7
+3276,27,2023-04-14,A-Check (Routine),8608.9,4.4,True,2
+3277,148,2025-11-23,D-Check (Heavy),2453645.23,431.1,False,7
+3278,132,2024-07-15,A-Check (Routine),7038.1,6.8,True,7
+3279,56,2023-05-16,Unscheduled Repair,35859.51,36.5,True,3
+3280,141,2024-08-07,A-Check (Routine),7071.55,6.8,True,8
+3281,88,2025-05-11,A-Check (Routine),7955.97,9.3,True,1
+3282,44,2023-08-01,B-Check,15154.34,29.9,True,8
+3283,50,2025-07-20,A-Check (Routine),8106.42,4.3,True,5
+3284,86,2024-06-11,Unscheduled Repair,74502.26,36.3,True,6
+3285,43,2025-05-12,A-Check (Routine),11734.86,7.6,True,8
+3286,166,2024-09-30,Unscheduled Repair,19821.2,13.2,True,7
+3287,166,2023-03-21,B-Check,21202.27,27.9,True,5
+3288,132,2023-01-23,A-Check (Routine),7150.25,6.8,False,4
+3289,159,2023-11-16,Unscheduled Repair,12571.62,18.7,True,4
+3290,19,2025-05-25,B-Check,25019.75,27.9,False,6
+3291,105,2025-10-04,Unscheduled Repair,15511.25,27.7,False,6
+3292,129,2023-09-13,Unscheduled Repair,50680.7,40.8,True,8
+3293,25,2025-12-04,A-Check (Routine),8271.28,7.7,True,4
+3294,34,2025-05-05,Unscheduled Repair,50383.08,8.3,True,6
+3295,152,2023-01-07,Unscheduled Repair,14369.3,21.0,True,4
+3296,58,2025-06-06,Unscheduled Repair,28751.86,9.3,True,6
+3297,139,2025-07-07,Avionics Update,63800.55,78.3,False,4
+3298,46,2023-10-17,A-Check (Routine),6250.44,11.2,True,2
+3299,62,2024-03-26,A-Check (Routine),8768.02,11.4,True,1
+3300,28,2024-05-17,Avionics Update,24679.66,27.3,True,5
+3301,138,2023-02-17,C-Check,439285.98,181.1,True,1
+3302,36,2024-10-13,B-Check,27892.14,25.2,True,1
+3303,139,2024-10-05,B-Check,25572.19,21.1,True,6
+3304,8,2023-09-09,Engine Overhaul,993579.11,477.8,True,6
+3305,151,2024-07-15,A-Check (Routine),11181.92,10.0,True,1
+3306,144,2025-08-17,C-Check,254331.36,232.6,False,3
+3307,75,2025-01-22,C-Check,404507.13,190.0,True,7
+3308,29,2023-04-25,B-Check,30157.84,23.8,True,2
+3309,36,2023-02-27,A-Check (Routine),8143.51,11.4,True,2
+3310,153,2023-06-18,A-Check (Routine),6146.0,8.5,True,1
+3311,138,2023-09-25,A-Check (Routine),5854.83,4.9,True,1
+3312,78,2025-06-30,B-Check,11285.28,19.8,True,2
+3313,147,2025-10-03,A-Check (Routine),7729.12,9.0,True,5
+3314,54,2023-06-20,Engine Overhaul,952343.2,592.7,True,2
+3315,130,2025-07-18,B-Check,22009.98,17.9,True,7
+3316,56,2023-06-08,A-Check (Routine),5640.28,6.6,True,8
+3317,56,2024-03-16,B-Check,11174.41,27.6,False,7
+3318,71,2024-10-16,C-Check,188143.54,155.6,True,8
+3319,100,2024-09-10,Unscheduled Repair,58328.65,21.3,True,4
+3320,83,2023-05-31,A-Check (Routine),3926.21,9.7,True,4
+3321,165,2025-08-03,A-Check (Routine),3586.25,7.4,False,6
+3322,16,2023-01-15,Engine Overhaul,581424.05,390.6,True,2
+3323,70,2025-02-15,C-Check,217337.08,156.2,True,7
+3324,47,2023-10-15,A-Check (Routine),9012.89,5.8,True,6
+3325,138,2025-05-28,B-Check,15472.43,33.1,True,7
+3326,61,2023-04-09,B-Check,25691.86,16.2,True,7
+3327,162,2025-03-19,A-Check (Routine),4805.97,8.8,True,7
+3328,60,2025-10-05,B-Check,34645.69,33.6,True,3
+3329,153,2025-01-20,Unscheduled Repair,8450.4,23.4,True,7
+3330,12,2025-01-18,Unscheduled Repair,86156.32,35.8,True,6
+3331,97,2023-03-12,Avionics Update,56365.25,60.5,False,1
+3332,74,2025-02-25,A-Check (Routine),9212.46,9.6,True,5
+3333,78,2023-06-03,B-Check,23745.55,29.9,True,3
+3334,157,2025-08-13,Unscheduled Repair,63138.83,24.5,True,8
+3335,97,2025-03-14,C-Check,326339.93,232.6,False,6
+3336,6,2023-11-12,Engine Overhaul,533024.86,331.6,True,6
+3337,127,2025-04-04,A-Check (Routine),4712.2,9.0,True,3
+3338,159,2024-11-16,Avionics Update,78409.55,62.9,True,1
+3339,125,2025-05-01,D-Check (Heavy),2372453.37,898.5,True,7
+3340,39,2025-08-01,B-Check,15939.08,12.7,False,8
+3341,161,2025-11-15,C-Check,354335.32,162.1,True,2
+3342,91,2024-01-31,Unscheduled Repair,28786.73,28.9,True,7
+3343,83,2023-01-31,A-Check (Routine),5912.24,7.0,True,4
+3344,165,2024-04-14,D-Check (Heavy),1966766.39,560.1,True,4
+3345,40,2023-03-04,B-Check,16514.98,34.9,False,2
+3346,95,2024-07-09,A-Check (Routine),11596.08,6.2,False,2
+3347,57,2024-07-21,A-Check (Routine),9356.69,4.6,True,1
+3348,86,2025-04-15,B-Check,16833.77,20.2,False,4
+3349,35,2023-11-12,Avionics Update,108662.75,26.4,True,3
+3350,154,2023-03-13,Engine Overhaul,987208.77,497.7,True,2
+3351,164,2025-02-17,B-Check,22726.27,27.2,False,2
+3352,158,2024-07-28,A-Check (Routine),11717.57,8.2,False,6
+3353,164,2025-09-17,A-Check (Routine),10452.61,11.4,True,1
+3354,42,2025-10-25,A-Check (Routine),10596.29,6.8,True,7
+3355,101,2024-01-01,B-Check,30954.12,35.8,True,8
+3356,70,2024-09-03,Engine Overhaul,529335.15,298.5,False,1
+3357,74,2023-05-29,Unscheduled Repair,19233.26,46.1,True,3
+3358,107,2024-03-02,Avionics Update,29330.06,57.9,True,7
+3359,23,2025-10-11,Engine Overhaul,853575.48,234.9,True,3
+3360,121,2023-07-27,A-Check (Routine),9361.0,10.6,True,6
+3361,101,2025-09-06,A-Check (Routine),7545.92,4.6,True,6
+3362,84,2023-12-14,A-Check (Routine),8972.21,11.8,True,4
+3363,9,2025-10-08,A-Check (Routine),5142.15,9.5,True,7
+3364,151,2025-11-30,A-Check (Routine),4628.5,6.0,True,8
+3365,27,2025-01-12,B-Check,20913.99,15.5,False,5
+3366,112,2023-03-26,B-Check,26635.76,34.6,True,1
+3367,101,2025-11-27,Unscheduled Repair,32893.32,40.7,True,4
+3368,32,2025-04-10,A-Check (Routine),5851.03,10.6,False,5
+3369,163,2024-08-04,A-Check (Routine),9490.48,10.3,True,2
+3370,22,2025-11-01,B-Check,17990.36,13.5,False,6
+3371,120,2023-12-27,Unscheduled Repair,54480.85,5.5,True,4
+3372,116,2024-09-11,A-Check (Routine),3678.39,7.8,True,7
+3373,63,2025-05-27,B-Check,10231.66,29.8,False,1
+3374,160,2025-04-17,B-Check,33101.27,30.0,True,7
+3375,166,2023-07-19,B-Check,30152.05,12.8,True,2
+3376,51,2025-12-03,B-Check,33770.56,30.0,True,4
+3377,65,2025-04-02,Engine Overhaul,1147887.15,480.5,True,4
+3378,3,2023-12-07,B-Check,24925.35,22.8,True,7
+3379,54,2023-11-09,A-Check (Routine),4454.32,8.1,True,8
+3380,32,2024-07-23,A-Check (Routine),8554.0,9.3,True,1
+3381,66,2025-12-05,Unscheduled Repair,60481.73,25.9,False,3
+3382,81,2025-01-10,A-Check (Routine),5794.34,5.7,True,1
+3383,16,2023-06-05,Avionics Update,23344.16,34.2,True,1
+3384,50,2025-04-10,Unscheduled Repair,21133.19,31.2,False,5
+3385,56,2025-04-18,A-Check (Routine),6681.0,5.9,False,7
+3386,86,2025-01-04,A-Check (Routine),9312.4,5.8,False,1
+3387,152,2025-07-03,C-Check,270981.61,179.0,True,8
+3388,92,2024-06-05,B-Check,26517.39,17.7,True,2
+3389,31,2023-04-07,A-Check (Routine),3962.05,4.8,True,2
+3390,97,2025-11-30,A-Check (Routine),6792.63,6.2,True,1
+3391,35,2025-07-29,A-Check (Routine),5497.86,7.2,False,3
+3392,129,2024-09-22,B-Check,21358.19,25.1,True,8
+3393,7,2024-10-28,A-Check (Routine),5476.37,8.3,True,1
+3394,21,2023-11-13,D-Check (Heavy),1138732.3,444.0,True,8
+3395,131,2025-08-21,Unscheduled Repair,50444.14,15.1,True,2
+3396,166,2023-08-12,C-Check,279916.02,196.4,True,7
+3397,50,2025-06-22,A-Check (Routine),6467.42,8.1,True,5
+3398,98,2025-02-21,D-Check (Heavy),1015547.02,482.7,True,5
+3399,2,2024-05-01,Engine Overhaul,538699.01,280.3,True,6
+3400,128,2024-03-25,A-Check (Routine),11495.7,7.1,True,5

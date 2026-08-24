@@ -1,0 +1,31 @@
+airport_id,airport_code,city,state,latitude,longitude,timezone,hub_type,airport_name
+1,ATL,Atlanta,GA,33.6407,-84.4277,America/New_York,Hub,Atlanta International Airport
+2,DTW,Detroit,MI,42.2124,-83.3534,America/Detroit,Hub,Detroit International Airport
+3,MSP,Minneapolis,MN,44.8848,-93.2223,America/Chicago,Hub,Minneapolis International Airport
+4,JFK,New York,NY,40.6413,-73.7781,America/New_York,Hub,New York International Airport
+5,LAX,Los Angeles,CA,33.9416,-118.4085,America/Los_Angeles,Hub,Los Angeles International Airport
+6,SEA,Seattle,WA,47.4502,-122.3088,America/Los_Angeles,Hub,Seattle International Airport
+7,SLC,Salt Lake City,UT,40.7899,-111.9791,America/Denver,Hub,Salt Lake City International Airport
+8,LGA,New York,NY,40.7769,-73.874,America/New_York,Focus City,New York International Airport
+9,BOS,Boston,MA,42.3656,-71.0096,America/New_York,Focus City,Boston International Airport
+10,RDU,Raleigh,NC,35.8776,-78.7875,America/New_York,Focus City,Raleigh International Airport
+11,ORD,Chicago,IL,41.9742,-87.9073,America/Chicago,Spoke,Chicago International Airport
+12,SFO,San Francisco,CA,37.6213,-122.379,America/Los_Angeles,Spoke,San Francisco International Airport
+13,DFW,Dallas,TX,32.8998,-97.0403,America/Chicago,Spoke,Dallas International Airport
+14,MIA,Miami,FL,25.7959,-80.287,America/New_York,Spoke,Miami International Airport
+15,FLL,Fort Lauderdale,FL,26.0726,-80.1527,America/New_York,Spoke,Fort Lauderdale International Airport
+16,LAS,Las Vegas,NV,36.084,-115.1537,America/Los_Angeles,Spoke,Las Vegas International Airport
+17,PHX,Phoenix,AZ,33.4342,-112.0116,America/Phoenix,Spoke,Phoenix International Airport
+18,DEN,Denver,CO,39.8561,-104.6737,America/Denver,Spoke,Denver International Airport
+19,IAH,Houston,TX,29.9902,-95.3368,America/Chicago,Spoke,Houston International Airport
+20,CLT,Charlotte,NC,35.2144,-80.9473,America/New_York,Spoke,Charlotte International Airport
+21,PHL,Philadelphia,PA,39.8744,-75.2424,America/New_York,Spoke,Philadelphia International Airport
+22,DCA,Washington,DC,38.8512,-77.0402,America/New_York,Spoke,Washington International Airport
+23,IAD,Washington,DC,38.9531,-77.4565,America/New_York,Spoke,Washington International Airport
+24,TPA,Tampa,FL,27.9755,-82.5332,America/New_York,Spoke,Tampa International Airport
+25,MCO,Orlando,FL,28.4312,-81.3081,America/New_York,Spoke,Orlando International Airport
+26,AUS,Austin,TX,30.1975,-97.6664,America/Chicago,Spoke,Austin International Airport
+27,SAN,San Diego,CA,32.7338,-117.1933,America/Los_Angeles,Spoke,San Diego International Airport
+28,PDX,Portland,OR,45.5898,-122.5951,America/Los_Angeles,Spoke,Portland International Airport
+29,HNL,Honolulu,HI,21.3245,-157.9251,Pacific/Honolulu,Spoke,Honolulu International Airport
+30,CVG,Cincinnati,KY,39.0489,-84.6678,America/New_York,Spoke,Cincinnati International Airport

@@ -1,0 +1,6 @@
+cancellation_reason_id,cancellation_reason
+1,Weather
+2,Mechanical Issue
+3,Crew Unavailability
+4,Air Traffic Control
+5,Security

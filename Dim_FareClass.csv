@@ -1,0 +1,6 @@
+fare_class_id,fare_class,cabin,refundable,sort_order
+1,Basic Economy,Economy,False,1
+2,Main Cabin,Economy,False,2
+3,Comfort+,Premium Economy,True,3
+4,First Class,First,True,4
+5,Delta One,Business/First,True,5
